@@ -1,3 +1,8 @@
+
+
+#Google Project Management – Project Initiation: Starting a Successful Project
+
+```diagram
 Project Initiation: Starting a Successful Project
 │
 ├─ 1. Tổng quan khóa học ⭐
@@ -105,7 +110,11 @@ Project Initiation: Starting a Successful Project
     ├─ Dùng tools (RACI, SMART, Charter) để rõ ràng hóa
     └─ Là nền tảng cho toàn bộ project lifecycle
 
+```
 
+#Google Project Management – Project Initiation: Starting a Successful Project - Helpful Resources to Get Started
+
+```diagram
 Helpful Resources to Get Started
 │
 ├─ 1. Tổng quan ⭐
@@ -211,7 +220,12 @@ Helpful Resources to Get Started
     ├─ Certificate cần hoàn thành toàn bộ 7 courses
     ├─ PM cần tự học thêm từ PMI, Scrum, PRINCE2
     └─ Kỹ năng học tập quan trọng không kém kỹ năng PM
-	
+
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - Performing a Cost-Benefit Analysis
+
+```diagram	
 Performing a Cost-Benefit Analysis
 │
 ├─ 1. Tổng quan ⭐
@@ -314,6 +328,11 @@ Performing a Cost-Benefit Analysis
     ├─ ROI là công cụ quan trọng để đo hiệu quả
     └─ ROI cao = dự án có giá trị kinh tế tốt
 	
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - SMART Goals: Making Goals Meaningful
+
+```diagram	
 SMART Goals: Making Goals Meaningful
 │
 ├─ 1. Tổng quan ⭐
@@ -376,7 +395,12 @@ SMART Goals: Making Goals Meaningful
     ├─ SMART goals giúp biến mục tiêu mơ hồ thành mục tiêu rõ ràng
     ├─ Giúp PM theo dõi tiến độ & đánh giá thành công
     └─ Là công cụ quan trọng để quản lý phạm vi & kỳ vọng dự án
-	
+
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - Activity Exemplar: Define and Determine SMART Project Goals
+
+```diagram		
 Activity Exemplar: Define and Determine SMART Project Goals
 │
 ├─ 1. Tổng quan ⭐
@@ -450,7 +474,12 @@ Activity Exemplar: Define and Determine SMART Project Goals
     ├─ SMART giúp biến mục tiêu thành KPI rõ ràng
     ├─ Giúp PM dễ theo dõi & báo cáo tiến độ
     └─ Tăng khả năng thành công của dự án
-	
+
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - Creating OKRs for Your Project
+
+```diagram		
 Creating OKRs for Your Project
 │
 ├─ 1. Tổng quan ⭐
@@ -549,6 +578,11 @@ Creating OKRs for Your Project
     │   └─ Đồng bộ team
     └─ Là công cụ quan trọng trong project planning
 
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - Gathering Information to Define Scope
+
+```diagram	
 Gathering Information to Define Scope
 │
 ├─ 1. Tổng quan ⭐
@@ -625,7 +659,12 @@ Gathering Information to Define Scope
     ├─ PM phải hỏi rõ: Who / What / When / Where / Why / How
     ├─ Thiếu thông tin → rủi ro cao (cost, delay, rework)
     └─ Xác định scope tốt = tăng khả năng thành công dự án
-	
+
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - Strategies for Controlling Scope Creep
+
+```diagram		
 Strategies for Controlling Scope Creep
 │
 ├─ 1. Tổng quan ⭐
@@ -689,6 +728,11 @@ Strategies for Controlling Scope Creep
     │   └─ Change control chặt chẽ
     └─ PM phải bảo vệ scope để đảm bảo dự án thành công
 	
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - A Project Manager’s Role in Change Management
+
+```diagram		
 A Project Manager’s Role in Change Management
 │
 ├─ 1. Tổng quan ⭐
@@ -756,6 +800,11 @@ A Project Manager’s Role in Change Management
 │   ├─ PM cần kết hợp project + change management
 │   ├─ Giao tiếp + empathy + process rõ ràng = chìa khóa thành công
 
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - Tracking and Communicating Success Criteria
+
+```diagram	
 Tracking and Communicating Success Criteria
 │
 ├─ 1. Tổng quan ⭐
@@ -826,6 +875,11 @@ Tracking and Communicating Success Criteria
 │   ├─ Alignment giúp tránh scope creep & kỳ vọng sai lệch
 │   └─ Launch chưa phải là thành công → phải “land”
 
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - Using OKRs to Evaluate Progress
+
+```diagram	
 Using OKRs to Evaluate Progress
 │
 ├─ 1. Tổng quan ⭐
@@ -897,6 +951,11 @@ Using OKRs to Evaluate Progress
 │   ├─ Scoring giúp đánh giá hiệu quả thực tế
 │   └─ Regular check-ins = chìa khóa để đảm bảo thành công
 
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - Review: The Building Blocks of a Project Dream Team
+
+```diagram	
 Review: The Building Blocks of a Project Dream Team
 │
 ├─ 1. Tổng quan ⭐
@@ -985,6 +1044,11 @@ Review: The Building Blocks of a Project Dream Team
 │   │   └─ Motivation của từng thành viên
 │   └─ Thành công = collaboration + leadership hiệu quả
 
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - Essential Project Roles
+
+```diagram	
 Essential Project Roles
 │
 ├─ 1. Tổng quan ⭐
@@ -1085,6 +1149,11 @@ Essential Project Roles
 │   ├─ Stakeholders = người bị ảnh hưởng bởi dự án
 │   └─ Giao tiếp + rõ vai trò = chìa khóa thành công
 
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - PROJECT INITIATION: STARTING A SUCCESSFUL PROJECT
+
+```diagram	
 #MINDMAP – PROJECT INITIATION (Google Project Management Course 2)
 PROJECT INITIATION: STARTING A SUCCESSFUL PROJECT
 │
@@ -1202,7 +1271,11 @@ PROJECT INITIATION: STARTING A SUCCESSFUL PROJECT
     ├── Nếu làm sai → project fail
     └── Nếu làm tốt → execution dễ hơn rất nhiều
 	
-	
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - STAKEHOLDER ANALYSIS & POWER GRID
+
+```diagram		
 STAKEHOLDER ANALYSIS & POWER GRID
 │
 ├── 1. MỤC TIÊU
@@ -1275,6 +1348,11 @@ STAKEHOLDER ANALYSIS & POWER GRID
     ├── Giao tiếp đúng người → tiết kiệm thời gian + tăng buy-in
     └── PM giỏi = biết ai cần “manage closely” vs “monitor”
 	
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - RACI CHART – PHÂN CÔNG TRÁCH NHIỆM TRONG PROJECT
+
+```diagram	
 RACI CHART – PHÂN CÔNG TRÁCH NHIỆM TRONG PROJECT
 │
 ├── 1. MỤC ĐÍCH
@@ -1351,6 +1429,11 @@ RACI CHART – PHÂN CÔNG TRÁCH NHIỆM TRONG PROJECT
     ├── Là công cụ quan trọng trong Project Initiation
     └── Setup tốt từ đầu = đỡ lỗi về sau
 
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - RACI CHART (Responsibility Assignment Matrix)
+
+```diagram
 RACI CHART (Responsibility Assignment Matrix)
 │
 ├── 1. PURPOSE (Mục đích)
@@ -1412,7 +1495,12 @@ RACI CHART (Responsibility Assignment Matrix)
     ├── Many stakeholders → YES
     ├── Small/simple project → MAYBE NOT needed
     └── Still useful for planning clarity
-	
+
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - RACI EXAMPLE (Plant Pals Project)
+
+```diagram	
 RACI EXAMPLE (Plant Pals Project)
 │
 ├── 1. TASK 1: Create Marketing Plan
@@ -1474,6 +1562,11 @@ RACI EXAMPLE (Plant Pals Project)
     └── I = Informed
         └── Toàn bộ team còn lại
 		
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - PROJECT RESOURCES (Quản lý nguồn lực dự án)
+
+```diagram	
 PROJECT RESOURCES (Quản lý nguồn lực dự án)
 │
 ├── 1. DEFINITION (Định nghĩa)
@@ -1547,6 +1640,11 @@ PROJECT RESOURCES (Quản lý nguồn lực dự án)
     ├── Validate assumptions with team
     └── Continuously adjust resource plan
 	
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - PROJECT CHARTER (Tài liệu khởi tạo dự án)
+
+```diagram	
 PROJECT CHARTER (Tài liệu khởi tạo dự án)
 │
 ├── 1. DEFINITION (Định nghĩa)
@@ -1609,7 +1707,12 @@ PROJECT CHARTER (Tài liệu khởi tạo dự án)
     ├── Project Charter = “source of truth”
     ├── Không cố định → flexible document
     └── Giúp đảm bảo project đi đúng hướng
-	
+
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - INTRODUCING NEW TOOLS (Triển khai công cụ mới)
+
+```diagram	
 INTRODUCING NEW TOOLS (Triển khai công cụ mới)
 │
 ├── 1. CONTEXT (Bối cảnh)
@@ -1673,6 +1776,11 @@ INTRODUCING NEW TOOLS (Triển khai công cụ mới)
     ├── Communication + training = success factors
     └── Good rollout = higher adoption + productivity
 	
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - Google Sheets for Project Management
+
+```diagram	
 Google Sheets for Project Management
 │
 ├── 🤝 Collaboration (Hợp tác)
@@ -1729,6 +1837,11 @@ Google Sheets for Project Management
     ├── Gantt Chart
     └── Event Marketing Timeline
 	
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - Project Management Tools
+
+```diagram	
 Project Management Tools
 │
 ├── 📊 Spreadsheets (Google Sheets / Excel)
@@ -1819,6 +1932,11 @@ Project Management Tools
     ├── Team collaboration (chat, comment, file share)
     └── Data visualization (charts, graphs, pivot tables)
 	
+```
+
+#Google Project Management – Project Initiation: Starting a Successful Project - Project Management Tools
+
+```diagram
 Project Management Tools
 │
 ├── 📊 Spreadsheets (Google Sheets / Microsoft Excel)
@@ -1899,3 +2017,4 @@ Project Management Tools
     │
     └── Integration (tích hợp hệ thống)
         └── Google Drive, Slack, GitHub, etc.
+```

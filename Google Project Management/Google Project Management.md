@@ -1,3 +1,6 @@
+#Google Project Management
+
+```diagram
 Google Project Management – Course Overview
 │
 ├─ 1. Mục tiêu khóa học
@@ -126,7 +129,10 @@ Google Project Management – Program Introduction (Amanda - Grow with Google)
     ├─ Đây không chỉ là khóa học → là career pathway
     ├─ Có hệ sinh thái hỗ trợ (AI + community + coaching)
     └─ Thành công phụ thuộc nhiều vào consistency
-	
+```
+
+#Google Project Management – Career Path & Job Roles
+```diagram
 Google Project Management – Career Path & Job Roles
 │
 ├─ 1. Tổng quan nghề nghiệp
@@ -265,7 +271,11 @@ Google Project Management – Career Path & Job Roles
     │   └─ Entry → PM → Program → Portfolio ⭐
     ├─ Kỹ năng có thể chuyển đổi (Transferable skills) ⭐
     └─ Không cần đúng title vẫn có thể là PM role
-	
+```
+
+#Google Project Management – Job Search Strategy
+
+```diagram
 Google Project Management – Job Search Strategy
 │
 ├─ 1. Tổng quan tìm việc
@@ -363,8 +373,11 @@ Google Project Management – Job Search Strategy
     ├─ Có thể apply nhiều role khác nhau
     ├─ Kinh nghiệm cũ có thể chuyển đổi (Transferable skills) ⭐
     └─ Networking giúp mở rộng cơ hội ⭐
-	
-	
+
+```	
+#Google Project Management – Real Experience & Career Advice
+
+```diagram	
 Google Project Management – Real Experience & Career Advice
 │
 ├─ 1. Vai trò tại Google
@@ -460,7 +473,12 @@ Google Project Management – Real Experience & Career Advice
     ├─ Practice → Mastery ⭐
     ├─ Networking mở ra cơ hội ⭐
     └─ Thành công = Hành động + Học hỏi liên tục
-	
+
+
+```	
+#Google Project Management – Module 1 Summary
+
+```diagram
 Google Project Management – Module 1 Summary
 │
 ├─ 1. Tổng kết hành trình ⭐
@@ -637,7 +655,11 @@ Google Project Management – How PMs Add Value
     ├─ Communication = nền tảng thành công ⭐
     ├─ PM nhìn “big picture” ⭐
     └─ Remove blockers = tăng tốc dự án 🚀
-	
+
+```	
+#Google Project Management – Roles & Responsibilities
+
+```diagram	
 Google Project Management – Roles & Responsibilities
 │
 ├─ 1. Tổng quan vai trò PM ⭐
@@ -729,7 +751,11 @@ Google Project Management – Roles & Responsibilities
     ├─ Task tracking = công cụ quan trọng nhất ⭐
     ├─ Communication quyết định thành công ⭐
     └─ PM giúp dự án đi đúng hướng + đúng thời gian 🚀
-	
+
+```	
+#Google Project Management – Interpersonal Skills Responsibilities
+
+```diagram		
 Google Project Management – Interpersonal Skills Responsibilities
 │
 ├─ 1. Tổng quan vai trò PM ⭐
@@ -835,6 +861,10 @@ Google Project Management – Interpersonal Skills Responsibilities
     ├─ PM = người dẫn dắt con người, không chỉ task ⭐
     └─ Trust + Communication = thành công dự án 🚀
 
+```	
+#Google Project Management – Interpersonal Skills Responsibilities
+
+```diagram
 #Google Project Management – Working with Cross-functional Teams	
 Working with Cross-functional Teams
 │
@@ -930,6 +960,10 @@ Working with Cross-functional Teams
     ├─ PM = người kết nối tất cả bộ phận ⭐
     └─ Communication = yếu tố sống còn 🚀
 
+```	
+#Google Project Management – Core Skill Sets of a Project Manager
+
+```diagram
 #Google Project Management – Core Skill Sets of a Project Manager
 Core Skill Sets of a Project Manager
 │
@@ -1023,8 +1057,12 @@ Core Skill Sets of a Project Manager
     │   └─ Tổ chức toàn bộ hệ thống
     │
     └─ Thành công = Communication + Organization + Adaptability 🚀
-	
+
+```	
 #Google Project Management – Flexibility & Handling Ambiguity
+
+```diagram
+
 
 Flexibility and Handling Ambiguity
 │
@@ -1115,7 +1153,11 @@ Flexibility and Handling Ambiguity
     │
     └─ PM giỏi = thích nghi nhanh + dẫn dắt tốt 🚀
 	
+```	
 #Google Project Management – Introduction to AI for Project Management
+
+```diagram
+
 Introduction to AI for Project Management
 │
 ├─ 1. Tổng quan AI trong Project Management ⭐
@@ -1200,8 +1242,10 @@ Introduction to AI for Project Management
     │
     └─ PM hiện đại = Human + AI 🚀
 	
+```	
 #Google Project Management – Common Myths about Project Managers
 
+```diagram
 Common Myths about Project Managers
 │
 ├─ 1. Tổng quan ⭐
@@ -1298,6 +1342,10 @@ Common Myths about Project Managers
     │
     └─ PM = người “ghép toàn bộ dự án lại với nhau” 🚀
 
+```	
+#Google Project Management – Case Study: The Significance of Each Project Phase
+
+```diagram
 Case Study: The Significance of Each Project Phase
 │
 ├─ 1. Tổng quan ⭐
@@ -1390,7 +1438,10 @@ Case Study: The Significance of Each Project Phase
     │   └─ Align với stakeholders & team
     └─ Project success = đúng quy trình + đúng giao tiếp + đúng planning	
 	
-	
+```	
+#Google Project Management – Summary of the Project Phases
+
+```diagram
 Summary of the Project Phases
 │
 ├─ 1. Tổng quan ⭐
@@ -1481,6 +1532,10 @@ Summary of the Project Phases
     └─ Final insight:
         └─ Không có phase nào được bỏ qua ⭐
 		
+```	
+#Google Project Management – Waterfall vs Agile Project Management Methodologies
+
+```diagram
 Waterfall vs Agile Project Management Methodologies
 │
 ├─ 1. Tổng quan ⭐
@@ -1584,6 +1639,10 @@ Waterfall vs Agile Project Management Methodologies
     ├─ Agile = mindset, không chỉ là quy trình
     └─ PM giỏi = biết chọn đúng phương pháp cho từng dự án ⭐
 	
+```	
+#Google Project Management – Comparing Waterfall and Agile Approaches
+
+```diagram
 Comparing Waterfall and Agile Approaches
 │
 ├─ 1. Tổng quan ⭐
@@ -1678,7 +1737,11 @@ Comparing Waterfall and Agile Approaches
     ├─ Agile = linh hoạt, thích ứng nhanh
     ├─ Không có cái nào “tốt hơn tuyệt đối”
     └─ PM giỏi là người chọn đúng phương pháp cho từng dự án
-	
+
+```	
+#Google Project Management – Lean and Six Sigma Methodologies
+
+```diagram	
 Lean and Six Sigma Methodologies
 │
 ├─ 1. Tổng quan ⭐
@@ -1805,6 +1868,10 @@ Lean and Six Sigma Methodologies
     ├─ Kanban + 5S = công cụ Lean quan trọng
     └─ Kết hợp = Lean Six Sigma → hiệu quả tối đa
 	
+```	
+#Google Project Management – Common Project Management Approaches and How to Select One
+
+```diagram	
 Common Project Management Approaches and How to Select One
 │
 ├─ 1. Tổng quan ⭐
@@ -1972,7 +2039,11 @@ Common Project Management Approaches and How to Select One
     ├─ Waterfall = ổn định
     ├─ Lean = tối ưu
     └─ Six Sigma = chất lượng cao
-	
+
+```	
+#Google Project Management – A Project Manager’s Role within Different Organizational Structures
+
+```diagram	
 A Project Manager’s Role within Different Organizational Structures
 │
 ├─ 1. Tổng quan ⭐
@@ -2088,6 +2159,10 @@ A Project Manager’s Role within Different Organizational Structures
     ├─ PM giỏi phải biết thích nghi với từng cấu trúc
     └─ Hiểu structure giúp quản lý stakeholder tốt hơn
 	
+```	
+#Google Project Management – The Role of a Project Management Office (PMO)
+
+```diagram	
 The Role of a Project Management Office (PMO)
 │
 ├─ 1. Tổng quan ⭐
@@ -2234,6 +2309,10 @@ Learning about an Organization’s Culture
     ├─ Quan sát + hỏi + lắng nghe là cách tốt nhất
     └─ Hiểu văn hóa = tăng khả năng thành công dự án 🚀
 	
+```	
+#Google Project Management – Case Study: Balancing Company Culture and Strategic Goals
+
+```diagram	
 Case Study: Balancing Company Culture and Strategic Goals
 │
 ├─ 1. Tổng quan ⭐
@@ -2311,7 +2390,10 @@ Case Study: Balancing Company Culture and Strategic Goals
     │   └─ Cân bằng culture + mục tiêu dự án
     └─ Hiểu culture tốt → tăng cơ hội thành công dự án 🚀
 	
-	
+```	
+#Google Project Management – A Project Manager’s Role in Change Management
+
+```diagram	
 A Project Manager’s Role in Change Management
 │
 ├─ 1. Tổng quan ⭐
@@ -2393,7 +2475,11 @@ A Project Manager’s Role in Change Management
     ├─ PM cần tích hợp change vào toàn bộ dự án
     ├─ Giao tiếp + empathy + planning là cốt lõi
     └─ Project chỉ thành công khi người dùng thật sự “accept & use” 🚀
-	
+
+```	
+#Google Project Management – Corporate and Project Governance
+
+```diagram		
 Corporate and Project Governance
 │
 ├─ 1. Tổng quan ⭐

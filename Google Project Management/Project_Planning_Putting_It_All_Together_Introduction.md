@@ -3525,3 +3525,4 @@ Project Planning – Module: Organizing Communication and Documentation
     ├── Must adapt message to audience and context
     ├── Communication is continuous (not one-time)
     └── Feedback loop is essential for improvement
+```

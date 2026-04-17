@@ -48,14 +48,14 @@ PMP/
 # 🧭 MASTER NAVIGATION
 
 👉 Central Brain  
-📌 [[0_MASTER_MINDMAP/PMP_MASTER_MINDMAP.md|Open PMP Control Center]]
+📌 [Open PMP Control Center](0_MASTER_MINDMAP/PMP_MASTER_MINDMAP.md)
 
 ---
 
 # 🎓 COURSE BREAKDOWN
 
 ## 👥 PEOPLE
-📚 [[1_COURSES/Course_2_People.md|Course 2 – People Management]]
+📚 [Course 2 – People Management](1_COURSES/Course_2_People.md)
 
 - Leadership  
 - Team Development  
@@ -65,7 +65,7 @@ PMP/
 ---
 
 ## ⚙️ PROCESS
-📚 [[1_COURSES/Course_3_Process.md|Course 3 – Process Management]]
+📚 [Course 3 – Process Management](1_COURSES/Course_3_Process.md)
 
 - Initiation → Charter  
 - Planning → Scope, Schedule, Cost, Risk  
@@ -76,7 +76,7 @@ PMP/
 ---
 
 ## 🏢 BUSINESS ENVIRONMENT
-📚 [[1_COURSES/Course_4_Business.md|Course 4 – Business Environment]]
+📚 [Course 4 – Business Environment](1_COURSES/Course_4_Business.md)
 
 - Compliance  
 - Value Delivery  
@@ -86,7 +86,7 @@ PMP/
 ---
 
 ## 🔄 APPROACHES
-📚 [[1_COURSES/Course_1_Principles.md|Course 1 – Principles & Approaches]]
+📚 [Course 1 – Principles & Approaches](1_COURSES/Course_1_Principles.md)
 
 - Predictive  
 - Agile  
@@ -97,7 +97,7 @@ PMP/
 # 🧠 KNOWLEDGE SYSTEM
 
 ## 📚 Concepts Library
-📂 [[2_CONCEPTS_LIBRARY/|Open Concepts Library]]
+📂 [Open Concepts Library](2_CONCEPTS_LIBRARY/)
 
 - Fundamentals  
 - People  
@@ -108,15 +108,15 @@ PMP/
 ---
 
 ## 🧠 PMI Mindset
-📂 [[3_PMI_MINDSET/|Open PMI Mindset]]
+📂 [Open PMI Mindset](3_PMI_MINDSET/)
 
-- Core Rules → [[3_PMI_MINDSET/PMI_CORE_RULES.md|PMI Core Rules]]  
-- Decision Engine → [[3_PMI_MINDSET/DECISION_FRAMEWORK.md|Decision Framework]]  
+- Core Rules → [PMI Core Rules](3_PMI_MINDSET/PMI_CORE_RULES.md)  
+- Decision Engine → [Decision Framework](3_PMI_MINDSET/DECISION_FRAMEWORK.md)  
 
 ---
 
 ## 🎯 Practice Zone
-📂 [[4_EXAM_PRACTICE/|Open Practice Zone]]
+📂 [Open Practice Zone](4_EXAM_PRACTICE/)
 
 - Situations  
 - Patterns  
@@ -126,7 +126,7 @@ PMP/
 ---
 
 ## 🔁 Revision Zone
-📂 [[5_REVISION/|Open Revision Zone]]
+📂 [Open Revision Zone](5_REVISION/)
 
 - Cheat Sheet  
 - Flashcards  
@@ -136,11 +136,11 @@ PMP/
 
 # ⚡ STUDY FLOW (MOST IMPORTANT)
 
-1. 📺 Learn → [[1_COURSES/|Go to Courses]]  
-2. 🧠 Extract → [[2_CONCEPTS_LIBRARY/|Build Knowledge]]  
-3. 🔗 Link → [[0_MASTER_MINDMAP/|Connect Mindmap]]  
-4. 🎯 Practice → [[4_EXAM_PRACTICE/|Practice Questions]]  
-5. 🔁 Review → [[5_REVISION/|Final Revision]]  
+1. 📺 Learn → [Go to Courses](1_COURSES/)  
+2. 🧠 Extract → [Build Knowledge](2_CONCEPTS_LIBRARY/)  
+3. 🔗 Link → [Connect Mindmap](0_MASTER_MINDMAP/)  
+4. 🎯 Practice → [Practice Questions](4_EXAM_PRACTICE/)  
+5. 🔁 Review → [Final Revision](5_REVISION/)  
 
 ---
 

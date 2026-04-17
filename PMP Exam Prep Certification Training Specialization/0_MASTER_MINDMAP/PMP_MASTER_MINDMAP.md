@@ -615,7 +615,76 @@ Giữ 2 nhóm:
 | Empirical Process | Dựa trên thực nghiệm | Inspect & adapt continuously | ❌ Tin kế hoạch cố định |
 | Time-boxing | Giới hạn thời gian cố định | Strict sprint duration | ❌ Kéo dài sprint tùy ý |
 
----
+# ⚡ EXAM READING WORD LIST (UPGRADED – FULL EXAM COVERAGE)
+
+| Word / Phrase | Meaning (VI) | How to understand in exam |
+|---------------|-------------|---------------------------|
+| ensure | đảm bảo | làm cho chắc chắn xảy ra |
+| identify | xác định | tìm ra vấn đề / rủi ro |
+| communicate | giao tiếp | truyền đạt thông tin rõ ràng |
+| analyze | phân tích | chia nhỏ để hiểu nguyên nhân |
+| implement | thực hiện | bắt đầu làm theo kế hoạch |
+| execute | thực thi | làm đúng theo chỉ dẫn |
+| monitor | theo dõi | quan sát tiến trình liên tục |
+| track | theo dõi | đo lường tiến độ |
+| prioritize | ưu tiên | chọn việc quan trọng trước |
+| resolve | giải quyết | làm cho vấn đề kết thúc |
+| update | cập nhật | thay đổi thông tin mới |
+| escalate | báo lên | đưa vấn đề lên cấp cao hơn |
+| assess | đánh giá | xem xét mức độ / tác động |
+| review | xem lại | kiểm tra cái đã làm |
+| determine | xác định kết luận | đi đến kết luận cuối |
+| clarify | làm rõ | giải thích để hiểu đúng |
+| confirm | xác nhận | kiểm tra lại là đúng |
+| coordinate | phối hợp | kết nối nhiều người làm việc |
+| collaborate | hợp tác | làm việc chung với nhau |
+| facilitate | tạo điều kiện | giúp quá trình diễn ra dễ hơn |
+| decide | quyết định | chọn 1 phương án |
+| approve | phê duyệt | đồng ý chính thức |
+| reject | từ chối | không chấp nhận |
+| manage | quản lý | điều phối tổng thể |
+| handle | xử lý | giải quyết tình huống |
+| support | hỗ trợ | giúp đỡ người khác |
+| guide | hướng dẫn | chỉ cách làm |
+| follow | tuân theo | làm theo quy định |
+| comply | tuân thủ | bắt buộc theo luật |
+| require | yêu cầu | bắt buộc phải có |
+| request | yêu cầu | đề nghị chính thức |
+| suggest | đề xuất | đưa ra ý kiến |
+| recommend | khuyến nghị | đề xuất phương án tốt |
+| respond | phản hồi | trả lời lại |
+| react | phản ứng | hành động sau sự kiện |
+| take action | hành động | bắt đầu làm gì đó |
+| take responsibility | chịu trách nhiệm | nhận trách nhiệm |
+| work with | làm việc với | hợp tác với người khác |
+| work together | làm cùng nhau | teamwork |
+| depend on | phụ thuộc | bị ảnh hưởng bởi cái khác |
+| based on | dựa trên | căn cứ vào |
+| according to | theo như | trích nguồn / quy định |
+| due to | do bởi | nguyên nhân |
+| because of | vì | lý do |
+| instead of | thay vì | lựa chọn khác |
+| look for | tìm kiếm | đi tìm thông tin |
+| deal with | xử lý | giải quyết thực tế |
+| take into account | xem xét | cân nhắc yếu tố |
+| carry out | thực hiện | triển khai hành động |
+| go ahead with | tiến hành | bắt đầu làm |
+| bring up | nêu ra | đề cập vấn đề |
+| point out | chỉ ra | làm rõ vấn đề |
+| hand over | bàn giao | chuyển giao công việc |
+| set up | thiết lập | tạo hệ thống ban đầu |
+| break down | phân rã | chia nhỏ công việc |
+| put in place | triển khai | đưa vào hoạt động |
+| keep track of | theo dõi | giám sát liên tục |
+| stay on track | đúng tiến độ | không bị trễ |
+| fall behind | bị chậm | trễ tiến độ |
+| catch up | bắt kịp | quay lại tiến độ |
+| sign off | ký duyệt | phê duyệt chính thức |
+| roll out | triển khai rộng | đưa vào toàn hệ thống |
+| phase out | loại bỏ dần | ngừng sử dụng từ từ |
+| opt for | lựa chọn | chọn phương án |
+| rely on | dựa vào | phụ thuộc vào |
+
 
 # ⚠️ ULTRA EXAM ELIMINATION RULE
 

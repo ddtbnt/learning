@@ -1,0 +1,299 @@
+{
+  "module": "Project Management Foundations - Week 1",
+  "total_questions": 28,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Nuts and Bolts",
+      "question": "What has a definitive start and end and creates something unique and new?",
+      "options": {
+        "A": "Operations",
+        "B": "Projects",
+        "C": "Programs",
+        "D": "Portfolio"
+      }
+    },
+    {
+      "id": 2,
+      "section": "Nuts and Bolts",
+      "question": "Which has no point A or point B and they are business as usual?",
+      "options": {
+        "A": "Operations",
+        "B": "Projects",
+        "C": "Programs",
+        "D": "Portfolio"
+      }
+    },
+    {
+      "id": 3,
+      "section": "Nuts and Bolts",
+      "question": "Your boss assigned you to a 'special project' of updating an existing document in a shared folder system implemented last year. Which statement is NOT TRUE?",
+      "options": {
+        "A": "Operations represent ongoing business activities such as production of goods or services.",
+        "B": "The shared folder initiative is an example of a project.",
+        "C": "The request does not meet characteristics of a project.",
+        "D": "The request meets characteristics of a project"
+      }
+    },
+
+    {
+      "id": 4,
+      "section": "Best Practices",
+      "question": "Your Senior Lead reports all projects are on schedule, but you know 4 of 5 are behind. What do you do?",
+      "options": {
+        "A": "Do nothing",
+        "B": "Talk privately to Senior Lead",
+        "C": "Report to boss as deceit",
+        "D": "Report anonymously to HR"
+      }
+    },
+    {
+      "id": 5,
+      "section": "Best Practices",
+      "question": "Which statement is TRUE about PMBOK Guide?",
+      "options": {
+        "A": "PMBOK 6th is principles-based with 12 principles and 8 domains",
+        "B": "PMBOK 7th is process-based",
+        "C": "PMBOK 6th is 5 process groups and 9 knowledge areas",
+        "D": "PMBOK 7th is principles-based with 12 principles and 8 performance domains"
+      }
+    },
+
+    {
+      "id": 6,
+      "section": "Communication",
+      "question": "Critical aspect of effective project communication?",
+      "options": {
+        "A": "Only meetings",
+        "B": "Consistently communicate status to all stakeholders",
+        "C": "Only team communication",
+        "D": "Only when crisis happens"
+      }
+    },
+    {
+      "id": 7,
+      "section": "PM Traits",
+      "question": "Key trait of successful project managers?",
+      "options": {
+        "A": "Inflexibility",
+        "B": "Rigidity",
+        "C": "Adaptability",
+        "D": "Poor prioritization"
+      }
+    },
+    {
+      "id": 8,
+      "section": "Leadership",
+      "question": "Most important when leading cross-functional teams?",
+      "options": {
+        "A": "Technical expertise",
+        "B": "Communication and listening",
+        "C": "Authoritarian style",
+        "D": "Delegation only"
+      }
+    },
+
+    {
+      "id": 9,
+      "section": "Talent Triangle",
+      "question": "Category for industry and organizational knowledge?",
+      "options": {
+        "A": "Technical Project Management",
+        "B": "Leadership",
+        "C": "Strategic and Business Management",
+        "D": "Resource Management"
+      }
+    },
+    {
+      "id": 10,
+      "section": "Talent Triangle",
+      "question": "NOT part of PMI Talent Triangle?",
+      "options": {
+        "A": "Technical Project Management",
+        "B": "Strategic Business Management",
+        "C": "Leadership",
+        "D": "Financial Management"
+      }
+    },
+    {
+      "id": 11,
+      "section": "Agile",
+      "question": "Framework using visual workflow?",
+      "options": {
+        "A": "Scrum",
+        "B": "XP",
+        "C": "Kanban",
+        "D": "DSDM"
+      }
+    },
+    {
+      "id": 12,
+      "section": "Agile History",
+      "question": "Agile development history?",
+      "options": {
+        "A": "Software only",
+        "B": "Internet era origin",
+        "C": "Lean + Scrum + Agile Manifesto 2001",
+        "D": "Direct Agile Manifesto creation"
+      }
+    },
+    {
+      "id": 13,
+      "section": "Agile",
+      "question": "Why sprint time-boxing?",
+      "options": {
+        "A": "Fixed delivery",
+        "B": "No deadlines",
+        "C": "No reviews",
+        "D": "Unlimited time"
+      }
+    },
+
+    {
+      "id": 14,
+      "section": "Learning",
+      "question": "Why is feedback important?",
+      "options": {
+        "A": "Faster grading",
+        "B": "Identify strengths and weaknesses",
+        "C": "Reduce work",
+        "D": "Remove exams"
+      }
+    },
+    {
+      "id": 15,
+      "section": "PDUs",
+      "question": "Which statements about PDUs are correct?",
+      "options": {
+        "A": "Continuous learning",
+        "B": "Required for renewal",
+        "C": "Certification invalid without PDUs",
+        "D": "Track hours",
+        "E": "Only formal training",
+        "F": "One-time requirement"
+      }
+    },
+    {
+      "id": 16,
+      "section": "Project Charter",
+      "question": "Key output of Develop Project Charter?",
+      "options": {
+        "A": "Project Management Plan",
+        "B": "WBS",
+        "C": "Project Charter",
+        "D": "Risk Register"
+      }
+    },
+
+    {
+      "id": 17,
+      "section": "Agile",
+      "question": "Agile iterative + incremental meaning?",
+      "options": {
+        "A": "Only incremental",
+        "B": "Continuous improvement + incremental delivery",
+        "C": "No iteration",
+        "D": "Final delivery only"
+      }
+    },
+    {
+      "id": 18,
+      "section": "Constraints",
+      "question": "Least influencing factor?",
+      "options": {
+        "A": "Resource availability",
+        "B": "Stakeholder requirements",
+        "C": "Organizational culture",
+        "D": "Project objectives"
+      }
+    },
+
+    {
+      "id": 19,
+      "section": "Adaptive",
+      "question": "Characteristics of adaptive approaches?",
+      "options": {
+        "A": "Low customer involvement",
+        "B": "High flexibility",
+        "C": "Strict plan",
+        "D": "Iterative",
+        "E": "Frequent adaptation",
+        "F": "Heavy upfront planning"
+      }
+    },
+    {
+      "id": 20,
+      "section": "PMO",
+      "question": "Primary role of PMO?",
+      "options": {
+        "A": "Align with strategy",
+        "B": "Execute all projects",
+        "C": "Provide funding",
+        "D": "Handle communication only"
+      }
+    },
+
+    {
+      "id": 21,
+      "section": "Planning",
+      "question": "Benefits of rolling wave planning?",
+      "options": {
+        "A": "Reduced cost",
+        "B": "Flexibility",
+        "C": "Better estimates",
+        "D": "Better communication",
+        "E": "Faster completion"
+      }
+    },
+    {
+      "id": 22,
+      "section": "PMBOK 7",
+      "question": "Value delivery system components?",
+      "options": {
+        "A": "Stakeholders",
+        "B": "Org structure",
+        "C": "Technology",
+        "D": "Processes",
+        "E": "Market conditions",
+        "F": "Governance"
+      }
+    },
+
+    {
+      "id": 23,
+      "section": "Agile Principles",
+      "question": "Agile principles?",
+      "options": {
+        "A": "Individuals & interactions",
+        "B": "Contract negotiation",
+        "C": "Documentation",
+        "D": "Customer collaboration",
+        "E": "Responding to change",
+        "F": "Strict plan"
+      }
+    },
+    {
+      "id": 24,
+      "section": "PM Impact",
+      "question": "Key contribution of project management?",
+      "options": {
+        "A": "Reduce quality",
+        "B": "Ensure timely completion",
+        "C": "Increase budget",
+        "D": "Reduce stakeholders"
+      }
+    },
+
+    {
+      "id": 25,
+      "section": "Agile",
+      "question": "Incremental + collaboration methodology?",
+      "options": {
+        "A": "Waterfall",
+        "B": "Agile",
+        "C": "Predictive",
+        "D": "Traditional"
+      }
+    }
+  ]
+}

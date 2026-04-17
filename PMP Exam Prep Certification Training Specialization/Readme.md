@@ -47,28 +47,28 @@ PMP/
 
 # 🧭 MASTER NAVIGATION
 
-👉 Central Brain:  
-📌 [[0_MASTER_MINDMAP/PMP_MASTER_MINDMAP.md]]
+👉 Central Brain  
+📌 [[0_MASTER_MINDMAP/PMP_MASTER_MINDMAP.md|Open PMP Control Center]]
 
 ---
 
 # 🎓 COURSE BREAKDOWN
 
 ## 👥 PEOPLE
-📚 [[1_COURSES/Course_2_People.md]]
+📚 [[1_COURSES/Course_2_People.md|Course 2 – People Management]]
 
-- Leadership
-- Team Development
-- Stakeholder Engagement
-- Communication
+- Leadership  
+- Team Development  
+- Stakeholder Engagement  
+- Communication  
 
 ---
 
 ## ⚙️ PROCESS
-📚 [[1_COURSES/Course_3_Process.md]]
+📚 [[1_COURSES/Course_3_Process.md|Course 3 – Process Management]]
 
 - Initiation → Charter  
-- Planning → Scope, Schedule, Cost, Risk…  
+- Planning → Scope, Schedule, Cost, Risk  
 - Execution → Team, Quality  
 - Monitoring → Change, Performance  
 - Closing  
@@ -76,71 +76,71 @@ PMP/
 ---
 
 ## 🏢 BUSINESS ENVIRONMENT
-📚 [[1_COURSES/Course_4_Business.md]]
+📚 [[1_COURSES/Course_4_Business.md|Course 4 – Business Environment]]
 
-- Compliance
-- Value Delivery
-- Benefits Realization
-- Strategy Alignment
+- Compliance  
+- Value Delivery  
+- Benefits Realization  
+- Strategy Alignment  
 
 ---
 
 ## 🔄 APPROACHES
-📚 [[1_COURSES/Course_1_Principles.md]]
+📚 [[1_COURSES/Course_1_Principles.md|Course 1 – Principles & Approaches]]
 
-- Predictive
-- Agile
-- Hybrid
+- Predictive  
+- Agile  
+- Hybrid  
 
 ---
 
 # 🧠 KNOWLEDGE SYSTEM
 
 ## 📚 Concepts Library
-📂 [[2_CONCEPTS_LIBRARY/]]
+📂 [[2_CONCEPTS_LIBRARY/|Open Concepts Library]]
 
-- Fundamentals
-- People
-- Process
-- Agile / Hybrid
-- Business
+- Fundamentals  
+- People  
+- Process  
+- Agile / Hybrid  
+- Business  
 
 ---
 
 ## 🧠 PMI Mindset
-📂 [[3_PMI_MINDSET/]]
+📂 [[3_PMI_MINDSET/|Open PMI Mindset]]
 
-- Core Rules → [[3_PMI_MINDSET/PMI_CORE_RULES.md]]
-- Decision Engine → [[3_PMI_MINDSET/DECISION_FRAMEWORK.md]]
+- Core Rules → [[3_PMI_MINDSET/PMI_CORE_RULES.md|PMI Core Rules]]  
+- Decision Engine → [[3_PMI_MINDSET/DECISION_FRAMEWORK.md|Decision Framework]]  
 
 ---
 
 ## 🎯 Practice Zone
-📂 [[4_EXAM_PRACTICE/]]
+📂 [[4_EXAM_PRACTICE/|Open Practice Zone]]
 
-- Situations
-- Patterns
-- Mistakes Log
-- Mock Analysis
+- Situations  
+- Patterns  
+- Mistakes Log  
+- Mock Analysis  
 
 ---
 
 ## 🔁 Revision Zone
-📂 [[5_REVISION/]]
+📂 [[5_REVISION/|Open Revision Zone]]
 
-- Cheat Sheet
-- Flashcards
-- Final Review
+- Cheat Sheet  
+- Flashcards  
+- Final Review  
 
 ---
 
 # ⚡ STUDY FLOW (MOST IMPORTANT)
 
-1. 📺 Learn → [[1_COURSES/]]  
-2. 🧠 Extract → [[2_CONCEPTS_LIBRARY/]]  
-3. 🔗 Link → [[0_MASTER_MINDMAP/]]  
-4. 🎯 Practice → [[4_EXAM_PRACTICE/]]  
-5. 🔁 Review → [[5_REVISION/]]  
+1. 📺 Learn → [[1_COURSES/|Go to Courses]]  
+2. 🧠 Extract → [[2_CONCEPTS_LIBRARY/|Build Knowledge]]  
+3. 🔗 Link → [[0_MASTER_MINDMAP/|Connect Mindmap]]  
+4. 🎯 Practice → [[4_EXAM_PRACTICE/|Practice Questions]]  
+5. 🔁 Review → [[5_REVISION/|Final Revision]]  
 
 ---
 

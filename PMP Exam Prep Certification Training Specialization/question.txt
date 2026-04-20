@@ -1,3 +1,4 @@
+
 {
   "module": "Project Management Foundations - Week 1",
   "total_questions": 28,
@@ -293,6 +294,1633 @@
         "B": "Agile",
         "C": "Predictive",
         "D": "Traditional"
+      }
+    }
+  ]
+}
+
+{
+  "module": "Project Management Foundations - Module 2 (FULL VERBATIM)",
+  "total_questions": 18,
+  "question_bank": [
+    {
+      "id": 1,
+      "question": "What is the definition of Value in Project Management?",
+      "options": {
+        "A": "The cost of the Project",
+        "B": "The Benefits derived from the Project",
+        "C": "The Scope of the Project",
+        "D": "The Quality of the Project"
+      }
+    },
+    {
+      "id": 2,
+      "question": "As a project manager, you are working in a functional organizational structure. Which of the following characteristics would be most likely to impact your ability to manage the project effectively?",
+      "options": {
+        "A": "Clear lines of authority and communication",
+        "B": "Close collaboration between departments",
+        "C": "Limited flexibility in terms of resources and decision-making",
+        "D": "High degree of autonomy for projects teams"
+      }
+    },
+    {
+      "id": 3,
+      "question": "As a project manager, you are working in a Supportive PMO. What characteristic of this PMO is most likely to impact your ability to manage projects effectively?",
+      "options": {
+        "A": "Standardized project management practices",
+        "B": "Limited authority over resources",
+        "C": "Clear project objectives",
+        "D": "A focus on portfolio management"
+      }
+    },
+    {
+      "id": 4,
+      "question": "You are responsible for overseeing the development of a new product line, which involves managing several projects, including market research, product design, and manufacturing. What is the most appropriate term to describe this set of related projects?",
+      "options": {
+        "A": "Operations",
+        "B": "Projects",
+        "C": "Programs",
+        "D": "Portfolio"
+      }
+    },
+    {
+      "id": 5,
+      "question": "You are managing a project that is in the early stages of planning, and the requirements are not yet fully defined. Which of the following best describes the planning approach you should take?",
+      "options": {
+        "A": "Progressive Elaboration",
+        "B": "Rolling Wave Planning",
+        "C": "Agile Planning",
+        "D": "Progressive Planning"
+      }
+    },
+    {
+      "id": 6,
+      "question": "You are managing a project that is in the early stages of planning, and the requirements are not yet fully defined. You’ve decided to divide your project into subcomponents to provide better insight to managing the project. What best describes what you did to divide your project into subcomponents?",
+      "options": {
+        "A": "Progressive Elaboration",
+        "B": "Rolling Wave Planning",
+        "C": "Establish Project Phases",
+        "D": "Progressive Planning"
+      }
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is an example of an Enterprise Environmental Factor (EEF)? Check all that apply.",
+      "options": {
+        "A": "Historical information and lessons learned from previous projects",
+        "B": "Organizational culture and structure.",
+        "C": "Resource Availability",
+        "D": "Marketplace Conditions"
+      }
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is an example of an Organizational Process Asset (OPA)?",
+      "options": {
+        "A": "Best practices for managing project risks.",
+        "B": "Economic conditions and trends.",
+        "C": "Technological advancements and innovations.",
+        "D": "Industry-specific regulations and standards."
+      }
+    },
+    {
+      "id": 9,
+      "question": "A project manager is developing a project schedule and realizes that their organization has strict policies around work hours and overtime. All of the following are examples of EEFs that could impact the project schedule. Check all that apply.",
+      "options": {
+        "A": "Employee Capability",
+        "B": "Weather Conditions",
+        "C": "Resource Availability",
+        "D": "Organizational Policies on Work Hours and Overtime"
+      }
+    },
+    {
+      "id": 10,
+      "question": "A company is planning to launch a new product in the market. The product team is responsible for identifying customer needs, developing the product concept, and defining the product requirements. Who would be responsible for the project management of this product launch?",
+      "options": {
+        "A": "The product team",
+        "B": "The marketing team",
+        "C": "The project manager",
+        "D": "The sales team"
+      }
+    },
+    {
+      "id": 11,
+      "question": "What are the stages of the product life cycle?",
+      "options": {
+        "A": "Introduction, Growth, Maturity, Decline",
+        "B": "Initiating, Growth, Maturity, Downward",
+        "C": "Ideation, Development, Enhancement, Delivery",
+        "D": "Inception, Development, Delivery, Release"
+      }
+    },
+    {
+      "id": 12,
+      "question": "You are a project manager responsible for a new product development project. Your team has identified a significant roadblock in the development process. What is the role of the project sponsor in project management?",
+      "options": {
+        "A": "To oversee the daily operations of the project team",
+        "B": "To provide funding and resources for the project",
+        "C": "To manage the project budget",
+        "D": "To define the project scope and objectives"
+      }
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is NOT a factor that should be considered when determining the value of a project?",
+      "options": {
+        "A": "The Cost of the Project",
+        "B": "The Benefits derived from the project",
+        "C": "The risks associated with the project",
+        "D": "The size of the Project"
+      }
+    },
+    {
+      "id": 14,
+      "question": "You are leading a team that is responsible for delivering a set of related projects, which include a new software application, a redesigned website, and a customer service portal. What is the most appropriate term to describe this set of related projects?",
+      "options": {
+        "A": "Task",
+        "B": "Project",
+        "C": "Program",
+        "D": "Portfolio"
+      }
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is the purpose of a phase gate review?",
+      "options": {
+        "A": "To evaluate the progress of the project and determine whether it is on track.",
+        "B": "To determine whether the project should continue to the next phase.",
+        "C": "To identify potential risks and issues that could impact the project.",
+        "D": "To evaluate the performance of individual team members."
+      }
+    },
+    {
+      "id": 16,
+      "question": "A project manager is leading a new project for a company that has a history of similar projects. Which of the following would be the most useful Organizational Process Asset (OPA) for the project manager to consult?",
+      "options": {
+        "A": "Project management plan templates",
+        "B": "Lessons learned database",
+        "C": "Work breakdown structure (WBS) dictionary",
+        "D": "Risk management plan"
+      }
+    },
+    {
+      "id": 17,
+      "question": "Which of the following statements about EEFs and OPAs is true?",
+      "options": {
+        "A": "EEFs are internal factors that can impact a project, while OPAs are external factors.",
+        "B": "EEFs are factors that can be controlled by the project team, while OPAs cannot be controlled.",
+        "C": "Both EEFs and OPAs are external factors that can impact a project.",
+        "D": "Both EEFs and OPAs include internal factors that can impact a project."
+      }
+    },
+    {
+      "id": 18,
+      "question": "A software company has developed a new product that will revolutionize the way customers manage their finances. The company's product manager is responsible for overseeing the product's development and ensuring that it meets customer needs. Which of the following is the responsibility of the project manager for this product?",
+      "options": {
+        "A": "Identifying customer needs and requirements.",
+        "B": "Developing the product roadmap and feature prioritization.",
+        "C": "Coordinating the development team's efforts and managing the project schedule.",
+        "D": "Developing the product's pricing and go-to-market strategy."
+      }
+    }
+  ]
+}
+
+
+{
+  "module": "Project Management Foundations - Module 3 (FULL VERBATIM)",
+  "total_questions": 15,
+  "question_bank": [
+    {
+      "id": 1,
+      "question": "A company is planning to develop a new mobile app that has a high level of uncertainty and requires a lot of collaboration between the development team and the client. Which project management methodology is characterized by a sequential, linear approach that is best suited for projects with well-defined requirements and a predictable outcome?",
+      "options": {
+        "A": "Adaptive",
+        "B": "Predictive",
+        "C": "Hybrid",
+        "D": "None of the above"
+      }
+    },
+    {
+      "id": 2,
+      "question": "Which description best describes the continuum of the iterative life cycle?",
+      "options": {
+        "A": "Low frequency of delivery and low degree of change",
+        "B": "High frequency of delivery and low degree of change",
+        "C": "Low frequency of delivery and high degree of change",
+        "D": "High frequency of delivery and high degree of change"
+      }
+    },
+    {
+      "id": 3,
+      "question": "Which life cycle has a goal of speed of delivery?",
+      "options": {
+        "A": "Predictive",
+        "B": "Incremental",
+        "C": "Iterative",
+        "D": "Rolling Wave"
+      }
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is true of an incremental life cycle?",
+      "options": {
+        "A": "The project is completed in a single phase, and all deliverables are provided at the end.",
+        "B": "The project is divided into multiple phases, each producing a complete and independent product.",
+        "C": "The project is completed in a single phase, with deliverables being released continuously throughout the process.",
+        "D": "The project is completed in multiple increments, with each increment adding usable functionality until the final product is complete."
+      }
+    },
+    {
+      "id": 5,
+      "question": "A software development team is using a delivery cadence of two weeks for their product releases. Which of the following is true about this approach?",
+      "options": {
+        "A": "The team delivers the entire product at the end of the two-week cycle.",
+        "B": "The team delivers individual features or components of the product at the end of the two-week cycle.",
+        "C": "The team does not deliver any product until the end of the project.",
+        "D": "The team delivers a portion of the product at the end of each day."
+      }
+    },
+    {
+      "id": 6,
+      "question": "A project manager is working on a project that has multiple stakeholders with different priorities. Which of the following is the best way to deliver value to all stakeholders?",
+      "options": {
+        "A": "Focusing on the priorities of the stakeholder with the most influence.",
+        "B": "Communicating with each stakeholder to understand their priorities and needs.",
+        "C": "Trying to please all stakeholders equally.",
+        "D": "Ignoring the priorities of stakeholders with less influence."
+      }
+    },
+    {
+      "id": 7,
+      "question": "You are a project manager at a health care consulting firm and you want to integrate agile techniques into your next client engagement.  A team member objects and indicates that agile can only be used in the software development space.  You know this to not be true.  What other industries have utilized agile techniques?  Check all that apply.",
+      "options": {
+        "A": "Finance",
+        "B": "Public Radio",
+        "C": "Education",
+        "D": "Healthcare"
+      }
+    },
+    {
+      "id": 8,
+      "question": "A project manager in the construction industry is using Agile project management to build a new housing development. Which of the following benefits is most likely to be gained by using Agile project management in this scenario?",
+      "options": {
+        "A": "Increased collaboration with stakeholders",
+        "B": "Improved software development processes",
+        "C": "Reduction in waste and inefficiencies",
+        "D": "Increased focus on quality control"
+      }
+    },
+    {
+      "id": 9,
+      "question": "Identify which is the most appropriate approach given the results of the radar chart.",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      }
+    },
+    {
+      "id": 10,
+      "question": "Which are the categories of the Agile Suitability Filters Questionnaire?",
+      "options": {
+        "A": "Project",
+        "B": "Environment",
+        "C": "Team",
+        "D": "Culture"
+      }
+    },
+    {
+      "id": 11,
+      "question": "A company is planning to develop a new mobile app that has a high level of uncertainty and requires a lot of collaboration between the development team and the client. Which project management methodology would be the best fit for this project?",
+      "options": {
+        "A": "Adaptive",
+        "B": "Predictive",
+        "C": "Hybrid",
+        "D": "None of the above"
+      }
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is true of an incremental life cycle?",
+      "options": {
+        "A": "The project is completed in a single phase with all deliverables completed at the end.",
+        "B": "The project is divided into multiple phases, each with its own set of deliverables.",
+        "C": "The project is completed in multiple phases, with all deliverables completed at the end of each phase.",
+        "D": "The project is completed in a single phase, with deliverables being delivered incrementally."
+      }
+    },
+    {
+      "id": 13,
+      "question": "A project manager is leading a project to develop a new mobile app for a client. The client has a very tight deadline and wants the app to be launched within two months. Which of the following project management delivery approaches is most appropriate in this situation?",
+      "options": {
+        "A": "Agile",
+        "B": "Waterfall",
+        "C": "Lean",
+        "D": "Six Sigma"
+      }
+    },
+    {
+      "id": 14,
+      "question": "A project manager is deciding which features to prioritize in the next sprint. Which of the following features should be prioritized based on delivering the most value to the customer?",
+      "options": {
+        "A": "A feature that adds a new color scheme to the user interface.",
+        "B": "A feature that fixes a bug that only affects a small subset of users.",
+        "C": "A feature that adds a new payment method that many customers have been requesting.",
+        "D": "A feature that improves the performance of the application by 5%."
+      }
+    },
+    {
+      "id": 15,
+      "question": "A company is planning to develop a new product that has a clear understanding of the requirements and scope, but also has a high level of complexity. However, the company is working with a remote team that is in different time zones. Which project management methodology would be the best fit for this project?",
+      "options": {
+        "A": "Adaptive",
+        "B": "Predictive",
+        "C": "Hybrid",
+        "D": "None of the above"
+      }
+    }
+  ]
+}
+
+
+{
+  "module": "Project Management Foundations - Module 3",
+  "total_questions": 20,
+  "question_bank": [
+
+    {
+      "id": 1,
+      "section": "Methodology",
+      "question": "A company is planning to develop a new mobile app that has a high level of uncertainty and requires a lot of collaboration between the development team and the client. Which project management methodology is characterized by a sequential, linear approach that is best suited for projects with well-defined requirements and a predictable outcome?",
+      "options": {
+        "A": "Adaptive",
+        "B": "Predictive",
+        "C": "Hybrid",
+        "D": "None of the above"
+      }
+    },
+    {
+      "id": 2,
+      "section": "Lifecycle",
+      "question": "Which description best describes the continuum of the iterative life cycle?",
+      "options": {
+        "A": "Low frequency of delivery and low degree of change",
+        "B": "High frequency of delivery and low degree of change",
+        "C": "Low frequency of delivery and high degree of change",
+        "D": "High frequency of delivery and high degree of change"
+      }
+    },
+    {
+      "id": 3,
+      "section": "Lifecycle",
+      "question": "Which life cycle has a goal of speed of delivery?",
+      "options": {
+        "A": "Predictive",
+        "B": "Incremental",
+        "C": "Iterative",
+        "D": "Rolling Wave"
+      }
+    },
+    {
+      "id": 4,
+      "section": "Lifecycle",
+      "question": "Which of the following is true of an incremental life cycle?",
+      "options": {
+        "A": "The project is completed in a single phase, and all deliverables are provided at the end.",
+        "B": "The project is divided into multiple phases, each producing a complete and independent product.",
+        "C": "The project is completed in a single phase, with deliverables being released continuously throughout the process.",
+        "D": "The project is completed in multiple increments, with each increment adding usable functionality until the final product is complete."
+      }
+    },
+    {
+      "id": 5,
+      "section": "Delivery",
+      "question": "A software development team is using a delivery cadence of two weeks for their product releases. Which of the following is true about this approach?",
+      "options": {
+        "A": "The team delivers the entire product at the end of the two-week cycle.",
+        "B": "The team delivers individual features or components of the product at the end of the two-week cycle.",
+        "C": "The team does not deliver any product until the end of the project.",
+        "D": "The team delivers a portion of the product at the end of each day."
+      }
+    },
+    {
+      "id": 6,
+      "section": "Stakeholders",
+      "question": "A project manager is working on a project that has multiple stakeholders with different priorities. Which of the following is the best way to deliver value to all stakeholders?",
+      "options": {
+        "A": "Focusing on the priorities of the stakeholder with the most influence.",
+        "B": "Communicating with each stakeholder to understand their priorities and needs.",
+        "C": "Trying to please all stakeholders equally.",
+        "D": "Ignoring the priorities of stakeholders with less influence."
+      }
+    },
+    {
+      "id": 7,
+      "section": "Agile Application",
+      "question": "You are a project manager at a health care consulting firm and you want to integrate agile techniques into your next client engagement. A team member objects and indicates that agile can only be used in the software development space. You know this to not be true. What other industries have utilized agile techniques? Check all that apply.",
+      "options": {
+        "A": "Finance",
+        "B": "Public Radio",
+        "C": "Education",
+        "D": "Healthcare"
+      }
+    },
+    {
+      "id": 8,
+      "section": "Agile Benefits",
+      "question": "A project manager in the construction industry is using Agile project management to build a new housing development. Which of the following benefits is most likely to be gained by using Agile project management in this scenario?",
+      "options": {
+        "A": "Increased collaboration with stakeholders",
+        "B": "Improved software development processes",
+        "C": "Reduction in waste and inefficiencies",
+        "D": "Increased focus on quality control"
+      }
+    },
+    {
+      "id": 9,
+      "section": "Agile Fit",
+      "question": "Which are the categories of the Agile Suitability Filters Questionnaire?",
+      "options": {
+        "A": "Project",
+        "B": "Environment",
+        "C": "Team",
+        "D": "Culture"
+      }
+    },
+    {
+      "id": 10,
+      "section": "Methodology",
+      "question": "A company is planning to develop a new mobile app that has a high level of uncertainty and requires a lot of collaboration between the development team and the client. Which project management methodology would be the best fit for this project?",
+      "options": {
+        "A": "Adaptive",
+        "B": "Predictive",
+        "C": "Hybrid",
+        "D": "None of the above"
+      }
+    },
+    {
+      "id": 11,
+      "section": "Delivery",
+      "question": "A project manager is leading a project to develop a new mobile app for a client. The client has a very tight deadline and wants the app to be launched within two months. Which of the following project management delivery approaches is most appropriate in this situation?",
+      "options": {
+        "A": "Agile",
+        "B": "Waterfall",
+        "C": "Lean",
+        "D": "Six Sigma"
+      }
+    },
+    {
+      "id": 12,
+      "section": "Value",
+      "question": "A project manager is deciding which features to prioritize in the next sprint. Which of the following features should be prioritized based on delivering the most value to the customer?",
+      "options": {
+        "A": "A feature that adds a new color scheme to the user interface.",
+        "B": "A feature that fixes a bug that only affects a small subset of users.",
+        "C": "A feature that adds a new payment method that many customers have been requesting.",
+        "D": "A feature that improves the performance of the application by 5%."
+      }
+    },
+    {
+      "id": 13,
+      "section": "Agile Application",
+      "question": "A healthcare organization is implementing a new electronic medical records system. The project team is using an agile project management approach. Which of the following is an example of how agile project management could be used in this situation",
+      "options": {
+        "A": "The team could follow a traditional project management approach, with a detailed plan and fixed requirements.",
+        "B": "The team could delay the project until all requirements are fully defined and documented",
+        "C": "The team could use an agile approach to adapt to changes in the healthcare industry and regulatory requirements.",
+        "D": "The team could follow a traditional project management approach, with a detailed plan and loosely defined requirements."
+      }
+    },
+    {
+      "id": 14,
+      "section": "Agile Application",
+      "question": "A marketing team is launching a new advertising campaign for a product. The team is using an agile project management approach. Which of the following is an example of how agile project management could be used in this situation?",
+      "options": {
+        "A": "The team could follow a traditional project management approach, with a detailed plan and fixed deadlines",
+        "B": "The team could use an agile approach to adjust the campaign as needed based on customer feedback and market changes.",
+        "C": "The team could delay the campaign until all aspects of it are fully developed and tested.",
+        "D": "The team could hire additional resources to meet the project deadline."
+      }
+    },
+
+    {
+      "id": 15,
+      "section": "Agile Manifesto",
+      "question": "Which of the following values is NOT one of the four core values of the Agile Manifesto?",
+      "options": {
+        "A": "Individuals and interactions over processes and tools",
+        "B": "Comprehensive documentation over working software",
+        "C": "Customer collaboration over contract negotiation",
+        "D": "Responding to change over following a plan"
+      }
+    },
+    {
+      "id": 16,
+      "section": "Agile Roles",
+      "question": "Who is responsible for prioritizing the product backlog in an agile project?",
+      "options": {
+        "A": "The project manager",
+        "B": "The development team",
+        "C": "The scrum master",
+        "D": "The product owner"
+      }
+    },
+    {
+      "id": 17,
+      "section": "Agile Roles",
+      "question": "All of the following are the key agile roles in the agile development life cycle. Check all that apply.",
+      "options": {
+        "A": "Product Owner",
+        "B": "Team Facilitator",
+        "C": "Sponsor",
+        "D": "Cross-functional Team Members"
+      }
+    },
+    {
+      "id": 18,
+      "section": "Framework",
+      "question": "A team is working on a project that requires a high level of visual management to track progress and identify bottlenecks. Which Agile framework would be the best fit for their needs?",
+      "options": {
+        "A": "Scrum",
+        "B": "Kanban",
+        "C": "Lean",
+        "D": "Crystal"
+      }
+    },
+    {
+      "id": 19,
+      "section": "Agile Practice",
+      "question": "Your team is facing an issue where you need to make some changes to the project requirements. One of your team members suggests that since you are working in an agile environment, it is okay to make these changes mid-sprint. What should you do?",
+      "options": {
+        "A": "Accept the suggestion and make the changes mid-sprint",
+        "B": "Explain to the team member that changes should be made only during sprint planning",
+        "C": "Explain that changes can be made at any time during the sprint as long as they align with the sprint goal",
+        "D": "The Team has the discretion to add changes mid-sprint"
+      }
+    },
+    {
+      "id": 20,
+      "section": "Constraints",
+      "question": "In agile projects, what constraint(s) is variable?",
+      "options": {
+        "A": "Scope",
+        "B": "Sponsor",
+        "C": "Cost",
+        "D": "Time"
+      }
+    }
+
+  ]
+}
+
+{
+  "module": "Project Management Foundations - Module 5",
+  "total_questions": 10,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Tailoring",
+      "question": "A project manager has just taken on a new project for a company that develops custom software for its clients. The client for this project is a large pharmaceutical company that has strict regulatory requirements. The project manager has reviewed the company's project management framework and noticed that it includes a set of project management templates that have been used successfully in the past. Which of the following would be the best course of action for the project manager to take in order to ensure that the project is successfully completed?",
+      "options": {
+        "A": "Use the existing project management templates as they are.",
+        "B": "Review the existing templates and modify them as necessary to meet the specific needs of the project.",
+        "C": "Develop new templates from scratch that are tailored specifically to the needs of the project.",
+        "D": "Use a different project management framework that is better suited to the needs of the pharmaceutical industry."
+      }
+    },
+    {
+      "id": 2,
+      "section": "Tailoring",
+      "question": "Why does tailoring occur on projects?",
+      "options": {
+        "A": "To ensure that the project management approach meets stakeholder expectations.",
+        "B": "To increase the budget for the project.",
+        "C": "To eliminate project risks.",
+        "D": "To make the project management process complex."
+      }
+    },
+    {
+      "id": 3,
+      "section": "Tailoring",
+      "question": "Which of the following is an environmental factor that can influence the need for tailoring on a project?",
+      "options": {
+        "A": "Project budget",
+        "B": "Project size",
+        "C": "Technological advancements",
+        "D": "Organizational culture"
+      }
+    },
+    {
+      "id": 4,
+      "section": "Tailoring",
+      "question": "A company is managing two different projects: a small project with low risk and a large project with high risk. Why is tailoring necessary for both projects?",
+      "options": {
+        "A": "To ensure that both projects have the same level of planning and control",
+        "B": "To ensure that the project management approach is appropriate for the unique characteristics of each project",
+        "C": "To reduce the time and cost required for project management",
+        "D": "To minimize the involvement of stakeholders in project management"
+      }
+    },
+    {
+      "id": 5,
+      "section": "Tailoring Steps",
+      "question": "A project manager is working on a project in an organization that has a formalized project management methodology. The project manager realizes they need to adapt the approach to the organization's culture, structure, processes, and resources, to ensure alignment with the organization's strategic goals and values.  What tailoring step does this describe?",
+      "options": {
+        "A": "Select initial development approach",
+        "B": "Tailor for the organization",
+        "C": "Tailor for the project",
+        "D": "Implement ongoing improvement"
+      }
+    },
+    {
+      "id": 6,
+      "section": "Tailoring Steps",
+      "question": "A project manager is working on a project with a large team of diverse stakeholders who have different expectations and requirements. She finds that she needs to tailor the project to the project stakeholder needs. What tailoring step does this describe?",
+      "options": {
+        "A": "Select initial development approach",
+        "B": "Tailor for the organization",
+        "C": "Tailor for the project",
+        "D": "Implement ongoing improvement"
+      }
+    },
+    {
+      "id": 7,
+      "section": "Tailoring",
+      "question": "You are a project manager for a software development project. Your team consists of experienced developers who have worked together for several years. You are tasked with developing a project plan that adheres to the company's project management framework. Which of the following is the most appropriate approach to tailoring the project management framework for this project?",
+      "options": {
+        "A": "Consult with the team to determine the most appropriate approach to tailoring the framework",
+        "B": "Implement the framework as is without any modifications",
+        "C": "Modify the framework to fit the team's preferences and work style",
+        "D": "Develop a custom framework specifically for this project"
+      }
+    },
+    {
+      "id": 8,
+      "section": "Tailoring",
+      "question": "Which of the following best describes a key benefit of tailoring on projects?",
+      "options": {
+        "A": "Increase project scope",
+        "B": "Reduce project costs",
+        "C": "Improve project quality",
+        "D": "Simplify project management"
+      }
+    },
+    {
+      "id": 9,
+      "section": "Tailoring Steps",
+      "question": "A project manager has completed a project and is conducting a lessons learned review to identify areas for improvement in the project management approach. What tailoring step does this describe?",
+      "options": {
+        "A": "Conduct lessons learned close out steps",
+        "B": "Tailor for the organization",
+        "C": "Tailor for the project",
+        "D": "Implement ongoing improvement"
+      }
+    },
+    {
+      "id": 10,
+      "section": "Tailoring Steps",
+      "question": "The tailoring step to select the initial approach is to determine what?",
+      "options": {
+        "A": "The communications approach with stakeholders",
+        "B": "The project team approach in establishing ground rules",
+        "C": "The approach in use of project management software",
+        "D": "The development approach used for the project"
+      }
+    }
+  ]
+}
+
+{
+  "module": "Project Management Foundations - Final Exam",
+  "total_questions": 9,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Agile",
+      "question": "Which meeting is not a part of agile development?",
+      "options": {
+        "A": "Retrospectives",
+        "B": "Risk Review",
+        "C": "Daily Standup",
+        "D": "Demonstrations/Review"
+      }
+    },
+    {
+      "id": 2,
+      "section": "Decision Making",
+      "question": "A project manager is working on a project that has multiple stakeholders with different priorities. Which of the following is the best way to deliver value to all stakeholders?",
+      "options": {
+        "A": "Focusing on the priorities of the stakeholder with the most influence.",
+        "B": "Communicating with each stakeholder to understand their priorities and needs.",
+        "C": "Trying to please all stakeholders equally.",
+        "D": "Ignoring the priorities of stakeholders with less influence."
+      }
+    },
+    {
+      "id": 3,
+      "section": "Scenario",
+      "question": "Your boss has assigned you to a \"special project\" of updating an existing document that is housed in the newly implemented shared holder site that was implemented last year.\n\nWhich one of the following statements is NOT TRUE?",
+      "options": {
+        "A": "Operations represent the ongoing efforts of a business, such as ongoing production of goods or services.",
+        "B": "The implementation of the shared folder initiative is an example of a project.",
+        "C": "The request to update an existing document does not meet the characteristics of a project.",
+        "D": "The request to update an existing document meets the characteristics of a project"
+      }
+    },
+    {
+      "id": 4,
+      "section": "PMI Talent Triangle",
+      "question": "You are the project manager of a non-profit organization that is launching a new fundraising campaign.\n\nYou have encountered resistance from some team members who are hesitant to adopt new fundraising methods.\n\nWhich talent triangle skill would you utilize to persuade these team members to adopt the new methods?",
+      "options": {
+        "A": "Technical Project Management Skills",
+        "B": "Leadership Skills",
+        "C": "Strategic and Business Management Skills",
+        "D": "A and C"
+      }
+    },
+    {
+      "id": 5,
+      "section": "Agile",
+      "question": "During a Scrum of Scrums meeting, a team member raises a concern about the quality of work being produced by another team. What is the appropriate action for the Scrum Master to take?",
+      "options": {
+        "A": "Ignore the concern and move on to the next topic.",
+        "B": "Assign a coach to work with the underperforming team.",
+        "C": "Raise the issue with the Product Owner and let them handle it.",
+        "D": "Encourage the team member to work directly with the other team to resolve the issue."
+      }
+    },
+    {
+      "id": 6,
+      "section": "Ethics",
+      "question": "Your Senior Lead on the project is presenting a status report of all projects to your boss.\n\nShe reports that all projects are \"on schedule\". However, you know that 4 of the 5 active projects are behind schedule because of a specific resource that has been unavailable.\n\nWhat do you do?",
+      "options": {
+        "A": "Do nothing as the Senior Lead explained that the key resource will be available in a couple of week and it will be a non-issue.",
+        "B": "Have a one-on-one conversation with the Senior Lead and express your concern around reporting misleading information.",
+        "C": "Notify your boss immediately that this person is being deceitful.",
+        "D": "Take detailed notes about the misinformation and anonymously submit your concerns to HR"
+      }
+    },
+    {
+      "id": 7,
+      "section": "Organization Structure",
+      "question": "You are the project manager leading an initiative to implement a new electronic health record system at a busy hospital. On this project, you have a high degree of autonomy for project teams where you have control over resources, decision-making, and team composition. What best describes this type of organizational structure?",
+      "options": {
+        "A": "Functional",
+        "B": "Project-Oriented",
+        "C": "Strong Matrix",
+        "D": "Balance Matrix"
+      }
+    },
+    {
+      "id": 8,
+      "section": "Agile",
+      "question": "A software development team is considering using the Agile Suitability Filters Questionnaire to determine if their project is suitable for an agile approach. Which of the following is a key benefit of using this questionnaire?",
+      "options": {
+        "A": "It helps teams identify the most appropriate agile methodology for their project.",
+        "B": "It ensures that all team members have a shared understanding of the project requirements.",
+        "C": "It helps teams identify potential roadblocks and risks to agile adoption.",
+        "D": "It provides a step-by-step guide for implementing agile practices."
+      }
+    },
+    {
+      "id": 9,
+      "section": "Planning",
+      "question": "You are managing a large, complex project that will take several years to complete. You are currently planning Phase 1 activities in detail and only planning the activities in later Phases at a high level. Which of the following planning approaches does this best describe?",
+      "options": {
+        "A": "Progressive Elaboration",
+        "B": "Rolling Wave Planning",
+        "C": "Agile Planning",
+        "D": "Adaptive Planning"
+      }
+    }
+  ]
+}
+
+
+{
+  "module": "PMP Exam Prep: Managing People - Power Skills - Week 1",
+  "total_questions": 14,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Power Skills",
+      "question": "You are the project manager of a cross-functional team working on a complex software development project. During a team meeting, one of your team members suggests a new approach to solving a critical technical issue. Which domain of the Exam Content Outline does the Power Skills domain link to?",
+      "options": {
+        "A": "Power Skills",
+        "B": "Process",
+        "C": "People",
+        "D": "Business Environment"
+      }
+    },
+    {
+      "id": 2,
+      "section": "PMI Talent Triangle",
+      "question": "Your project team is facing a significant conflict between two team members who are responsible for crucial aspects of the project. The conflict is affecting team morale and project progress. Which of the following is NOT a domain of the PMI Talent Triangle?",
+      "options": {
+        "A": "Power Skills",
+        "B": "Process",
+        "C": "Ways of Working",
+        "D": "Business Acumen"
+      }
+    },
+    {
+      "id": 3,
+      "section": "Power Skills",
+      "question": "As a project manager, you've noticed that despite your team's technical expertise, there are communication breakdowns and misunderstandings causing delays in project delivery. Which power skill should you focus on to address this issue and enhance project success?",
+      "options": {
+        "A": "Scope Management",
+        "B": "Time Management",
+        "C": "Technical Knowledge",
+        "D": "Emotional Intelligence"
+      }
+    },
+    {
+      "id": 4,
+      "section": "PM Roles",
+      "question": "During a project team meeting, the project manager assigns specific tasks to team members, sets deadlines, and monitors their progress closely. The project manager ensures that the project stays on track and within scope. Which role is the project manager primarily exhibiting in this scenario?",
+      "options": {
+        "A": "Leader",
+        "B": "Manager",
+        "C": "Facilitator",
+        "D": "Coordinator"
+      }
+    },
+    {
+      "id": 5,
+      "section": "Leadership",
+      "question": "A project team is facing a critical issue that requires a creative solution. The project manager encourages team members to openly share their ideas and perspectives on how to resolve the issue. The project manager also values collaboration and seeks to inspire the team to think outside the box. What role is the project manager exemplifying in this situation?",
+      "options": {
+        "A": "Manager",
+        "B": "Sage",
+        "C": "Sponsor",
+        "D": "Leader"
+      }
+    },
+    {
+      "id": 6,
+      "section": "Negotiation",
+      "question": "Your project team requires additional budget to implement innovative features that could significantly enhance the project's outcome. How can you negotiate with upper management to secure the necessary resources and ensure project success?",
+      "options": {
+        "A": "Recommend halting the project if additional budget is not provided.",
+        "B": "Prepare a comprehensive proposal that outlines the potential benefits of the innovative features and how they align with the organization's goals",
+        "C": "Offer to cut corners in other areas of the project to fund the innovative features.",
+        "D": "Accept the budget constraints and proceed with the project as originally planned."
+      }
+    },
+    {
+      "id": 7,
+      "section": "Stakeholder Management",
+      "question": "You are the project manager of a construction project that is running behind schedule due to unforeseen weather conditions. The contractor responsible for the critical path tasks is requesting an extension of the deadline, but the client is adamant about the original completion date. What should you do?",
+      "options": {
+        "A": "Deny the extension request and insist on adhering to the original deadline.",
+        "B": "Immediately grant the extension to avoid conflicts with the contractor.",
+        "C": "Arrange a meeting with the client and contractor to discuss possible solutions and trade-offs.",
+        "D": "Request additional resources without consulting the client to accelerate progress."
+      }
+    },
+    {
+      "id": 8,
+      "section": "Conflict Management",
+      "question": "Your project team is facing a significant conflict between two team members who are responsible for crucial aspects of the project. The conflict is affecting team morale and project progress. What should you do as a project manager to address this conflict?",
+      "options": {
+        "A": "Ignore the conflict and hope that it resolves itself over time.",
+        "B": "Meet with each team member individually and ask them to avoid discussing the conflict.",
+        "C": "Bring both team members together, listen to their concerns, and work towards a mutually acceptable solution.",
+        "D": "Reassign one of the team members to a different project to eliminate the conflict"
+      }
+    },
+    {
+      "id": 9,
+      "section": "Motivation",
+      "question": "Your project is progressing well, but you've noticed that team members seem disengaged and unmotivated. This could potentially impact project timelines and deliverables. What power skill can you utilize to address this issue and boost team morale?",
+      "options": {
+        "A": "Procurement Management",
+        "B": "Team Charter",
+        "C": "Influencing Skills",
+        "D": "Conflict Resolution"
+      }
+    },
+    {
+      "id": 10,
+      "section": "Leadership",
+      "question": "You are the project manager of a software development project with a diverse team of developers, designers, and testers. The project is running behind schedule, and tensions are rising due to differing opinions on how to proceed. As the project manager, what approach would best demonstrate leadership in this situation?",
+      "options": {
+        "A": "Provide detailed instructions to each team member on how to catch up on their tasks",
+        "B": "Hold a team meeting to discuss the challenges openly and encourage team members to share their perspectives",
+        "C": "Assign blame to the team members responsible for the delays to ensure accountability.",
+        "D": "Request additional resources from senior management to speed up the project."
+      }
+    },
+    {
+      "id": 11,
+      "section": "Motivation",
+      "question": "Your project team has been working tirelessly to meet aggressive deadlines for consecutive months. The team's morale is visibly low due to burnout. How can you re-energize and motivate your team to regain their enthusiasm and commitment to the project's success?",
+      "options": {
+        "A": "Ask for volunteers to take on increased workload to expedite project completion.",
+        "B": "Offer financial bonuses to the top-performing team members.",
+        "C": "Organize a team-building retreat to help them relax and bond outside of work.",
+        "D": "Initiate one-on-one conversations with team members to understand their concerns and provide necessary support."
+      }
+    },
+    {
+      "id": 12,
+      "section": "Risk / Resource",
+      "question": "You're managing a software development project that is nearing its final testing phase. However, you receive news that a critical team member will be out of the office during this crucial period due to unexpected personal reasons. This team member possesses unique expertise that is essential for successful testing. How should you address this situation to ensure a smooth project conclusion?",
+      "options": {
+        "A": "Analyze the specific tasks that require the absent team member's expertise and explore potential solutions to bridge the knowledge gap.",
+        "B": "Employ resource leveling and delay the testing phase until the team member returns.",
+        "C": "Consider assigning the task to another team member who has been shadowing the team member for a week.",
+        "D": "Continue with the testing phase as planned and document in the risk register."
+      }
+    },
+    {
+      "id": 13,
+      "section": "Business Awareness",
+      "question": "Your project is running smoothly, but you've heard whispers of upcoming organizational changes that might affect project priorities. How should you navigate this situation to ensure the project's alignment with potential changes while keeping your team focused?",
+      "options": {
+        "A": "Disregard the rumors and continue with the project's current direction.",
+        "B": "Panic and communicate the rumors to your team without verifying their accuracy.",
+        "C": "Monitor the situation, gather reliable information, and proactively adapt the project's strategies to align with potential changes.",
+        "D": "Seek a new role within the organization to avoid potential disruptions caused by changes."
+      }
+    },
+    {
+      "id": 14,
+      "section": "Servant Leadership",
+      "question": "A team member is consistently critical of the retrospective meetings, believing they are a waste of time. How can you use servant leadership to address this situation?",
+      "options": {
+        "A": "Collaboratively discuss the team member's concerns, understand their perspective, and find ways to improve the retrospective process.",
+        "B": "Ignore the team member's feedback since you believe in the value of retrospectives.",
+        "C": "Confront the team member about their attitude and ask them to change.",
+        "D": "Remove the team member from the retrospective meetings."
+      }
+    }
+  ]
+}
+
+
+{
+  "module": "PMP Exam Prep: Managing People - Stakeholder Engagement (People Domain Core System)",
+  "total_questions": 16,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Stakeholders",
+      "question": "In an environmental conservation project aiming to restore a local wetland, which of the following is an external stakeholder?",
+      "options": {
+        "A": "The project manager.",
+        "B": "The team of ecologists working on the project.",
+        "C": "The local community members.",
+        "D": "The volunteers participating in the project."
+      }
+    },
+    {
+      "id": 2,
+      "section": "Stakeholder Analysis",
+      "question": "You are leading a project to develop a new mobile application for a health and fitness company. Which action is most crucial to identify stakeholders to ensure project success?",
+      "options": {
+        "A": "Creating a detailed project plan.",
+        "B": "Collecting information on the stakeholders' interests and potential impact.",
+        "C": "Conducting a risk analysis of the project.",
+        "D": "Setting up a project schedule."
+      }
+    },
+    {
+      "id": 3,
+      "section": "Stakeholder Register",
+      "question": "You are responsible for identifying all potential project stakeholders, documenting their information, and assessing their level of influence and interest in the project. Which artifact will you use to document this information?",
+      "options": {
+        "A": "Communications Management Plan",
+        "B": "Stakeholder Engagement Plan",
+        "C": "Project Charter",
+        "D": "Stakeholder Register"
+      }
+    },
+    {
+      "id": 4,
+      "section": "Influence Types",
+      "question": "A stakeholder from the Marketing Department suggests UI changes for a CRM system. What type of influence is this stakeholder exhibiting?",
+      "options": {
+        "A": "Sideward Influence",
+        "B": "Upward Influence",
+        "C": "Downward Influence",
+        "D": "Outward Influence"
+      }
+    },
+    {
+      "id": 5,
+      "section": "Agile Visibility",
+      "question": "Which artifact is best suited to provide stakeholders with ongoing visibility into project status?",
+      "options": {
+        "A": "Product Backlog",
+        "B": "Iteration Review",
+        "C": "Information Radiators",
+        "D": "User Personas"
+      }
+    },
+    {
+      "id": 6,
+      "section": "Agile Meetings",
+      "question": "Which meeting is focused on showcasing product increment?",
+      "options": {
+        "A": "Retrospective",
+        "B": "Management Review",
+        "C": "Iteration Review",
+        "D": "Daily Standup"
+      }
+    },
+    {
+      "id": 7,
+      "section": "Stakeholder Engagement",
+      "question": "In a construction project, a team member suggests involving local community representatives. What is the most appropriate action?",
+      "options": {
+        "A": "Disregard the suggestion.",
+        "B": "Include community representatives as stakeholders since they can influence the project outcome.",
+        "C": "Only internal team members are stakeholders.",
+        "D": "Seek approval from upper management first."
+      }
+    },
+    {
+      "id": 8,
+      "section": "Stakeholder Prioritization",
+      "question": "How should stakeholders be prioritized?",
+      "options": {
+        "A": "Based on financial contributions.",
+        "B": "Based on their impact on the project's objectives.",
+        "C": "Based on organizational interdependencies.",
+        "D": "Based on availability for meetings."
+      }
+    },
+    {
+      "id": 9,
+      "section": "Stakeholder Understanding",
+      "question": "To understand environmental activist stakeholders, what should you focus on?",
+      "options": {
+        "A": "Financial support potential.",
+        "B": "Past project involvement.",
+        "C": "Their specific environmental concerns and expectations.",
+        "D": "Social media presence."
+      }
+    },
+    {
+      "id": 10,
+      "section": "Assessment Tools",
+      "question": "Which technique evaluates the effectiveness of stakeholder engagement strategies?",
+      "options": {
+        "A": "Stakeholder Register",
+        "B": "Stakeholder Engagement Assessment Matrix",
+        "C": "Directions of Influence",
+        "D": "Communications Management Plan"
+      }
+    },
+    {
+      "id": 11,
+      "section": "Project Charter",
+      "question": "Which artifact documents high-level objectives, stakeholders, and assumptions?",
+      "options": {
+        "A": "Team Charter",
+        "B": "Communications Management Plan",
+        "C": "Project Charter",
+        "D": "Stakeholder Register"
+      }
+    },
+    {
+      "id": 12,
+      "section": "Communications",
+      "question": "Which artifact helps identify stakeholders who need to be informed about issues and communication methods?",
+      "options": {
+        "A": "Issue Log",
+        "B": "Communications Management Plan",
+        "C": "Stakeholder Register",
+        "D": "Stakeholder Communications Assessment Matrix"
+      }
+    },
+    {
+      "id": 13,
+      "section": "Influence Direction",
+      "question": "A senior executive provides input and has authority to allocate additional budget. What direction of influence is this?",
+      "options": {
+        "A": "Upward Influence",
+        "B": "Downward Influence",
+        "C": "Outward Influence",
+        "D": "Inward Influence"
+      }
+    },
+    {
+      "id": 14,
+      "section": "Agile User Stories",
+      "question": "Which is the correct user story format?",
+      "options": {
+        "A": "Access account information, saving time and effort.",
+        "B": "As a customer, I want to access my account information to save time and effort.",
+        "C": "Customer: Access account information - Benefit: Save time and effort.",
+        "D": "Accessing account information for convenience."
+      }
+    },
+    {
+      "id": 15,
+      "section": "Stakeholder Management",
+      "question": "A marketing campaign feedback shows misalignment with product features. What should you do?",
+      "options": {
+        "A": "Hold a brainstorming session with stakeholders to refine messaging.",
+        "B": "Document feedback and continue unchanged.",
+        "C": "Modify product features to match messaging.",
+        "D": "Avoid stakeholder involvement."
+      }
+    },
+    {
+      "id": 16,
+      "section": "Stakeholder Analysis Purpose",
+      "question": "What is the primary purpose of stakeholder analysis?",
+      "options": {
+        "A": "Prioritize stakeholders by involvement.",
+        "B": "Identify conflicts and develop strategies to resolve them.",
+        "C": "Gather technical feedback.",
+        "D": "Assess impact on project progress."
+      }
+    }
+  ]
+}
+
+{
+  "module": "PMP Exam Prep: Managing People - Week 2",
+  "topic": "Stakeholder Engagement + Team + Motivation + Agile Concepts",
+  "total_questions": 10,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Resource Management",
+      "question": "You are managing a large construction project that requires specific equipment and skilled labor. To ensure the availability of resources when needed and to optimize their utilization, which document should you develop?",
+      "options": {
+        "A": "Team Charter",
+        "B": "RACI Chart",
+        "C": "Resource Management Plan",
+        "D": "RAM"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "section": "Resource Negotiation",
+      "question": "You are the project manager for a high-priority project, and two departments in your organization are vying for the same set of skilled team members. Both departments believe they need these resources to meet their objectives. How should you handle this negotiation?",
+      "options": {
+        "A": "You decide to allocate the resources to the department with the highest project priority.",
+        "B": "You hold a meeting with the heads of both departments to understand their needs and try to find a compromise.",
+        "C": "You inform both departments that they will have to share the resources equally.",
+        "D": "You allocate the resources to the department that requested them first."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "section": "Team Definition",
+      "question": "You're a project manager leading a software development project. Some team members are assigned to your project full-time, while others are part-time resources shared across multiple projects. Which term best describes the full-time and part-time team members?",
+      "options": {
+        "A": "Project Team",
+        "B": "Project Management Team",
+        "C": "Cross-functional Team",
+        "D": "Stakeholder Team"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "section": "Motivation Theory",
+      "question": "As an Agile team leader, you prioritize a culture of trust, collaboration, and continuous improvement. Which motivation theory reflects your servant leadership style?",
+      "options": {
+        "A": "Theory X",
+        "B": "Theory Y",
+        "C": "Theory Z",
+        "D": "McClelland Theory of Needs"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "section": "Decision Making",
+      "question": "Your Agile team is trying to make a critical decision about changing the project's scope. During a Fist of Five vote, one team member raises three fingers. What does this indicate?",
+      "options": {
+        "A": "Strong support for the proposed change",
+        "B": "No vote on the decision",
+        "C": "Strong opposition to the proposed change",
+        "D": "Partial support but with concerns"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "section": "Agile Maturity",
+      "question": "According to the Shu-Ha-Ri model, what stage should team members be in as they learn and apply a new adaptive methodology?",
+      "options": {
+        "A": "Shu - Following rules and practices closely",
+        "B": "Ha - Adapting and experimenting with variations",
+        "C": "Ri - Mastery and creating new practices",
+        "D": "Kaizen - Continuous improvement"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "section": "Team Type",
+      "question": "In a project, you have team members located in different geographical areas who collaborate using digital tools and communication channels. What type of team is this?",
+      "options": {
+        "A": "Co-located Team",
+        "B": "Virtual Team",
+        "C": "Cross-Functional Team",
+        "D": "Collaborative Team"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "section": "Virtual Collaboration",
+      "question": "You are managing a global software development team and want to simulate the benefits of co-location. What is this practice called?",
+      "options": {
+        "A": "Virtual Team",
+        "B": "Virtual Co-location",
+        "C": "Collaborative Games",
+        "D": "Servant Leadership"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "section": "Team Development",
+      "question": "Your team initially had conflicts but is now collaborating effectively and working smoothly. In which Tuckman stage is the team?",
+      "options": {
+        "A": "Forming",
+        "B": "Storming",
+        "C": "Norming",
+        "D": "Performing"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "section": "Leadership",
+      "question": "You are leading a team and one member is struggling. What is the most appropriate servant leadership approach?",
+      "options": {
+        "A": "Take over the task",
+        "B": "Provide guidance and support",
+        "C": "Replace the member",
+        "D": "Wait and observe"
+      },
+      "answer": "B"
+    }
+  ]
+}
+
+{
+  "module": "PMP Exam Prep: Managing People - Communication Management (Full Set)",
+  "total_questions": 10,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Communication Planning",
+      "question": "You've been assigned as the project manager for a software development project with a distributed team. Stakeholders are spread across different time zones. What should you focus on initially to ensure that you meet the information needs of stakeholders?",
+      "options": {
+        "A": "Develop a stakeholder engagement plan.",
+        "B": "Identify communication requirements.",
+        "C": "Define communication methods.",
+        "D": "Establish a change control process."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "section": "Communication Methods",
+      "question": "Your project team needs to provide regular status updates to stakeholders. Which communication method involves actively engaging stakeholders in discussions, allowing them to ask questions and provide feedback?",
+      "options": {
+        "A": "Push communication",
+        "B": "Pull communication",
+        "C": "Interactive communication",
+        "D": "Collaborative communication"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "section": "Written Communication",
+      "question": "You are responsible for drafting a project report that will be shared with stakeholders. Which of the following is a key aspect of the 'Clear' component of the 5 Cs of written communications?",
+      "options": {
+        "A": "Using complex technical jargon",
+        "B": "Providing too much detail",
+        "C": "Ensuring the message is easy to understand",
+        "D": "Using visual elements"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "section": "Agile Practice",
+      "question": "In a globally dispersed agile team, team members work remotely from different time zones. To foster collaboration and knowledge sharing, they have adopted a practice where team members collaborate by sharing screens and working together on tasks. What practice has the team adopted?",
+      "options": {
+        "A": "Collaborative group work",
+        "B": "Remote pairing",
+        "C": "Fishbowl window",
+        "D": "Osmotic communications"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "section": "Agile Ceremony",
+      "question": "At the end of a sprint, the team gathers for a meeting where they reflect on their recent work. They discuss challenges, successes, and areas for improvement, with the goal of making adjustments for the next sprint. Which agile ceremony is described in this scenario?",
+      "options": {
+        "A": "Daily Stand-up",
+        "B": "Sprint Planning",
+        "C": "Sprint Review",
+        "D": "Sprint Retrospective"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "section": "Knowledge Sharing",
+      "question": "Your project team wants to improve knowledge sharing among its members. Which of the following methods is the most interactive and engaging way to achieve this goal?",
+      "options": {
+        "A": "Sending regular email updates with project insights.",
+        "B": "Hosting monthly networking events with team members.",
+        "C": "Distributing a monthly newsletter with project highlights.",
+        "D": "Creating a library of project documents for self-study."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "section": "Communication Management Plan",
+      "question": "You are managing a high-stakes project for a client with strict reporting requirements. The client requests an additional weekly status report. What should you do?",
+      "options": {
+        "A": "Immediately provide the additional report to the client.",
+        "B": "Inform the client that the reporting frequency cannot be changed.",
+        "C": "Review the communication management plan and consult stakeholders.",
+        "D": "Delegate the task of creating the report to a team member."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "section": "Agile Planning",
+      "question": "Your project team is about to start a new sprint, and you want to ensure that the team has a clear understanding of the sprint goal and the work to be completed. Which agile ceremony is most suitable for discussing these aspects?",
+      "options": {
+        "A": "Daily Standup",
+        "B": "Sprint Review",
+        "C": "Sprint Planning",
+        "D": "Sprint Retrospective"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "section": "Communication Model",
+      "question": "You are a project manager overseeing a team of software developers. One of your team members, Alex, has been working remotely due to a family emergency. You need to provide Alex with clear instructions regarding an urgent project update. You send an email containing all the necessary details, but you're concerned that Alex might not understand some technical aspects. In this scenario, what element of the communication model represents the email message you sent to Alex?",
+      "options": {
+        "A": "Sender",
+        "B": "Receiver",
+        "C": "Feedback",
+        "D": "Noise"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "section": "Communication Planning",
+      "question": "You've been assigned as the project manager for a software development project with a distributed team. Stakeholders are spread across different time zones. What should you focus on initially to ensure that you meet the information needs of stakeholders?",
+      "options": {
+        "A": "Develop a stakeholder engagement plan.",
+        "B": "Identify communication requirements.",
+        "C": "Define communication methods.",
+        "D": "Establish a change control process."
+      },
+      "answer": "B"
+    }
+  ]
+}
+
+{
+  "module": "PMP Exam Prep: Managing People - Power Skills - Week 2",
+  "total_questions": 20,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Leadership",
+      "question": "A project team is facing a critical issue that requires a creative solution. The project manager encourages team members to openly share their ideas and perspectives on how to resolve the issue. The project manager also values collaboration and seeks to inspire the team to think outside the box. What role is the project manager exemplifying in this situation?",
+      "options": {
+        "A": "Manager",
+        "B": "Sage",
+        "C": "Sponsor",
+        "D": "Leader"
+      }
+    },
+    {
+      "id": 2,
+      "section": "PM Roles",
+      "question": "During a project team meeting, the project manager assigns specific tasks to team members, sets deadlines, and monitors their progress closely. The project manager ensures that the project stays on track and within scope. Which role is the project manager primarily exhibiting in this scenario?",
+      "options": {
+        "A": "Leader",
+        "B": "Manager",
+        "C": "Facilitator",
+        "D": "Coordinator"
+      }
+    },
+    {
+      "id": 3,
+      "section": "Active Listening",
+      "question": "A team member frequently raises concerns about the project timeline during meetings, expressing doubts about its feasibility. What should the project manager do to effectively demonstrate active listening to address their concerns and maintain their engagement?",
+      "options": {
+        "A": "Allow the team member to fully explain their concerns and ask follow-up questions to understand the underlying issues.",
+        "B": "Interrupt the team member to provide justifications for the timeline.",
+        "C": "Acknowledge their concerns and document for discussions at the end of the project.",
+        "D": "Assign the team member additional tasks to keep them occupied."
+      }
+    },
+    {
+      "id": 4,
+      "section": "Negotiation",
+      "question": "Your project team is working on a critical phase, and unexpected changes in scope have led to resource constraints and a potential delay in the project timeline. You need to convince stakeholders to allocate additional resources to your project. What strategy should you use?",
+      "options": {
+        "A": "Recommend halting the project until the required resources are allocated.",
+        "B": "Downplay the importance of the project's success.",
+        "C": "Make decisions about resource allocation without involving stakeholders.",
+        "D": "Share data and evidence of the project's potential benefits."
+      }
+    },
+    {
+      "id": 5,
+      "section": "Problem Solving",
+      "question": "You're leading a project team that is building an app for a health system that has the potential to improve patient satisfaction. The project is facing unexpected delays due to technical issues. What should you do to address this situation?",
+      "options": {
+        "A": "Assign responsibility to the team to investigate the issues and report back to you.",
+        "B": "Analyze the root causes of the technical issues and develop a plan to address them.",
+        "C": "Withdraw from the issues and allow them to resolve on their own.",
+        "D": "Escalate the problems to upper management as the technical issues will need their input."
+      }
+    },
+    {
+      "id": 6,
+      "section": "Negotiation",
+      "question": "Your project team requires additional budget to implement innovative features that could significantly enhance the project's outcome. How can you negotiate with upper management to secure the necessary resources and ensure project success?",
+      "options": {
+        "A": "Recommend halting the project if additional budget is not provided.",
+        "B": "Prepare a comprehensive proposal that outlines the potential benefits of the innovative features and how they align with the organization's goals.",
+        "C": "Offer to cut corners in other areas of the project to fund the innovative features.",
+        "D": "Accept the budget constraints and proceed with the project as originally planned."
+      }
+    },
+    {
+      "id": 7,
+      "section": "Stakeholder Management",
+      "question": "Your project involves a multinational team with stakeholders from various countries. Each stakeholder group has differing levels of influence and interest in the project. You've identified a key stakeholder in your project who is an influential executive from the client organization. During a meeting, you notice that this stakeholder is particularly concerned about project timelines and quality standards. What should you focus on to understand this stakeholder better?",
+      "options": {
+        "A": "Their willingness to provide financial support.",
+        "B": "Their project-specific expectations and concerns.",
+        "C": "Their role and responsibilities within the project team.",
+        "D": "Their historical performance on previous projects."
+      }
+    },
+    {
+      "id": 8,
+      "section": "Stakeholder Engagement",
+      "question": "You are managing a project to develop a new product for a client. One of the stakeholders is a subject matter expert (SME) who has deep knowledge in the project domain. They are enthusiastic about the project but have limited availability due to other commitments. How should you engage this SME effectively to harness their expertise?",
+      "options": {
+        "A": "Establish a regular and flexible communication schedule.",
+        "B": "Minimize their involvement to prevent disruptions.",
+        "C": "Request occasional written reports on their insights.",
+        "D": "Delegate their responsibilities to other team members."
+      }
+    },
+    {
+      "id": 9,
+      "section": "Stakeholder Analysis",
+      "question": "You are managing a technology project for a government agency, and you have identified a stakeholder who possesses high power and high legitimacy but has not demonstrated a sense of urgency in the project. Which stakeholder engagement tool or concept helps you prioritize engagement with this stakeholder based on the described attributes?",
+      "options": {
+        "A": "Power-Interest Grid",
+        "B": "Stakeholder Register",
+        "C": "Stakeholder Engagement Assessment Matrix",
+        "D": "Salience Model"
+      }
+    },
+    {
+      "id": 10,
+      "section": "Stakeholder Tools",
+      "question": "You are the project manager of a large construction project. During the project initiation phase, you are identifying stakeholders and assessing their potential impact on the project. Which tool or technique should you use to create a visual representation of stakeholder relationships and interests?",
+      "options": {
+        "A": "Project Charter",
+        "B": "Stakeholder Engagement Plan",
+        "C": "Stakeholder Mapping",
+        "D": "Communications Management Plan"
+      }
+    },
+    {
+      "id": 11,
+      "section": "Power-Interest Grid",
+      "question": "You are managing a construction project with multiple stakeholders. To prioritize your stakeholder engagement efforts, you decide to use a power-interest grid. A stakeholder with high power and high interest should be:",
+      "options": {
+        "A": "Monitored Closely",
+        "B": "Kept Satisfied",
+        "C": "Kept Informed",
+        "D": "Actively Engaged"
+      }
+    },
+    {
+      "id": 12,
+      "section": "Agile Stakeholders",
+      "question": "You are a project manager in the adaptive environment responsible for developing a mobile banking app for a leading financial institution. The project involves multiple user groups, including tech-savvy millennials and older clients who prefer traditional banking methods. To better understand your stakeholders, which artifact would be most helpful for creating detailed representations of these stakeholder groups, including their demographics, behaviors, and specific requirements?",
+      "options": {
+        "A": "User Stories",
+        "B": "Iteration Review",
+        "C": "Information Radiators",
+        "D": "User Personas"
+      }
+    },
+    {
+      "id": 13,
+      "section": "Coaching vs Mentoring",
+      "question": "Your project team includes a new member who lacks experience in your industry. You want to provide them with long-term support and career development advice. Which approach is most appropriate for this situation?",
+      "options": {
+        "A": "Training",
+        "B": "Workshops",
+        "C": "Coaching",
+        "D": "Mentoring"
+      }
+    },
+    {
+      "id": 14,
+      "section": "Change Management",
+      "question": "You are leading a project to develop a new mobile application. The project team consists of software developers, quality assurance testers, and user interface designers. The project management team includes you, the project manager, a business analyst, and a project coordinator. Your client, who is not part of the project management team, requests changes to the app's user interface design. Who should communicate these requested changes to the project team and oversee their implementation?",
+      "options": {
+        "A": "The project coordinator, as they assist with project communications.",
+        "B": "The business analyst, as they work closely with the client.",
+        "C": "The project manager, as they are responsible for overall project execution.",
+        "D": "The user interface designers, as they are experts in design."
+      }
+    },
+    {
+      "id": 15,
+      "section": "Agile Teams",
+      "question": "You are a project manager assembling a cross-functional Agile team. Some team members are highly specialized in one area, while others have a broader range of skills. What type of team members are ideal for in an Agile team?",
+      "options": {
+        "A": "I-shaped team members.",
+        "B": "T-shaped team members.",
+        "C": "Any mix of skills is acceptable.",
+        "D": "Only specialized team members."
+      }
+    },
+    {
+      "id": 16,
+      "section": "Communication Adaptation",
+      "question": "You're taking over as the project manager for a project in the aerospace industry. The previous manager had a technical communication style, but you recognize the need for a more high-level approach for the executive team. What should you do to tailor communication styles effectively?",
+      "options": {
+        "A": "Maintain the same technical communication style as it has proven to work with the previous project manager",
+        "B": "Implement a high-level communication style for all stakeholders",
+        "C": "Consult with stakeholders and adapt communication styles to meet expectations and needs",
+        "D": "Document the existing communication style and communicate as you see fit"
+      }
+    },
+    {
+      "id": 17,
+      "section": "Communication Types",
+      "question": "You are a team leader in a creative design agency working on a project to create a new brand identity for a client. While brainstorming ideas with your team, you engage in a spontaneous discussion about potential design concepts and marketing strategies. You document the ideas on flipchart paper and sticky notes. The client requests an update on the project's status, highlighting key milestones and potential delays. Which type of communication should you use to respond to the client's request?",
+      "options": {
+        "A": "Formal verbal communication",
+        "B": "Formal written communication",
+        "C": "Informal verbal communication",
+        "D": "Informal written communication"
+      }
+    },
+    {
+      "id": 18,
+      "section": "Knowledge Sharing",
+      "question": "Your project team wants to improve knowledge sharing among its members. Which of the following methods is the most interactive and engaging way to achieve this goal?",
+      "options": {
+        "A": "Sending regular email updates with project insights.",
+        "B": "Hosting monthly networking events with team members.",
+        "C": "Distributing a monthly newsletter with project highlights.",
+        "D": "Creating a library of project documents for self-study."
+      }
+    },
+    {
+      "id": 19,
+      "section": "Communication Management",
+      "question": "You're managing a research project for a client, and you've been receiving one-off requests for specific research findings and data from various team members and stakeholders. These requests often catch you off guard and disrupt your workflow. How can you prevent these one-off requests for project information in this research project?",
+      "options": {
+        "A": "Take note of the ad hoc requests and address them later",
+        "B": "Review and adjust your communication plan",
+        "C": "Create a ticketing system to address the volume of ad hoc requests",
+        "D": "Maintain a rigid communication approach"
+      }
+    },
+    {
+      "id": 20,
+      "section": "Communications Management",
+      "question": "You're managing a software development project with a diverse team working in different time zones. Your stakeholders include the client's project manager and the end-users. You notice that the project progress reports are not effectively reaching the client's project manager, causing misunderstandings. What should you focus on to resolve this issue?",
+      "options": {
+        "A": "Conduct more status meetings",
+        "B": "Provide additional training to team members",
+        "C": "Strengthen stakeholder engagement",
+        "D": "Improve communications management"
       }
     }
   ]

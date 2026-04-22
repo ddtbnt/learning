@@ -1925,3 +1925,1093 @@
     }
   ]
 }
+
+{
+  "module": "PMP Exam Prep: Ways of Working - Week 1 (Full Questions - No Truncation)",
+  "total_questions": 15,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Initiating",
+      "question": "You have been brought on as the project manager for a new community outreach program aimed at increasing local volunteer participation in environmental initiatives. During project initiation, you conduct stakeholder meetings, develop a preliminary scope, and create a project charter. What is the primary purpose of project initiation?",
+      "options": {
+        "A": "To create detailed project schedules and allocate resources.",
+        "B": "To develop detailed plans for project execution and control.",
+        "C": "To outline and document the project's quality management processes.",
+        "D": "To formally authorize the project and ensure all key stakeholders have a common understanding of the project’s goals."
+      },
+      "answer": "D",
+      "explanation": "Project initiation involves defining the project at a high level, creating the project charter, and obtaining formal authorization. This process group ensures that stakeholders understand the project's purpose, objectives, and overall scope."
+    },
+    {
+      "id": 2,
+      "section": "PMI Talent Triangle",
+      "question": "You are managing a project for a multinational corporation to launch a new product line. As part of your role, you need to ensure that the project aligns with the company’s strategic objectives and complies with relevant regulations and industry standards. During a project meeting, a key stakeholder raises concerns about the potential impact of recent regulatory changes on the project’s timeline and budget. Which aspect of the PMI Talent Triangle is primarily involved in addressing these concerns and ensuring the project aligns with the company’s strategic objectives and regulatory requirements?",
+      "options": {
+        "A": "Power Skills",
+        "B": "Process",
+        "C": "People",
+        "D": "Business Acumen"
+      },
+      "answer": "D",
+      "explanation": "Business Acumen focuses on external factors such as regulatory changes, market conditions, and strategy alignment."
+    },
+    {
+      "id": 3,
+      "section": "Benefits Management",
+      "question": "You have been assigned as the project manager for a new marketing campaign project aimed at increasing brand awareness. The benefits management plan has been created to ensure the project delivers the expected benefits. This plan includes the targeted benefits, their measurement methods, and the time frame for achieving them. What is the primary role of the benefits management plan in this scenario?",
+      "options": {
+        "A": "To ensure that the project delivers the anticipated benefits and value to the organization.",
+        "B": "To define the project’s quality standards and acceptance criteria.",
+        "C": "To document the project’s detailed budget and financial plans.",
+        "D": "To outline the project’s risk management strategies and contingency plans."
+      },
+      "answer": "A",
+      "explanation": "The benefits management plan ensures value realization through defined benefits and measurement."
+    },
+    {
+      "id": 4,
+      "section": "Business Case",
+      "question": "A project manager has just been assigned to a newly approved project to implement a new inventory management system. The project is expected to streamline operations and reduce costs. The project manager is tasked with developing the first draft of the project charter. To better understand the financial implications of the project, the project manager decides to review the net present value (NPV), internal rate of return (IRR), and benefit-cost ratio (BCR) to justify the project's viability. Which of the following documents can the project manager reference to find this information?",
+      "options": {
+        "A": "Project budget",
+        "B": "Project Management Plan",
+        "C": "Benefits Management Plan",
+        "D": "Business Case"
+      },
+      "answer": "D",
+      "explanation": "The business case includes financial metrics such as NPV, IRR, and BCR."
+    },
+    {
+      "id": 5,
+      "section": "Project Documents",
+      "question": "The Project Charter is the plan, right?",
+      "options": {
+        "A": "Yes, it is the detailed execution plan.",
+        "B": "No, the Project Charter authorizes the project, while the Project Management Plan defines how it will be executed and controlled.",
+        "C": "Both are the same document.",
+        "D": "The Project Charter is created after the Project Management Plan."
+      },
+      "answer": "B",
+      "explanation": "The charter authorizes the project, while the plan defines execution, monitoring, and control."
+    },
+    {
+      "id": 6,
+      "section": "Requirements Management",
+      "question": "You are managing a project to develop a new customer relationship management (CRM) system for a company. You are tasked with developing the requirements management plan. You need to ensure that all stakeholders' requirements are collected, documented, and tracked throughout the project lifecycle. What is the primary purpose of the requirements management plan?",
+      "options": {
+        "A": "To define how project scope will be verified and controlled.",
+        "B": "To outline the process for documenting, analyzing, and managing requirements.",
+        "C": "To create a detailed project schedule and allocate resources.",
+        "D": "To document the project's risk management strategies."
+      },
+      "answer": "B",
+      "explanation": "Defines how requirements are collected, analyzed, documented, and tracked."
+    },
+    {
+      "id": 7,
+      "section": "Cost Estimation",
+      "question": "You are managing a project to develop a new mobile application. To estimate the cost of developing the user interface, you decide to use the three-point estimating technique. What is the formula for calculating the expected cost?",
+      "options": {
+        "A": "(Optimistic + 4 * Most Likely + Pessimistic) / 6",
+        "B": "(Optimistic + Most Likely + Pessimistic) / 6",
+        "C": "(Pessimistic - Optimistic) / 6",
+        "D": "(Optimistic + 4 * Most Likely + Pessimistic) / 3"
+      },
+      "answer": "A",
+      "explanation": "Beta distribution gives more weight to most likely estimate."
+    },
+    {
+      "id": 8,
+      "section": "Cost Estimation",
+      "question": "You are managing a project to develop a new website. O=8000, M=12000, P=20000. What is expected cost?",
+      "options": {
+        "A": "$12,000",
+        "B": "$12,667",
+        "C": "$13,333",
+        "D": "$20,000"
+      },
+      "answer": "B",
+      "explanation": "(8000 + 4*12000 + 20000) / 6 = 12,667"
+    },
+    {
+      "id": 9,
+      "section": "Cost Estimation",
+      "question": "Which of the following represents a rough order of magnitude (ROM) estimate?",
+      "options": {
+        "A": "-25 percent to +75 percent",
+        "B": "-25 percent to +25 percent",
+        "C": "-50 percent to +50 percent",
+        "D": "-5 percent to +10 percent"
+      },
+      "answer": "A",
+      "explanation": "ROM is early estimate with wide range."
+    },
+    {
+      "id": 10,
+      "section": "Cost Management",
+      "question": "Which of the following is included in the cost management plan?",
+      "options": {
+        "A": "Risk management processes",
+        "B": "Methods for measuring cost performance",
+        "C": "Schedule details",
+        "D": "Quality criteria"
+      },
+      "answer": "B",
+      "explanation": "Cost plan includes cost measurement and control methods."
+    },
+    {
+      "id": 11,
+      "section": "Schedule Compression",
+      "question": "Which technique shortens schedule at additional cost?",
+      "options": {
+        "A": "Agile",
+        "B": "Overlapping phases",
+        "C": "Crashing",
+        "D": "Fast tracking"
+      },
+      "answer": "C",
+      "explanation": "Crashing = time reduction at higher cost."
+    },
+    {
+      "id": 12,
+      "section": "Schedule Logic",
+      "question": "A 2-day delay between activities is called?",
+      "options": {
+        "A": "Lead",
+        "B": "Lag",
+        "C": "Buffer",
+        "D": "Slack"
+      },
+      "answer": "B",
+      "explanation": "Lag = delay between activities."
+    },
+    {
+      "id": 13,
+      "section": "Dependencies",
+      "question": "Which dependency is based on best practice?",
+      "options": {
+        "A": "Mandatory",
+        "B": "Discretionary",
+        "C": "External",
+        "D": "Soft dependency"
+      },
+      "answer": "B",
+      "explanation": "Discretionary = preferred order based on experience."
+    },
+    {
+      "id": 14,
+      "section": "Scope",
+      "question": "What is the difference between product scope and project scope?",
+      "options": {
+        "A": "Product = process",
+        "B": "Product = features, Project = work",
+        "C": "Product = budget",
+        "D": "Product = risk"
+      },
+      "answer": "B",
+      "explanation": "Product scope = features, project scope = work."
+    },
+    {
+      "id": 15,
+      "section": "Planning",
+      "question": "What is the primary purpose of planning?",
+      "options": {
+        "A": "To develop detailed plans for execution and control",
+        "B": "To approve budget",
+        "C": "To identify risks",
+        "D": "To evaluate feasibility"
+      },
+      "answer": "A",
+      "explanation": "Planning creates detailed roadmap for execution."
+    }
+  ]
+}
+
+{
+  "module": "⚡ WEEK 2 – ADVANCED PLANNING PROJECTS",
+  "total_questions": 20,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Quality Management",
+      "question": "You are managing a project to produce two different types of cameras: a high-end professional camera and an entry-level consumer camera. The high-end camera has more features and higher performance specifications than the entry-level camera. However, both cameras must meet their respective quality standards. Which statement best differentiates between grade and quality?",
+      "options": {
+        "A": "Grade refers to the technical specifications, while quality refers to the features.",
+        "B": "Grade refers to the features and performance levels, while quality refers to the degree to which the product meets its requirements.",
+        "C": "Grade refers to the compliance with standards, while quality refers to the durability.",
+        "D": "Grade refers to the degree to which the product meets its requirements, while quality refers to the features and performance levels."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "section": "Cost of Quality",
+      "question": "Your project involves manufacturing medical devices. To ensure the devices meet quality standards, your team conducts rigorous testing and inspections at various stages of production. What type of cost of quality is being incurred in this scenario?",
+      "options": {
+        "A": "Prevention Costs",
+        "B": "Appraisal Costs",
+        "C": "Internal Failure Costs",
+        "D": "Cost of Testing"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "section": "Risk Management",
+      "question": "In your project to develop a new software application, you identify that adopting a new development framework could significantly reduce development time and costs while improving product quality. What type of risk does this scenario illustrate?",
+      "options": {
+        "A": "Luck",
+        "B": "Issue",
+        "C": "Opportunity",
+        "D": "Positive Acceptance"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "section": "Risk Response",
+      "question": "You are managing a project to develop a new product. One of the identified risks is potential damage during shipping. To address this risk, you decide to purchase insurance coverage. What risk response strategy did you use?",
+      "options": {
+        "A": "Mitigate",
+        "B": "Avoid",
+        "C": "Transfer",
+        "D": "Accept"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "section": "Procurement",
+      "question": "You are managing a project to implement a new enterprise resource planning (ERP) system. You issue an RFP to potential vendors and schedule a meeting where vendors can ask questions and seek clarifications about the project requirements and the RFP. What is this meeting called?",
+      "options": {
+        "A": "Kickoff Meeting",
+        "B": "Vendor Presentation",
+        "C": "Bidders Conference",
+        "D": "Project Status Meeting"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "section": "Procurement Documents",
+      "question": "In your project to upgrade the company’s IT infrastructure, you need to procure standardized equipment such as servers and networking devices. You require suppliers to provide pricing information and product details based on a detailed specification list you provide. Which type of bid document should you use in this scenario?",
+      "options": {
+        "A": "RFP",
+        "B": "RFQ",
+        "C": "RFI",
+        "D": "SOW"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "section": "Communications Management",
+      "question": "You are managing a project to develop a new enterprise software solution. There have been frequent misunderstandings and miscommunications among the project team and stakeholders about project status updates and deliverable expectations. To make matters worse, stakeholders are disengaging from the project and not showing up to key meetings. What plan should you revise to improve the flow of information and ensure clear communication among the project team and stakeholders?",
+      "options": {
+        "A": "Resource Management Plan",
+        "B": "Stakeholder Engagement Plan",
+        "C": "Communications Management Plan",
+        "D": "Persona Matrix"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "section": "Change Management",
+      "question": "You are managing a project to upgrade a company's network infrastructure. During the project, several changes are requested by stakeholders. What will you reference that outlines how changes will be managed and controlled and provides guidance on how to handle these changes systematically?",
+      "options": {
+        "A": "Risk Management Plan",
+        "B": "Change Management Plan",
+        "C": "Configuration Management Plan",
+        "D": "Change Control Board"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "section": "Configuration Management",
+      "question": "In your project to develop a new software application, you need to ensure that all project deliverables are consistent and controlled. You refer to a specific plan that details the procedures for managing changes to the project's deliverables and maintaining the integrity of the project configuration. What is the name of this plan?",
+      "options": {
+        "A": "Quality Management Plan",
+        "B": "Change Management Plan",
+        "C": "Requirements Management Plan",
+        "D": "Configuration Management Plan"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "section": "Cost of Quality",
+      "question": "You are managing a project to develop a new software system. To ensure high quality, your team spends significant time and resources on training, process documentation, and detailed planning. What best describes this category of cost of quality that focuses on this?",
+      "options": {
+        "A": "Prevention Costs",
+        "B": "Appraisal Costs",
+        "C": "Internal Failure Costs",
+        "D": "Cost of Conformance"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "section": "Standards",
+      "question": "In your project to develop new networking hardware, you decide to follow a specific protocol that is widely used in the industry. A team member questions why the need to follow the guidelines when it is not officially mandated. Following the industry guidelines represents which of the following?",
+      "options": {
+        "A": "Regulation",
+        "B": "De Jure Standard",
+        "C": "De Facto Standard",
+        "D": "Quality Benchmark"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "section": "Risk Management",
+      "question": "You are managing a project to construct a new office building. During risk planning, you document identified risks, their potential impacts, and planned responses in a comprehensive document. What is the document called that outlines how risk management activities will be conducted throughout the project?",
+      "options": {
+        "A": "Risk Management Plan",
+        "B": "Risk Probability and Impact Matrix",
+        "C": "Risk Register",
+        "D": "Project Charter"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "section": "Risk Response",
+      "question": "You are managing a project to build a new office complex. One of the identified risks is potential bad weather that could delay construction. After assessing the risk, you decide to avoid further discussions with your team and choose not to take any specific action other than monitoring the situation. What type of risk response strategy are you using in this scenario?",
+      "options": {
+        "A": "Mitigate",
+        "B": "Avoid",
+        "C": "Ignore",
+        "D": "Accept"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 14,
+      "section": "Procurement",
+      "question": "You are managing a project to design and construct a new office building. What is the name of the document that you will provide to potential vendors that clearly defines the project's scope, deliverables, timelines, and performance criteria?",
+      "options": {
+        "A": "Project Charter",
+        "B": "RFP",
+        "C": "Project Scope Statement",
+        "D": "SOW"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "section": "Contracts",
+      "question": "Your project involves ongoing maintenance services for a critical system. The scope of work may vary month to month, and you need a flexible contract type that allows for adjustments since a precise statement of work cannot be quickly prescribed. Which contract type would be most appropriate for this scenario?",
+      "options": {
+        "A": "T and M",
+        "B": "Fixed-Price Contract",
+        "C": "FFP",
+        "D": "Switch to Agile methodology since it’s about customer collaboration over contract negotiations."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "section": "Resource Management",
+      "question": "You are managing a project to upgrade the company’s IT infrastructure. The project requires various resources, including hardware, software, and skilled personnel. To what are you referring to on the plan for acquiring necessary resources for the project?",
+      "options": {
+        "A": "Resource Management Plan",
+        "B": "Stakeholder Engagement Plan",
+        "C": "Stakeholder Register",
+        "D": "RACI Matrix"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "section": "Closing",
+      "question": "As part of the project closure process for a new marketing campaign, you create a final report that includes what was achieved, how resources were used, and what went well or could be improved. Which of the following should be included in the final report?",
+      "options": {
+        "A": "Summary of project performance and lessons learned",
+        "B": "Authorization to end the project",
+        "C": "Detailed project schedule and Gantt chart",
+        "D": "Comprehensive risk register"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "section": "Integration Management",
+      "question": "You are the project manager for a large infrastructure project that involves multiple teams and subcontractors. To ensure all aspects of the project are aligned and managed cohesively, all of the various plans and baselines need to be integrated into a unified project management plan. Who is primarily responsible for integrating all the individual plans and baselines into the unified project management plan?",
+      "options": {
+        "A": "Subcontractors",
+        "B": "Sponsor",
+        "C": "Project Manager",
+        "D": "Project Team"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "section": "Communications Management",
+      "question": "You are managing a project to develop a new enterprise software solution. There have been frequent misunderstandings and miscommunications among the project team and stakeholders about project status updates and deliverable expectations. To make matters worse, stakeholders are disengaging from the project and not showing up to key meetings. What plan should you revise to improve the flow of information and ensure clear communication among the project team and stakeholders?",
+      "options": {
+        "A": "Resource Management Plan",
+        "B": "Stakeholder Engagement Plan",
+        "C": "Communications Management Plan",
+        "D": "Persona Matrix"
+      },
+      "answer": "C"
+    }
+  ]
+}
+
+{
+  "module": "PMP Exam Prep: Ways of Working - Week 3 (Navigating Project Execution)",
+  "total_questions": 10,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Risk Management",
+      "question": "In your project to launch a new product, you encounter several problems, including quality issues, a supplier delay, and a missed milestone. You also identify potential risks, such as potential cost overruns and regulatory changes that could impact the project. Where should you record the potential risks you have identified?",
+      "options": {
+        "A": "Record potential risks in the risk register",
+        "B": "Record potential risks in the issue log",
+        "C": "Record potential risks in work performance reports",
+        "D": "Record potential risks in the product roadmap"
+      },
+      "answer": "A",
+      "explanation": "Risk register is used to document and manage identified risks."
+    },
+    {
+      "id": 2,
+      "section": "Performance Data",
+      "question": "You are managing a project to construct a new building. The team regularly reports on the status of various tasks, including the percentage of completion, the actual costs incurred, and the number of defects identified. What is the difference between work performance data and work performance information in this context?",
+      "options": {
+        "A": "Work performance data includes raw observations and measurements; work performance information is analyzed data providing context.",
+        "B": "Work performance data includes analyzed data; work performance information includes raw observations and measurements.",
+        "C": "Work performance data includes summarized reports; work performance information includes detailed task statuses.",
+        "D": "Work performance data is only used in planning; work performance information is only used in execution."
+      },
+      "answer": "A",
+      "explanation": "Data = raw facts; Information = processed and contextualized data."
+    },
+    {
+      "id": 3,
+      "section": "Lessons Learned",
+      "question": "Your team has completed a challenging project, and you have gathered a significant amount of feedback and lessons learned. You want to ensure that this valuable information is documented and shared with other project teams within your organization. When should you document lessons learned?",
+      "options": {
+        "A": "At the beginning of each phase",
+        "B": "At the end of the project",
+        "C": "Throughout the project lifecycle",
+        "D": "During the project kick-off meeting"
+      },
+      "answer": "C",
+      "explanation": "Lessons learned should be captured continuously."
+    },
+    {
+      "id": 4,
+      "section": "Knowledge Sharing",
+      "question": "You are managing a project to roll out a new software system across your organization. To ensure that team members understand the new system and can share their insights, you decide to set up a lunch and learn session with other project teams to share experiences and best practices.",
+      "options": {
+        "A": "Training",
+        "B": "Observation",
+        "C": "Workshops",
+        "D": "Networking"
+      },
+      "answer": "D",
+      "explanation": "Networking enables knowledge exchange across teams."
+    },
+    {
+      "id": 5,
+      "section": "Continuous Improvement",
+      "question": "During a project to develop a new software application, you introduce a systematic approach to identify, analyze, and address recurring issues. This approach helps the team to continuously improve the development processes and enhance software quality. Which tool or methodology is commonly associated with continuous improvement in projects?",
+      "options": {
+        "A": "SWOT Analysis",
+        "B": "Six Sigma",
+        "C": "Monte Carlo Simulation",
+        "D": "Pareto Chart"
+      },
+      "answer": "B",
+      "explanation": "Six Sigma is a data-driven continuous improvement methodology."
+    },
+    {
+      "id": 6,
+      "section": "Quality Management",
+      "question": "You are managing a project to develop a new e-commerce platform. During the execution phase, you focus on ensuring that the project processes adhere to quality standards and identifying ways to improve these processes. Which process are you performing in this scenario?",
+      "options": {
+        "A": "Manage Quality",
+        "B": "Control Quality",
+        "C": "Quality Audits",
+        "D": "Validate Scope"
+      },
+      "answer": "A",
+      "explanation": "Manage Quality focuses on process improvement and QA."
+    },
+    {
+      "id": 7,
+      "section": "Risk Types",
+      "question": "While managing a construction project, you identify a risk of potential delays due to inclement weather. To address this risk, you implement a response strategy. However, this response strategy introduces a new risk of increased costs due to the need for temporary shelters. What is this new risk introduced by the response strategy called?",
+      "options": {
+        "A": "Residual Risk",
+        "B": "Primary Risk",
+        "C": "Contingent Risk",
+        "D": "Secondary Risk"
+      },
+      "answer": "D",
+      "explanation": "Secondary risks arise from implementing risk responses."
+    },
+    {
+      "id": 8,
+      "section": "Risk Roles",
+      "question": "During the risk management process for your project to upgrade a company's IT system, you identify various risks and assign individuals to monitor and manage each specific risk. What is the role of the individual assigned to monitor and manage a specific risk?",
+      "options": {
+        "A": "Product Owner",
+        "B": "Risk Owner",
+        "C": "Issue Owner",
+        "D": "Project Manager"
+      },
+      "answer": "B",
+      "explanation": "Risk Owner is responsible for managing assigned risks."
+    },
+    {
+      "id": 9,
+      "section": "Procurement Negotiation",
+      "question": "During a negotiation with a vendor for a new software development project, you aim to secure favorable pricing and flexible payment terms. You also want to ensure that the project milestones are clearly defined and agreed upon. Which strategy should you prioritize during the negotiation to achieve these goals?",
+      "options": {
+        "A": "Focus solely on the lowest price",
+        "B": "Prioritize clear definition of milestones and flexible payment terms",
+        "C": "Emphasize relationship building with the vendor",
+        "D": "Avoid discussing potential risks and contingencies"
+      },
+      "answer": "B",
+      "explanation": "Clear milestones and flexible terms ensure successful delivery."
+    },
+    {
+      "id": 10,
+      "section": "Procurement",
+      "question": "You are managing a project to construct a new office building. After selecting a construction company through a bidding process, you need to finalize the terms of the agreement with the vendor. Which type of document will formalize the terms of the agreement with the vendor?",
+      "options": {
+        "A": "RFP",
+        "B": "Purchase Order",
+        "C": "Vendor Contract",
+        "D": "SOW"
+      },
+      "answer": "C",
+      "explanation": "Vendor contract formalizes legal agreement terms."
+    }
+  ]
+}
+
+
+{
+  "module": "PMP Exam Prep: Week 4 – Project Control Essentials: Steering Your Project to Success",
+  "total_questions": 20,
+  "question_bank": [
+    {
+      "id": 1,
+      "question": "Your project to build a new marketing website is behind schedule due to unforeseen technical issues. To bring the project back on track, you decide to take actions to rectify the schedule variance. What is this type of action called?",
+      "options": {
+        "A": "Preventive Action",
+        "B": "Corrective Action",
+        "C": "Defect Repair",
+        "D": "Change Request"
+      },
+      "answer": "B",
+      "explanation": "Corrective action realigns performance with plan."
+    },
+    {
+      "id": 2,
+      "question": "During the quality testing phase of your project to manufacture electronic devices, you discover several units with faulty wiring. You need to submit a change request to address the faulty wiring and ensure the final product is not impacted. What is this type of action called?",
+      "options": {
+        "A": "Preventive Action",
+        "B": "Corrective Action",
+        "C": "Defect Repair",
+        "D": "Quality Control"
+      },
+      "answer": "C",
+      "explanation": "Defect repair fixes nonconforming deliverables."
+    },
+    {
+      "id": 3,
+      "question": "During a project to design a new mobile application, a developer adds extra features that were not requested by the client or included in the project scope, believing they will enhance the product. What is this practice called, and why should it be avoided?",
+      "options": {
+        "A": "Scope Creep; It leads to project delays.",
+        "B": "Gold Plating; It can result in unnecessary costs and client dissatisfaction.",
+        "C": "Risk Management; It mitigates potential risks.",
+        "D": "Schedule Compression; It helps to finish the project earlier."
+      },
+      "answer": "B",
+      "explanation": "Gold plating = adding unapproved features."
+    },
+    {
+      "id": 4,
+      "question": "You are managing a project with a total duration of 10 months. At the 5-month mark, you have completed 40% of the project work; the plan was to have 50% of the work complete. What is the Schedule Performance Index (SPI) of the project, and what does it indicate?",
+      "options": {
+        "A": "SPI = 0.8; The project is behind schedule.",
+        "B": "SPI = 1.0; The project is on schedule.",
+        "C": "SPI = 1.2; The project is ahead of schedule.",
+        "D": "SV = -40; The project is behind schedule."
+      },
+      "answer": "A",
+      "explanation": "SPI = EV/PV = 0.4/0.5 = 0.8."
+    },
+    {
+      "id": 5,
+      "question": "You are managing a project with a total budget of $300,000. At the 4-month mark of a 12-month project, you have spent $120,000 and completed 30% of the project work. You need to estimate the total cost at completion. What is the Estimate at Completion (EAC) if the current Cost Performance Index (CPI) is expected to continue?",
+      "options": {
+        "A": "$300,000",
+        "B": "$400,000",
+        "C": "$290,000",
+        "D": "$720,000"
+      },
+      "answer": "B",
+      "explanation": "EAC = BAC/CPI = 300k/0.75 = 400k."
+    },
+    {
+      "id": 6,
+      "question": "In your project to produce pharmaceutical products, you monitor the production process using control charts. You notice that several data points fall outside the upper control limit. What should the project manager do next?",
+      "options": {
+        "A": "Ignore the data points outside the control limit.",
+        "B": "Investigate the cause of the out-of-control condition.",
+        "C": "Immediately adjust the process without further investigation.",
+        "D": "Redraw the control chart with different control limits."
+      },
+      "answer": "B",
+      "explanation": "Out-of-control → investigate root cause."
+    },
+    {
+      "id": 7,
+      "question": "You are investigating the relationship between two variables in your project, such as the time spent on training and the number of errors made by employees. You use a scatter diagram to plot data points and determine if there is a correlation between the variables. What does it mean when the variables have a negative correlation?",
+      "options": {
+        "A": "As the time spent on training increases, the number of errors made by employees also increases.",
+        "B": "As the time spent on training increases, the number of errors made by employees decreases.",
+        "C": "There is no relationship between the time spent on training and the number of errors made by employees.",
+        "D": "The time spent on training and the number of errors made by employees fluctuate independently."
+      },
+      "answer": "B",
+      "explanation": "Negative correlation = inverse relationship."
+    },
+    {
+      "id": 8,
+      "question": "Your project team is facing a recurring quality issue with a product. To identify the root cause of the problem, you decide to use a visual tool that categorizes potential causes into different categories such as people, methods, materials, and machinery. Question: What is this tool called?",
+      "options": {
+        "A": "Control Chart",
+        "B": "Fishbone Diagram",
+        "C": "Pareto Diagram",
+        "D": "Check Sheet"
+      },
+      "answer": "B",
+      "explanation": "Fishbone = root cause analysis."
+    },
+    {
+      "id": 9,
+      "question": "You are managing a construction project that spans multiple years. To ensure that all risks are continually monitored and managed, you schedule regular risk review meetings with your project team. What is the purpose of conducting periodic risk reviews?",
+      "options": {
+        "A": "To identify new risks and assess the effectiveness of risk responses.",
+        "B": "To update the project scope and objectives.",
+        "C": "To identify new issues and assess the effectiveness of workarounds.",
+        "D": "To finalize the project deliverables."
+      },
+      "answer": "A",
+      "explanation": "Risk reviews = identify + reassess + monitor."
+    },
+    {
+      "id": 10,
+      "question": "During the execution phase of a construction project, you discover a shortage of critical building materials due to a supply chain disruption. What should the project manager do first to address this resource shortage?",
+      "options": {
+        "A": "Inform the project sponsor of the delay",
+        "B": "Update the risk register with the new risk",
+        "C": "Identify alternative suppliers or materials and adjust the procurement plan",
+        "D": "Delay the project until the original materials are available"
+      },
+      "answer": "C",
+      "explanation": "Take action to resolve immediately."
+    },
+    {
+      "id": 11,
+      "question": "You are managing a project that involves multiple vendors. One vendor is consistently failing to meet the agreed-upon delivery dates, causing delays in your project schedule. What should the project manager do to address the vendor’s performance issues?",
+      "options": {
+        "A": "Ignore the delays and proceed with the project",
+        "B": "Terminate the contract immediately",
+        "C": "Conduct a performance review meeting with the vendor and implement corrective actions",
+        "D": "Assign the vendor’s tasks to another team member"
+      },
+      "answer": "C",
+      "explanation": "Manage vendor performance first."
+    },
+    {
+      "id": 12,
+      "question": "During the execution of your project to develop a new software application, a key stakeholder requests a new feature that was not included in the original scope. This feature will require additional time and resources. What should the project manager do next to address this request?",
+      "options": {
+        "A": "Implement the feature immediately",
+        "B": "Submit a change request through the change control process",
+        "C": "Reject the feature request",
+        "D": "Adjust the project schedule and budget prior to submission of a change request"
+      },
+      "answer": "B",
+      "explanation": "Always follow change control."
+    },
+    {
+      "id": 13,
+      "question": "In your project to develop a new product, you identify a potential risk that could cause future delays. To address this risk, you decide to implement additional testing procedures to avoid the delays from occurring. What is this type of action called?",
+      "options": {
+        "A": "Corrective Action",
+        "B": "Preventive Action",
+        "C": "Avoidance",
+        "D": "Risk Mitigation Plan"
+      },
+      "answer": "B",
+      "explanation": "Prevent future risk."
+    },
+    {
+      "id": 14,
+      "question": "Your project to upgrade a company's IT infrastructure is nearing completion. You need to ensure that all deliverables meet the project requirements and are formally accepted by the stakeholders. What is the difference between validate scope and verify deliverables?",
+      "options": {
+        "A": "Validate scope involves checking deliverables against project requirements; verify deliverables involves stakeholder acceptance.",
+        "B": "Validate scope is done after project completion; verify deliverables is ongoing.",
+        "C": "Validate scope ensures stakeholder acceptance; verify deliverables checks deliverables against project requirements.",
+        "D": "There is no difference; both terms mean the same."
+      },
+      "answer": "C",
+      "explanation": "Verify = check; Validate = accept."
+    },
+    {
+      "id": 15,
+      "question": "You are managing a project with a tight deadline. To meet the project deadline, you decide to perform multiple activities in parallel that were originally planned to be done sequentially. What is this schedule compression technique called?",
+      "options": {
+        "A": "Resource Leveling",
+        "B": "Monte Carlo Analysis",
+        "C": "Crashing",
+        "D": "Fast Tracking"
+      },
+      "answer": "D",
+      "explanation": "Parallel work = fast tracking."
+    },
+    {
+      "id": 16,
+      "question": "Your project team is dealing with multiple issues affecting product quality. To prioritize the most significant issues, you use Pareto analysis to identify the causes that contribute the most to quality problems. What should the project manager do next after identifying the most significant issues using Pareto analysis?",
+      "options": {
+        "A": "Address all issues equally.",
+        "B": "Ignore the Pareto analysis results and continue as planned.",
+        "C": "Disregard minor issues and only address the major ones.",
+        "D": "Focus on addressing the most significant issues first."
+      },
+      "answer": "D",
+      "explanation": "Fix biggest impact first."
+    },
+    {
+      "id": 17,
+      "question": "You are managing a manufacturing project. To monitor the production process and ensure it stays within acceptable quality limits, you use a visual tool that displays process data over time with upper and lower control limits. What is this tool called?",
+      "options": {
+        "A": "Control Chart",
+        "B": "Fishbone Diagram",
+        "C": "Pareto Diagram",
+        "D": "Check Sheet"
+      },
+      "answer": "A",
+      "explanation": "Control chart monitors stability."
+    },
+    {
+      "id": 18,
+      "question": "During a project review meeting, new risks are identified, and the status of existing risks is updated based on recent developments. You need to ensure that all relevant information is documented accurately. What should the project manager do to keep the risk register up to date?",
+      "options": {
+        "A": "Update the project scope.",
+        "B": "Update the risk management plan with new risks and changes to existing risks.",
+        "C": "Conduct a new stakeholder analysis.",
+        "D": "Update the risk register with new risks and changes to existing risks."
+      },
+      "answer": "D",
+      "explanation": "Risk register = detailed risk data."
+    },
+    {
+      "id": 19,
+      "question": "You are managing a project to develop a new aerospace component. To ensure that the project stays on track and meets technical specifications, you schedule regular reviews to evaluate the project’s technical progress and compare it against planned technical milestones. What is the primary purpose of these technical performance analyses?",
+      "options": {
+        "A": "To assess the project's overall budget and financial status",
+        "B": "To identify new stakeholders and update the stakeholder engagement plan",
+        "C": "To compare technical accomplishments against the schedule of technical achievement and manage any variances",
+        "D": "To develop a new project management plan to include technical performance targets"
+      },
+      "answer": "C",
+      "explanation": "Compare actual vs planned technical progress."
+    },
+    {
+      "id": 20,
+      "question": "You are managing a project to develop a new software application. During a project status meeting, you review the current risks and their mitigation plans. You notice that one of the previously identified risks has materialized. What should the project manager do next?",
+      "options": {
+        "A": "Avoid the risk and proceed with the project.",
+        "B": "Implement the predefined risk response plan.",
+        "C": "Remove the risk from the risk register.",
+        "D": "Create a new project schedule."
+      },
+      "answer": "B",
+      "explanation": "Execute planned response."
+    },
+	{
+	  "id": 21,
+	  "section": "Control Resources",
+	  "question": "Question 10\nYou are managing a construction project, and one of your tasks is to ensure that the necessary equipment and materials are available when needed and used efficiently throughout the project lifecycle. Question: What is the primary focus of the Control Resources process in this context?",
+	  "options": {
+		"A": "Ensuring the efficient use of physical resources such as equipment and materials",
+		"B": "Ensuring all project team members know where physical resources are located",
+		"C": "Managing project team performance",
+		"D": "Conducting stakeholder engagement activities"
+	  },
+	  "answer": "A",
+	  "explanation": "The Control Resources process focuses on monitoring and managing physical resources (e.g., equipment, materials) to ensure they are used efficiently and effectively."
+	}
+  ]
+}
+
+
+{
+  "module": "WEEK 4 – PROJECT CONTROL ESSENTIALS FINAL",
+  "total_questions": 19,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Procurement",
+      "question": "You are managing a project to develop a custom software application for a client. The project requirements are well-defined, and the client wants to ensure that the development cost does not exceed a specific budget. You need to select a contract type that will provide cost certainty for the client. Which contract type would be most appropriate for this scenario?",
+      "options": {
+        "A": "CPFF",
+        "B": "Cost Reimbursable Contract",
+        "C": "FFP",
+        "D": "Switch to Agile methodology since it’s about customer collaboration over contract negotiations."
+      },
+      "answer": "C",
+      "explanation": "Fixed Firm Price (FFP) provides cost certainty because the price is fixed and not subject to change."
+    },
+    {
+      "id": 2,
+      "section": "Schedule Management",
+      "question": "In your project to develop a new educational platform, you realize that some resources are over-allocated. What technique allows you to adjust the project schedule without extending the project completion date, ensuring a more even distribution of resources?",
+      "options": {
+        "A": "Resource Leveling",
+        "B": "Resource Smoothing",
+        "C": "Crashing",
+        "D": "Fast Tracking"
+      },
+      "answer": "B",
+      "explanation": "Resource Smoothing adjusts activities within float without changing project end date."
+    },
+    {
+      "id": 3,
+      "section": "Procurement",
+      "question": "You are managing a project to construct a new office building. After selecting a construction company through a bidding process, you need to finalize the terms of the agreement with the vendor. Which type of document will formalize the terms of the agreement with the vendor?",
+      "options": {
+        "A": "RFP",
+        "B": "Purchase Order",
+        "C": "Vendor Contract",
+        "D": "SOW"
+      },
+      "answer": "C",
+      "explanation": "A vendor contract formalizes legal terms between buyer and seller."
+    },
+    {
+      "id": 4,
+      "section": "Change Control",
+      "question": "During the execution of a project to develop a mobile app, a team member makes a change to the user interface without submitting a change request. This change has not been approved through the formal change control process. What should the project manager do in this situation?",
+      "options": {
+        "A": "Accept the change and continue with the project",
+        "B": "Instruct the team member to submit a change request for review",
+        "C": "Reward the team member for their innovative thinking",
+        "D": "Inform the project sponsor and halt the project"
+      },
+      "answer": "B",
+      "explanation": "All changes must go through formal change control."
+    },
+    {
+      "id": 5,
+      "section": "Risk Management",
+      "question": "In your project to launch a new website, you identify a risk that the chosen web hosting service may not meet performance requirements. You develop a primary risk response plan to address this issue, but you also create an alternative plan in case the primary plan fails. What is the alternative plan called?",
+      "options": {
+        "A": "Mitigation Plan",
+        "B": "Contingency Plan",
+        "C": "Risk Transfer Plan",
+        "D": "Fallback Plan"
+      },
+      "answer": "B",
+      "explanation": "Contingency plan is the backup plan if risk occurs."
+    },
+    {
+      "id": 6,
+      "section": "Change Control",
+      "question": "Your project to develop a new CRM system has received several change requests. After thorough evaluation, some of these requests are approved by the CCB. To which document will you update to ensure these approved changes are properly documented and tracked?",
+      "options": {
+        "A": "Issue Log",
+        "B": "Risk Register",
+        "C": "Change Log",
+        "D": "CCB Log"
+      },
+      "answer": "C",
+      "explanation": "Approved changes are tracked in the change log."
+    },
+    {
+      "id": 7,
+      "section": "WBS",
+      "question": "You are managing a project to build a new office building. As part of planning, you develop a comprehensive WBS that includes all the major deliverables and work packages. However, you need to ensure that all project work is accounted for and nothing is missed. Which of the following best describes how the WBS can help ensure all project work is accounted for?",
+      "options": {
+        "A": "By providing a high-level summary of the project's goals and objectives",
+        "B": "By decomposing the project scope into detailed and manageable components",
+        "C": "By defining the project’s quality standards and acceptance criteria",
+        "D": "By documenting the project’s communication management strategies"
+      },
+      "answer": "B",
+      "explanation": "WBS decomposes scope into smaller work packages."
+    },
+    {
+      "id": 8,
+      "section": "Quality Management",
+      "question": "You are managing a project to develop a new e-commerce platform. During the execution phase, you focus on ensuring that the project processes adhere to quality standards and identifying ways to improve these processes. Which process are you performing in this scenario?",
+      "options": {
+        "A": "Manage Quality",
+        "B": "Control Quality",
+        "C": "Quality Audits",
+        "D": "Validate Scope"
+      },
+      "answer": "A",
+      "explanation": "Manage Quality focuses on process improvement."
+    },
+    {
+      "id": 9,
+      "section": "Change Control",
+      "question": "During a software development project, the client requests a major change to the software’s functionality. This change will significantly impact the project scope and timeline. What type of contract change should the project manager initiate to accommodate this request?",
+      "options": {
+        "A": "Administrative Change",
+        "B": "Constructive Change",
+        "C": "Change Modification",
+        "D": "No change is necessary"
+      },
+      "answer": "B",
+      "explanation": "Constructive change occurs when scope changes impact contract work."
+    },
+    {
+      "id": 10,
+      "section": "Project Charter",
+      "question": "You are managing a new project to develop a software application for a client. The client has provided a comprehensive business case, outlining the expected benefits, costs, and key stakeholders. During project initiation, you are responsible for developing the project charter. Which of the following elements is not typically included in the project charter?",
+      "options": {
+        "A": "High-level project requirements",
+        "B": "Detailed project schedule",
+        "C": "Project objectives",
+        "D": "Key stakeholders"
+      },
+      "answer": "B",
+      "explanation": "Detailed schedule belongs to planning, not charter."
+    },
+    {
+      "id": 11,
+      "section": "Quality Tools",
+      "question": "In your project to improve customer service, you want to collect data on the frequency of different types of customer complaints. You use a simple, structured form to record and tally occurrences of each complaint type. What is this tool called?",
+      "options": {
+        "A": "Control Chart",
+        "B": "Fishbone Diagram",
+        "C": "Check Sheet",
+        "D": "Pareto Diagram"
+      },
+      "answer": "C",
+      "explanation": "Check sheet is used for tallying occurrences."
+    },
+    {
+      "id": 12,
+      "section": "Schedule Management",
+      "question": "In your project to develop a new product, you identify that the testing phase can begin three days before the assembly phase is complete, allowing overlap to shorten duration. Which PDM relationship is used?",
+      "options": {
+        "A": "Finish-to-Start with a lead",
+        "B": "Start-to-Start with a lag",
+        "C": "Finish-to-Finish with a lead",
+        "D": "Start-to-Finish with a lag"
+      },
+      "answer": "A",
+      "explanation": "Lead allows successor to start before predecessor finishes."
+    },
+    {
+      "id": 13,
+      "section": "Risk Analysis",
+      "question": "You are managing a project to develop a new marketing campaign. You decide to perform quantitative risk analysis to numerically analyze the effect of identified risks on project objectives. Which technique is commonly used?",
+      "options": {
+        "A": "SWOT Analysis",
+        "B": "EVM",
+        "C": "Monte Carlo Simulation",
+        "D": "Stakeholder Analysis"
+      },
+      "answer": "C",
+      "explanation": "Monte Carlo simulation is used for quantitative risk analysis."
+    },
+    {
+      "id": 14,
+      "section": "Communications",
+      "question": "You are managing a project to roll out a new software system across your organization. To ensure that team members understand the new system and can share insights, you set up a lunch and learn session.",
+      "options": {
+        "A": "Training",
+        "B": "Observation",
+        "C": "Workshops",
+        "D": "Networking"
+      },
+      "answer": "D",
+      "explanation": "Networking enables knowledge sharing across teams."
+    },
+    {
+      "id": 15,
+      "section": "EVM",
+      "question": "You are managing a project with a total budget of $300,000. At the 4-month mark, you have spent $120,000 and completed 30% of the project work. What EVM metric provides information on how much more it will cost to complete the project?",
+      "options": {
+        "A": "AC",
+        "B": "ETC",
+        "C": "EAC",
+        "D": "BAC"
+      },
+      "answer": "B",
+      "explanation": "ETC estimates remaining cost to complete."
+    },
+    {
+      "id": 16,
+      "section": "Communications",
+      "question": "You are managing a distributed project team across multiple locations. Which document ensures effective communication among stakeholders and team members?",
+      "options": {
+        "A": "Resource Management Plan",
+        "B": "Stakeholder Engagement Plan",
+        "C": "Stakeholder Register",
+        "D": "Communications Management Plan"
+      },
+      "answer": "D",
+      "explanation": "Communications plan defines how information is shared."
+    },
+    {
+      "id": 17,
+      "section": "Schedule Compression",
+      "question": "Your project is behind schedule. You add more resources to critical path activities to accelerate completion. What technique is this?",
+      "options": {
+        "A": "Crashing",
+        "B": "Fast Tracking",
+        "C": "Resource Smoothing",
+        "D": "Critical Path Method"
+      },
+      "answer": "A",
+      "explanation": "Crashing adds resources to shorten duration."
+    },
+    {
+      "id": 18,
+      "section": "Change Control",
+      "question": "You receive a change request to update the software version in an IT project. What should happen next?",
+      "options": {
+        "A": "Implement immediately",
+        "B": "Evaluate impact and submit for review",
+        "C": "Inform stakeholders",
+        "D": "Revise project plan immediately"
+      },
+      "answer": "B",
+      "explanation": "All change requests must be evaluated before approval."
+    },
+    {
+      "id": 19,
+      "section": "Project Artifacts",
+      "question": "You are managing a project with multiple documents, designs, and reports. What is the best way to manage project artifacts?",
+      "options": {
+        "A": "Store in personal folder",
+        "B": "Upload to shared cloud system",
+        "C": "Include in project charter",
+        "D": "Send via email"
+      },
+      "answer": "B",
+      "explanation": "Centralized cloud storage ensures accessibility and control."
+    }
+  ]
+}

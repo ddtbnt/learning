@@ -3015,3 +3015,804 @@
     }
   ]
 }
+
+{
+  "module": "Week 1 → Ensuring Strategic Alignment and Compliance – COURSE 4 – PMP EXAM PREP: GAINING BUSINESS ACUMEN FOR PROJECT MANAGERS",
+  "total_questions": 15,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Strategic Alignment & Risk Management",
+      "question": "You are leading an IT project to upgrade a company's network infrastructure. The organization has several global data centers, and a key vendor for network hardware components has informed you that their delivery will be delayed by two weeks due to unforeseen circumstances. This delay will affect the deployment phase scheduled to begin next week. What is your best course of action to align with the organizational strategy?",
+      "options": {
+        "A": "Replace the vendor immediately to avoid delays.",
+        "B": "Request the team to work overtime to make up for the lost time.",
+        "C": "Accept the delay and extend the project schedule without informing stakeholders.",
+        "D": "Update the risk register and communicate the delay to stakeholders, evaluating options for recovery."
+      },
+      "answer": "D",
+      "explanation": "In this scenario, updating the risk register and communicating the delay is essential. This allows the team to analyze recovery options, such as fast-tracking or crashing certain project tasks. Stakeholders must be kept informed of any significant risks that could impact the schedule, aligning with the organization's strategic objectives. Replacing the vendor (Option A) could lead to further issues and delays. Asking the team to work overtime (Option B) without a proper plan is not sustainable. Extending the schedule without informing stakeholders (Option C) is poor communication and could jeopardize trust."
+    },
+    {
+      "id": 2,
+      "section": "Change Management",
+      "question": "You are managing a healthcare IT project to integrate patient management software across several clinics. During the project, a key external stakeholder—an insurance provider—announces a policy change that affects how patients are billed. The new billing process could impact the software's functionality. The change was unexpected and outside your project’s original scope. How should you proceed?",
+      "options": {
+        "A": "Conduct an impact analysis to assess how the new billing policy affects the project's deliverables and seek stakeholder input.",
+        "B": "Proceed with the original project plan, as the change was not anticipated at the outset.",
+        "C": "Inform the project sponsor and wait for further instructions before taking action.",
+        "D": "Take note of the change and continue the project as planned, since the change is outside the project's original scope."
+      },
+      "answer": "A",
+      "explanation": "The correct response is to conduct an impact analysis to assess how the new policy affects the project. Involving stakeholders ensures that any necessary changes are understood and managed effectively."
+    },
+    {
+      "id": 3,
+      "section": "Compliance Management",
+      "question": "You are leading an IT project to develop a cloud-based solution for a financial services company. The project must comply with regulations like the General Data Protection Regulation (GDPR) to ensure customer data is handled properly. During a project status meeting, the legal department requests a report on how you are documenting compliance requirements for the system. Which of the following is the most appropriate source for identifying and documenting these compliance requirements?",
+      "options": {
+        "A": "Project sponsor’s input on regulatory risks and legal exposure.",
+        "B": "The project team’s informal discussions on legal and compliance matters.",
+        "C": "Stakeholder feedback collected during a brainstorming session at project initiation.",
+        "D": "Organizational process assets (OPAs), such as company policies, compliance templates, and historical records."
+      },
+      "answer": "D",
+      "explanation": "Organizational process assets (OPAs) include relevant documents such as templates, compliance guidelines, and records of past projects that can be used to identify and document compliance requirements."
+    },
+    {
+      "id": 4,
+      "section": "Compliance Planning",
+      "question": "You are managing a project for a large financial institution that must comply with anti-money laundering (AML) regulations. In addition to regulatory compliance, the project is part of a strategic initiative to automate transaction monitoring. The legal department has flagged several new compliance categories that the project must adhere to, including Know Your Customer (KYC) protocols. How should you ensure the project complies with both regulatory and internal compliance requirements?",
+      "options": {
+        "A": "Assign a compliance officer to the project who is responsible for monitoring and enforcing all regulatory requirements.",
+        "B": "Work closely with the project team to ensure that the compliance requirements are discussed during each daily stand-up meeting.",
+        "C": "Develop a compliance management plan that outlines all compliance categories, the applicable regulations, and the roles and responsibilities for monitoring compliance.",
+        "D": "Wait for the final project audit to assess whether compliance requirements were met during the implementation phase."
+      },
+      "answer": "C",
+      "explanation": "Creating a compliance management plan ensures that compliance requirements are clearly documented, understood, and monitored throughout the project."
+    },
+    {
+      "id": 5,
+      "section": "Data Security & Compliance",
+      "question": "You are managing a project to deploy a cloud solution for a retail company. During a regular review, you discover that the development team has been storing customer credit card information in an unsecured database for testing purposes. This practice violates the Payment Card Industry Data Security Standard (PCI DSS), which the company is required to follow. What should you do to address this compliance threat?",
+      "options": {
+        "A": "Notify the appropriate stakeholders and stop the use of unsecured data immediately, then update the project’s risk management plan to include this as a potential threat.",
+        "B": "Delete the unsecured data immediately and inform the team to avoid similar practices in the future.",
+        "C": "Inform the project sponsor and request approval to continue using the unsecured data temporarily until proper storage is available.",
+        "D": "Allow the team to continue using the unsecured database since it is only for internal testing and will not be exposed to customers."
+      },
+      "answer": "A",
+      "explanation": "Stopping the use of unsecured data is the immediate step to eliminate the compliance threat and updating the risk management plan ensures proper mitigation."
+    },
+    {
+      "id": 6,
+      "section": "Risk Management",
+      "question": "You are managing a project for a financial institution to automate its customer reporting system. The legal department has flagged that recent updates to financial regulations may require new data security protocols for storing sensitive customer data. However, the team is already behind schedule, and any changes could delay the project further. What is the best way to address this threat to compliance?",
+      "options": {
+        "A": "Proceed with the current project plan since making changes now would delay the project delivery.",
+        "B": "Conduct a risk assessment to evaluate the impact of the regulatory changes and communicate findings to stakeholders for decision-making.",
+        "C": "Ignore the regulatory changes since they are not yet fully enforced and can be addressed later.",
+        "D": "Assign a team member to monitor compliance updates and only act if legal issues arise after project delivery."
+      },
+      "answer": "B",
+      "explanation": "Conducting a risk assessment allows the project team to understand the potential impact and supports informed decision-making."
+    },
+    {
+      "id": 7,
+      "section": "Compliance Gap Management",
+      "question": "You are managing an IT project to upgrade a company’s enterprise resource planning (ERP) system. The project must comply with new data privacy laws that require encryption of sensitive customer information. During a project audit, you discover that some of the team members are unaware of the specific encryption requirements and have not been implementing them correctly. What is the best course of action to address this compliance gap?",
+      "options": {
+        "A": "Retrain the team immediately on the encryption requirements and update the quality management plan to prevent further issues.",
+        "B": "Document the error in the project management plan and continue with the project as is since it is near completion.",
+        "C": "Implement corrective action by requiring additional resources to handle the encryption while keeping the same project schedule.",
+        "D": "Escalate the issue to senior management and request additional time to complete the encryption properly before the project continues."
+      },
+      "answer": "A",
+      "explanation": "Retraining ensures compliance understanding and updating the quality plan prevents recurrence."
+    },
+    {
+      "id": 8,
+      "section": "Change Management",
+      "question": "You are managing a project in a hospital that aims to implement a new electronic health records (EHR) system. Midway through the project, a new healthcare regulation is announced that will impact the functionality of the system. This regulation requires stricter data privacy controls than previously planned. The project sponsor is concerned about the additional costs and delays that may arise due to this change. As the project manager, what is your first step?",
+      "options": {
+        "A": "Immediately update the project schedule to include the necessary changes.",
+        "B": "Submit a change request to the change control board (CCB) for approval.",
+        "C": "Reassure the project sponsor that the team will work harder to meet the original deadline.",
+        "D": "Cancel the project since it is no longer feasible to meet the deadline."
+      },
+      "answer": "B",
+      "explanation": "All regulatory changes must go through formal change control via CCB."
+    },
+    {
+      "id": 9,
+      "section": "Compliance & Stakeholder Management",
+      "question": "You are managing a digital transformation project for an e-commerce company. During a review, the legal department informs you that the new system does not comply with the General Data Protection Regulation (GDPR) for customer data storage. Your team is already stretched thin, and the stakeholders are frustrated with ongoing delays. How can you BEST handle the situation effectively while ensuring compliance?",
+      "options": {
+        "A": "Reprimand the team for missing the compliance requirement and assign the task to the legal department to ensure the issue is handled properly.",
+        "B": "Send an email to the stakeholders informing them of the compliance issue and tell them the project will be delayed until the problem is solved.",
+        "C": "Facilitate a conversation between the legal department, the project team, and the key stakeholders to find a balanced solution that addresses the compliance issue without significantly delaying the project further.",
+        "D": "Tell the legal department that the project is too far along to accommodate GDPR compliance at this stage and that the system will be updated post-launch."
+      },
+      "answer": "C",
+      "explanation": "Collaboration and stakeholder alignment ensure compliance while minimizing disruption."
+    },
+    {
+      "id": 10,
+      "section": "Healthcare Compliance",
+      "question": "You are managing a project to deploy a new healthcare data management system. A compliance audit reveals that the system does not meet the latest Health Information Technology for Economic and Clinical Health (HITECH) Act requirements for data encryption, posing a significant compliance risk. The project is already behind schedule, and the technical team is frustrated about the additional workload. How can you BEST address this issue and ensure compliance?",
+      "options": {
+        "A": "Impose a mandatory overtime policy for the team to complete the encryption requirements on time, informing them that non-compliance is not an option.",
+        "B": "Ignore the compliance requirements for now and address them once the system is deployed to avoid further delays.",
+        "C": "Assign the encryption work to a single team member to avoid overwhelming the entire team and offer incentives for completing the task quickly.",
+        "D": "Organize a meeting with the team and relevant stakeholders to discuss the compliance risk, communicate its urgency, and encourage a collaborative approach to prioritize and resolve the issue."
+      },
+      "answer": "D",
+      "explanation": "Collaboration and communication ensure compliance while maintaining team engagement."
+    },
+    {
+      "id": 11,
+      "section": "Change Control",
+      "question": "You are managing a project to implement a new telemedicine platform for a healthcare provider. Halfway through the project, a new government regulation is announced that requires additional security protocols for patient data. These new requirements will significantly impact the platform’s design and could delay the project if not addressed immediately. You need to assess the impact on the scope and communicate with the stakeholders. What is the first step in managing this change?",
+      "options": {
+        "A": "Inform the team to implement the changes immediately and work additional hours to stay on schedule.",
+        "B": "Perform a scope impact assessment and update the stakeholders on how the new requirements will affect the project’s schedule, cost, and deliverables.",
+        "C": "Update the risk register and document the regulation as a risk that could affect the project at a later stage.",
+        "D": "Proceed with the current design, as the new regulations can be incorporated after the platform goes live."
+      },
+      "answer": "B",
+      "explanation": "Impact analysis is required before any change decision is made."
+    }
+  ]
+}
+
+{
+  "module": "Week 2 → Adapting to External Changes for Maximum Value Delivery – COURSE 4 – PMP EXAM PREP: GAINING BUSINESS ACUMEN FOR PROJECT MANAGERS",
+  "total_questions": 11,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Delivering Value",
+      "question": "A non-profit organization is implementing a project to develop an online platform that connects volunteers with community projects. The goal is to increase volunteer engagement and make it easier for people to find opportunities that match their interests. The organization is working with a limited budget and needs to justify the value of the platform to its board of directors. Which of the following best illustrates how this project delivers value to the organization?",
+      "options": {
+        "A": "The project delivers value by increasing revenue for the non-profit organization and supporting the organization’s mission.",
+        "B": "The project delivers value by improving volunteer participation and supporting the organization’s mission.",
+        "C": "The project delivers value by cutting costs in other departments of the organization.",
+        "D": "The value is only realized if the platform generates revenue within the first year."
+      },
+      "answer": "B",
+      "explanation": "In this case, the project delivers value by directly supporting the organization’s mission through improved outreach and volunteer engagement, which are key to the non-profit’s success, rather than through financial returns."
+    },
+    {
+      "id": 2,
+      "section": "Delivering Value",
+      "question": "A food manufacturing company is launching a project to improve the quality control process for one of its most popular products. Some stakeholders are concerned about the cost of implementing stricter quality controls, while others believe it will provide long-term benefits. Which of the following is least likely an example of delivering value?",
+      "options": {
+        "A": "Reducing the number of defective products shipped to customers",
+        "B": "Improving brand reputation through consistent product quality",
+        "C": "Speeding up the quality control process while maintaining the same standards",
+        "D": "Increasing the project’s budget without any measurable improvements in quality"
+      },
+      "answer": "D",
+      "explanation": "Increasing the budget without achieving any tangible improvements in quality does not deliver value. Value is derived from enhancements such as reducing defects, improving brand reputation, or increasing efficiency while maintaining quality standards."
+    },
+    {
+      "id": 3,
+      "section": "Benefits Realization",
+      "question": "You are managing a project to develop a new cloud-based financial reporting system for a large corporation. During a mid-project review, the CFO asks how the organization will track and verify that the project delivers its intended benefits, such as increased efficiency and cost reductions, over the next three years. The project sponsor references the Benefits Management Plan but is unsure about where specific elements of the benefit tracking and accountability are outlined. Which of the following would not typically be found in the Benefits Management Plan?",
+      "options": {
+        "A": "The timeline for benefits realization, including short-term and long-term milestones.",
+        "B": "The assignment of the Benefit Owner, who is responsible for ensuring benefits are realized post-project completion.",
+        "C": "Detailed risk management strategies related to the execution of project activities.",
+        "D": "Metrics and KPIs for measuring the success of the project’s benefits."
+      },
+      "answer": "C",
+      "explanation": "The Benefits Management Plan focuses on how and when the project’s benefits will be realized, who is responsible for ensuring they are achieved, and the metrics and KPIs that will be used to track those benefits. It does not include detailed execution risk strategies."
+    },
+    {
+      "id": 4,
+      "section": "Benefits Ownership",
+      "question": "You have successfully delivered a project that implemented a new customer relationship management (CRM) system for a multinational company. The project is now transitioning to the operations phase, and it’s time to ensure that the expected benefits, such as improved customer satisfaction and increased sales conversions, are realized over the next 18 months. Which of the following best describes the primary responsibility of the Benefit Owner in this scenario?",
+      "options": {
+        "A": "The Benefit Owner is responsible for overseeing day-to-day project tasks to ensure successful completion of the CRM system.",
+        "B": "The Benefit Owner is responsible for managing and tracking the CRM system’s benefits after the project is completed, ensuring that expected outcomes, like improved customer satisfaction, are achieved.",
+        "C": "The Benefit Owner is responsible for monitoring the project team’s performance during the project execution phase.",
+        "D": "The Benefit Owner is responsible for approving any future changes or updates to the CRM system after the project is completed."
+      },
+      "answer": "B",
+      "explanation": "The Benefit Owner is accountable for ensuring benefits are realized after project completion."
+    },
+    {
+      "id": 5,
+      "section": "External Environment Analysis",
+      "question": "You are leading a project to develop a new product for a retail company. Halfway through development, a major shift in market trends indicates that consumer preferences have changed drastically, and the demand for the product type you are developing is declining. What should you do to address this external change?",
+      "options": {
+        "A": "Continue with the project as originally planned, since the market trends could shift again.",
+        "B": "Cancel the project immediately and move the team to another initiative.",
+        "C": "Conduct a market analysis and present the findings to the project sponsor and stakeholders to assess whether the project still aligns with market demand.",
+        "D": "Ignore the market trends and focus on completing the product, as it's too late to change the scope."
+      },
+      "answer": "C",
+      "explanation": "External changes require reassessment of the business case before making decisions."
+    },
+    {
+      "id": 6,
+      "section": "Agile Backlog Management",
+      "question": "You are working in an Agile environment, leading the development of a mobile application. During a sprint, new market trends emerge, prompting stakeholders to request additional features that align with these trends. How should this external change impact your backlog management?",
+      "options": {
+        "A": "Immediately add the new features to the current sprint backlog.",
+        "B": "Reject the new features to avoid scope creep and maintain the current sprint plan.",
+        "C": "Implement the new features immediately, even if it means compromising the current sprint deliverables.",
+        "D": "Prioritize the new features by assessing their alignment with the product vision and add them to the product backlog for future sprints."
+      },
+      "answer": "D",
+      "explanation": "Agile requires evaluating and prioritizing new work without disrupting the sprint."
+    },
+    {
+      "id": 7,
+      "section": "SWOT Analysis",
+      "question": "You are in the planning phase of a project to develop a new e-commerce platform. You decide to conduct a SWOT analysis to help identify the project's risks and opportunities. Which of the following would be considered a \"Threat\" in the SWOT analysis?",
+      "options": {
+        "A": "A lack of internal technical expertise to develop the platform",
+        "B": "The increasing presence of competitors in the market",
+        "C": "Strong brand recognition in the market",
+        "D": "A highly skilled internal development team"
+      },
+      "answer": "B",
+      "explanation": "Threats are external negative factors."
+    },
+    {
+      "id": 8,
+      "section": "Scenario Planning",
+      "question": "You are overseeing a global supply chain optimization project. Two months into the project, you receive news that the trade agreements between two major countries in your supply chain network are at risk of dissolution due to escalating geopolitical tensions. What is the best way to approach this situation?",
+      "options": {
+        "A": "Stick with the current plan and avoid changing tools mid-project.",
+        "B": "Conduct scenario planning to assess geopolitical risks",
+        "C": "Focus on mitigating geopolitical risks and delay the implementation of the new tool.",
+        "D": "Switch to the new technology immediately to future-proof the project."
+      },
+      "answer": "B",
+      "explanation": "Scenario planning helps evaluate uncertainty and guide decisions."
+    },
+    {
+      "id": 9,
+      "section": "Value Definition",
+      "question": "You are leading a project to develop a new inventory management system for a large retail chain. The finance team focuses on cost savings, while the operations team wants improved efficiency in the supply chain. The marketing team is concerned about customer experience. How should you define “value” for this project to ensure alignment among stakeholders?",
+      "options": {
+        "A": "Define value as the benefits delivered to the organization, including cost savings, operational efficiency, and customer experience improvements.",
+        "B": "Focus solely on the cost savings aspect to meet the finance team’s expectations.",
+        "C": "Limit the definition of value to operational efficiency, as that is the core goal of the project.",
+        "D": "Only consider the immediate financial impact as the main value driver for the project."
+      },
+      "answer": "A",
+      "explanation": "Value must be defined holistically across stakeholders."
+    },
+    {
+      "id": 10,
+      "section": "Intangible Benefits",
+      "question": "You are managing a project to implement a new employee wellness program at a large corporation. Some of the benefits discussed include reduced healthcare costs, improved employee morale and job satisfaction, decreased absenteeism, and increased productivity. Which of the following is an intangible benefit of the project?",
+      "options": {
+        "A": "Reduced healthcare costs",
+        "B": "Improved employee morale and job satisfaction",
+        "C": "Decreased absenteeism",
+        "D": "Increased productivity"
+      },
+      "answer": "B",
+      "explanation": "Intangible benefits are difficult to quantify financially."
+    },
+    {
+      "id": 11,
+      "section": "Change Control & Compliance",
+      "question": "You are managing a project to develop a new medical device for a global healthcare company. Midway through the project, a regulatory authority announces new safety requirements. As a project manager, how should you address this external change?",
+      "options": {
+        "A": "Submit a change request to the change control board (CCB) to incorporate the new regulatory requirements and assess the impact on project scope, cost, and schedule.",
+        "B": "Continue with the original design and plan to address the new safety requirements later.",
+        "C": "Ignore the new regulations until the project is complete.",
+        "D": "Brief the team and wait until the end of the project to assess impact."
+      },
+      "answer": "A",
+      "explanation": "Regulatory changes must go through formal change control."
+    }
+  ]
+}
+
+{
+  "module": "Week 4 → Support the Organization Through Organizational Change Management – COURSE 4 – PMP EXAM PREP: GAINING BUSINESS ACUMEN FOR PROJECT MANAGERS",
+  "total_questions": 10,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "Tailoring (PMBOK 7)",
+      "question": "You are managing a project for a telecommunications company that is implementing a new cloud-based system. To ensure that the project management approach fits both the organization's needs and the unique characteristics of the project, you decide to tailor the project management methodology. Which of the following is not a step in the tailoring process as outlined in the PMBOK Guide 7th Edition?",
+      "options": {
+        "A": "Select the approach",
+        "B": "Tailor for the organization",
+        "C": "Implement ongoing improvement",
+        "D": "Conduct stakeholder analysis"
+      },
+      "answer": "D",
+      "explanation": "The four steps to the tailoring process outlined in the PMBOK Guide 7th Edition are: (1) Select the approach, (2) Tailor for the organization, (3) Tailor for the project, and (4) Implement ongoing improvement. Conducting stakeholder analysis is important in project management but is not a specific step in the tailoring process as defined in the PMBOK Guide."
+    },
+    {
+      "id": 2,
+      "section": "Agile Tailoring (Scrum + Kanban)",
+      "question": "You are managing a software development team that has adopted both Scrum and Kanban practices to their specific workflow. The team follows Scrum for structured sprint planning, daily standups, and retrospectives. They also use a Kanban board to track and visualize the flow of work, as their environment requires frequent handling of unplanned tasks and continuous delivery. The Product Owner supports this approach, but some stakeholders are concerned about the complexity of combining methods. How should you explain the benefits of this tailored approach to address the stakeholders' concerns?",
+      "options": {
+        "A": "Combining agile methods like Scrum and Kanban offers flexibility in managing unplanned tasks while retaining the structure and predictability of Scrum's sprint cycles.",
+        "B": "The team should revert to a pure Scrum approach to avoid confusion and ensure consistency across the organization.",
+        "C": "Combining agile methods will likely slow down the team's progress, but this will benefit them in the long run.",
+        "D": "Suggest that the team use only Kanban, as it is better suited for handling continuous delivery and unplanned tasks."
+      },
+      "answer": "A",
+      "explanation": "By combining Scrum and Kanban, the team gains the best of both worlds: Scrum provides a structured framework for planning and reflection, while Kanban allows for flexibility in dealing with unplanned work and continuous delivery. This tailored approach can enhance adaptability and ensure that the team delivers value consistently, addressing stakeholders' concerns about workflow efficiency."
+    },
+    {
+      "id": 3,
+      "section": "Scrum Execution",
+      "question": "You are the Scrum Master for a software development project. During the sprint, one of the team members reports that they will not be able to complete a critical user story due to unforeseen technical issues. What should you do to ensure the project remains on track?",
+      "options": {
+        "A": "Extend the sprint duration to allow more time to complete the user story.",
+        "B": "Encourage the team member to work overtime to complete the user story.",
+        "C": "Report the issue to the Product Owner and recommend removing the user story from the sprint.",
+        "D": "Bring the issue to the team's attention in the next daily Scrum and encourage them to collaborate on finding a solution."
+      },
+      "answer": "D",
+      "explanation": "The best approach in Agile is to encourage the team to solve problems collaboratively. The daily Scrum is the perfect opportunity to address issues like these and brainstorm solutions. Extending the sprint or forcing overtime is against Agile principles, which emphasize sustainable work."
+    },
+    {
+      "id": 4,
+      "section": "Product Ownership",
+      "question": "You are the Product Owner in an Agile project. The team is in the middle of a sprint, and a key stakeholder requests a significant change to a user story. What is the best way to handle this request?",
+      "options": {
+        "A": "Accept the change and inform the team to incorporate it into the current sprint.",
+        "B": "Reject the request and inform the stakeholder that no changes are allowed mid-sprint.",
+        "C": "Add the change to the product backlog and prioritize it for the next sprint.",
+        "D": "Stop the sprint immediately and replan the sprint with the new change included."
+      },
+      "answer": "C",
+      "explanation": "Agile teams work in fixed-length sprints and are generally discouraged from making changes once the sprint begins. The correct approach is to add the change to the backlog and prioritize it for the next sprint, ensuring that the team can remain focused on the current sprint's goals."
+    },
+    {
+      "id": 5,
+      "section": "Daily Scrum",
+      "question": "Your Scrum team has been using daily standups as a reporting session for the Scrum Master. Team members feel that they must justify their progress to the Scrum Master, who often dominates the conversation, asking for detailed reports. This has caused friction among the team, leading to communication breakdowns and missed deadlines, ultimately affecting the quality of deliverables. What is the misunderstanding about the daily standup in this situation?",
+      "options": {
+        "A": "The Scrum Master is correctly managing the standup by ensuring team members provide detailed reports on their progress.",
+        "B": "The standup is meant to be a status report meeting for the Scrum Master, so the team should continue reporting to the Scrum Master in detail.",
+        "C": "The daily standup is for the team to communicate with each other, not for reporting to the Scrum Master.",
+        "D": "The Scrum Team should be reporting to the Product Owner during the daily standup"
+      },
+      "answer": "C",
+      "explanation": "The misunderstanding here is that the daily standup is being used as a reporting session for the Scrum Master. The purpose of the standup is for the team to communicate and align with each other. The Scrum Master should foster self-organization and collaboration to ensure the quality of work and team efficiency."
+    },
+    {
+      "id": 6,
+      "section": "Retrospective",
+      "question": "In your project team’s retrospectives, team members often spend the majority of the meeting celebrating completed tasks and praising one another for their hard work. However, they rarely discuss challenges, missed deadlines, or areas where processes could improve. As a result, the quality of future sprints has been impacted by the same problems. What is the core misunderstanding of the retrospective, and how should it be corrected to ensure project quality improves over time?",
+      "options": {
+        "A": "The retrospective should focus entirely on celebrating successes to maintain team morale.",
+        "B": "The team should focus more on discussing challenges and areas for improvement, in addition to celebrating successes, to ensure continuous improvement.",
+        "C": "The team should focus more on discussing challenges and areas for improvement, and only celebrate when time permits.",
+        "D": "Eliminate the retrospective, as it does not add any real value to the project."
+      },
+      "answer": "B",
+      "explanation": "The retrospective should not be solely about celebrating successes but also about identifying challenges and areas for improvement. Addressing these issues helps the team continuously improve processes and quality in future sprints, ensuring recurring problems are resolved."
+    },
+    {
+      "id": 7,
+      "section": "Agile Metrics",
+      "question": "You are working with a Scrum team, and stakeholders want to track how much work remains to be done in the current sprint. They want to ensure the team is on track to complete all tasks by the end of the sprint. Which Agile tool would be most appropriate for showing the amount of remaining work over time?",
+      "options": {
+        "A": "Burndown Chart",
+        "B": "Kanban Board",
+        "C": "Burnup Chart",
+        "D": "Velocity Chart"
+      },
+      "answer": "A",
+      "explanation": "A Burndown Chart visually shows how much work remains over time in a sprint, helping teams and stakeholders monitor progress and see if the team is on track to complete all tasks by the end of the sprint."
+    },
+    {
+      "id": 8,
+      "section": "Kanban",
+      "question": "You are managing an Agile project with a team that frequently deals with unplanned work and needs to adjust priorities mid-sprint. The team is struggling to maintain visibility on tasks, and the Product Owner is concerned about bottlenecks in the process. Which Agile tool would best help the team visualize their workflow and identify bottlenecks?",
+      "options": {
+        "A": "Burndown Chart",
+        "B": "Kanban Board",
+        "C": "Burnup Chart",
+        "D": "Velocity Chart"
+      },
+      "answer": "B",
+      "explanation": "A Kanban Board provides a visual representation of the team's workflow, helping them manage tasks and see where bottlenecks are occurring. It supports the flexibility of handling unplanned work and makes the flow of tasks transparent to everyone."
+    },
+    {
+      "id": 9,
+      "section": "Hybrid Coordination",
+      "question": "Your project team is using a hybrid approach for a product launch. The development phase is Agile, while the marketing phase follows a traditional Waterfall methodology. During the project, the development team finishes ahead of schedule, but marketing is still following its fixed plan. How should you manage this situation?",
+      "options": {
+        "A": "Ask the marketing team to adopt Agile so they can align with the development team’s pace.",
+        "B": "Create buffer tasks for the development team to fill the time while waiting for marketing.",
+        "C": "Use your leadership skills to facilitate better communication and coordination between both teams, ensuring that development supports marketing where possible.",
+        "D": "Extend the development phase by adding more features to keep the team busy until marketing catches up."
+      },
+      "answer": "C",
+      "explanation": "In hybrid projects, coordination between different teams using different methodologies is critical. Ensuring that both teams communicate effectively can help resolve timing issues. Adding unnecessary features or forcing methodology changes would disrupt the plan."
+    },
+    {
+      "id": 10,
+      "section": "Hybrid Collaboration",
+      "question": "In your hybrid project, the testing team uses Agile, while the development team follows a traditional Waterfall approach. The testing team wants to start testing earlier than the development team is ready to deliver the product. What should you do?",
+      "options": {
+        "A": "Force the development team to deliver early so the testing team can begin.",
+        "B": "Delay the testing phase until the development phase is complete.",
+        "C": "Reassign the testing team to other tasks until the product is fully developed.",
+        "D": "Use your facilitation skills to ensure both teams collaborate on a strategy, such as delivering partial components for early testing."
+      },
+      "answer": "D",
+      "explanation": "In a hybrid approach, it's crucial to ensure both teams are aligned. By facilitating collaboration, you can find a compromise, such as testing smaller components, that meets both teams' needs and keeps the project on track."
+    }
+  ]
+}
+
+{
+  "module": "Week 4 → Support the Organization Through Organizational Change Management – COURSE 4 – PMP EXAM PREP: GAINING BUSINESS ACUMEN FOR PROJECT MANAGERS",
+  "total_questions": 10,
+  "question_bank": [
+    {
+      "id": 1,
+      "section": "External Drivers of Change",
+      "question": "You are managing a project for a consumer electronics company that specializes in manufacturing high-end audio equipment. Over the past year, your company's sales have been steadily declining due to rising consumer preference for smart speakers integrated with virtual assistants, a technology that your company has not yet adopted. After a strategic review, leadership has decided to shift product development to focus on incorporating smart speaker technology into your product line. What is the primary external driver of change influencing this shift in the company’s strategy?",
+      "options": {
+        "A": "Technological advancements in smart speakers and virtual assistants",
+        "B": "Company demand for more innovative products",
+        "C": "Shareholder pushback on the lack of product innovation",
+        "D": "A desire to improve internal processes and operational efficiency"
+      },
+      "answer": "A",
+      "explanation": "The key external driver of change in this scenario is the technological advancement in smart speakers and virtual assistants, which has influenced consumer preferences. This external market trend is forcing the company to adapt its product line to remain competitive."
+    },
+    {
+      "id": 2,
+      "section": "External Drivers of Change",
+      "question": "A global apparel company is facing a significant disruption in its supply chain due to escalating trade tensions between two key countries involved in the production of its products. The tariffs imposed as part of these tensions have increased the cost of raw materials and shipping, leading the company to reconsider its manufacturing locations and sourcing strategies. The company must now explore alternative regions and suppliers to mitigate these rising costs and ensure timely production. What is the main external driver of change in this situation?",
+      "options": {
+        "A": "Rising internal costs due to inefficient production processes",
+        "B": "Trade tensions and geopolitical instability affecting the supply chain",
+        "C": "A shift in consumer demand for locally produced products",
+        "D": "An internal decision to explore cost-cutting measures for product development"
+      },
+      "answer": "B",
+      "explanation": "The primary external driver of change here is the geopolitical instability and trade tensions between the two countries, which are directly impacting the company’s supply chain and driving the need to adapt its sourcing and manufacturing strategy."
+    },
+    {
+      "id": 3,
+      "section": "Plan the Change",
+      "question": "You are the project manager at a healthcare organization is introducing a new patient management system to streamline operations and improve patient care. The leadership team has agreed on the vision for the change and identified the key objectives. Now, you are responsible for developing a detailed plan to ensure the change is successfully implemented. This includes allocating resources, setting timelines, and managing risks. Which of the following should you focus on to plan the change effectively and ensure employees have the ability to adapt to the new system?",
+      "options": {
+        "A": "Communicate the successful implementation of the new system to external stakeholders.",
+        "B": "Monitor the success metrics for the change and collect feedback on employee satisfaction.",
+        "C": "Move directly to implementing the change to avoid further delays.",
+        "D": "Develop a training program to help employees acquire the skills needed to use the new system."
+      },
+      "answer": "D",
+      "explanation": "In the Plan the Change stage, it is critical to prepare the organization for the upcoming change by planning resources, timelines, and employee training. Developing a training program ensures employees are equipped with the necessary skills to use the new system, reducing resistance and facilitating a smoother implementation."
+    },
+    {
+      "id": 4,
+      "section": "Barriers to Change",
+      "question": "A healthcare organization is undergoing a major transformation to shift from paper-based records to a fully digital patient management system. The leadership team is deeply invested in the change, providing strong vision and guidance throughout the process. Key stakeholders, including department heads, have been engaged early in the process and are collaborating with IT teams to ensure that the system meets the specific needs of each department. Employees are excited about the potential for reducing errors and increasing efficiency, and many have already signed up for training sessions. Which of the following is a factor that could impede change?",
+      "options": {
+        "A": "Positive stakeholder engagement",
+        "B": "Loss of control by the health records division",
+        "C": "Active leadership",
+        "D": "A clear vision for the benefits of the change"
+      },
+      "answer": "B",
+      "explanation": "A common factor for impeding change is when key departments or stakeholder groups resist the change because the change will lead to a loss of control, such as the case with the health records division in this scenario."
+    },
+    {
+      "id": 5,
+      "section": "Lewin Change Model",
+      "question": "Your organization is implementing a new customer relationship management (CRM) system. According to Lewin’s Change Model, which step should you focus on to ensure the change becomes permanent and is fully integrated into the organization?",
+      "options": {
+        "A": "Unfreeze",
+        "B": "Change",
+        "C": "Refreeze",
+        "D": "Normalize"
+      },
+      "answer": "C",
+      "explanation": "In Lewin’s Change Model, the final step, Refreeze, involves solidifying the change so that it becomes part of the organization’s culture. This step ensures that the new system is fully adopted and employees do not revert to old practices."
+    },
+    {
+      "id": 6,
+      "section": "Agile & Change",
+      "question": "You are managing a project with an Agile team that includes developers, testers, and designers all working together. A new feature has been requested by the customer, and it needs input from multiple team members across different disciplines to ensure it’s properly integrated into the product. How does cross-functional collaboration in agile team’s support change management and flexibility?",
+      "options": {
+        "A": "Cross-functional teams work independently without needing input from other departments, allowing them to remain focused on their specific tasks.",
+        "B": "Cross-functional teams reduce flexibility by adding more roles to the team",
+        "C": "Cross-functional teams foster quick adaptability by enabling multiple disciplines to work together, minimizing bottlenecks and enhancing flexibility.",
+        "D": "Cross-functional teams require less approvals from management to handle changes effectively."
+      },
+      "answer": "C",
+      "explanation": "Cross-functional teams bring together different skill sets, enabling them to handle a variety of tasks without the delays of handing work off between departments. This collaboration allows the team to adapt quickly to new changes, fostering flexibility and efficient problem-solving."
+    },
+    {
+      "id": 7,
+      "section": "Agile & Change",
+      "question": "Your team, in collaboration with the product owner, has been refining the product backlog every week, reviewing items, adjusting priorities, and adding new user stories based on customer feedback. Recently, the team received a request for a significant feature change from a key stakeholder. How does regular backlog refinement support change management and continuous improvement?",
+      "options": {
+        "A": "Regular backlog refinement prevents the team from responding to new customer requests until after the current sprint.",
+        "B": "Regular backlog refinement allows the team to adapt to change by reprioritizing and incorporating new ideas while maintaining a continuous improvement mindset.",
+        "C": "Backlog refinement focuses on maintaining the original scope of the project, limiting change.",
+        "D": "Backlog refinement is done only at the beginning of the project and does not support ongoing change."
+      },
+      "answer": "B",
+      "explanation": "Backlog refinement is an ongoing activity in Agile that allows teams to continuously evaluate, prioritize, and adapt to changes based on feedback and new requests. This fosters continuous improvement and ensures that the most important features are delivered."
+    },
+    {
+      "id": 8,
+      "section": "Change Management Execution",
+      "question": "A global manufacturing company is implementing a new enterprise resource planning (ERP) system to improve operational efficiency. To ensure a successful transition, the leadership team is focused on minimizing disruption to daily operations and helping employees adapt to the new system. However, several departments are showing resistance, citing concerns about the complexity of the system and fear of job losses. You are the project manager responsible for ensuring the project’s success by addressing these concerns and guiding the organization through the transition. What is the most important first step in implementing successful change management in this scenario?",
+      "options": {
+        "A": "Conduct a risk assessment to determine potential areas of system failure.",
+        "B": "Speed up the system implementation to reduce the time employees spend adapting to the new system.",
+        "C": "Limit the communication to avoid overwhelming employees with too much information.",
+        "D": "Engage with employees to understand their concerns and provide communication and training to ease the transition."
+      },
+      "answer": "D",
+      "explanation": "Successful change management involves understanding and addressing employees' concerns, ensuring clear communication, and providing the necessary training to help them adapt to the change. Engaging employees early in the process fosters support and reduces resistance."
+    },
+    {
+      "id": 9,
+      "section": "Change Barriers",
+      "question": "You are managing a project to implement a new enterprise-wide customer relationship management (CRM) system for a multinational corporation. The leadership team is fully supportive of the change. Which of the following factors is an example of impeding the success of this change initiative?",
+      "options": {
+        "A": "The leadership team’s involvement in the project",
+        "B": "Middle management's reluctance and employee workload",
+        "C": "The training provided to staff to better understand the change",
+        "D": "The switch to agile methodologies"
+      },
+      "answer": "B",
+      "explanation": "Reluctance from middle management and resistance from employees due to their existing workload are significant factors that can impede the success of change initiatives. When middle management is not aligned with leadership or feels threatened by change, it can lead to slower adoption and lower employee engagement, making it harder to implement the change effectively."
+    },
+    {
+      "id": 10,
+      "section": "ADKAR Model",
+      "question": "You are leading a digital transformation initiative within an organization. During an assessment, you find that many employees understand the need for change but are not taking any action to modify their behaviors or adopt new systems. Which phase of the ADKAR model are employees struggling with?",
+      "options": {
+        "A": "Awareness",
+        "B": "Desire",
+        "C": "Knowledge",
+        "D": "Reinforcement"
+      },
+      "answer": "B",
+      "explanation": "In the ADKAR model, employees may understand the need for change (Awareness) but may not have the personal motivation or desire to support and engage with the change. The Desire phase focuses on ensuring that individuals are willing to take the necessary actions to implement the change."
+    }
+  ]
+}
+
+{
+  "module": "Final Exam – COURSE 4 – PMP EXAM PREP: GAINING BUSINESS ACUMEN FOR PROJECT MANAGERS",
+  "total_questions": 20,
+  "question_bank": [
+    {
+      "id": 1,
+      "question": "You are managing a project in a hospital that aims to implement a new electronic health records (EHR) system. Midway through the project, a new healthcare regulation is announced that will impact the functionality of the system. This regulation requires stricter data privacy controls than previously planned. The project sponsor is concerned about the additional costs and delays that may arise due to this change. As the project manager, what is your first step?",
+      "options": {
+        "A": "Immediately update the project schedule to include the necessary changes.",
+        "B": "Submit a change request to the change control board (CCB) for approval.",
+        "C": "Reassure the project sponsor that the team will work harder to meet the original deadline.",
+        "D": "Cancel the project since it is no longer feasible to meet the deadline."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "You are managing a project for a large financial institution that must comply with anti-money laundering (AML) regulations. In addition to regulatory compliance, the project is part of a strategic initiative to automate transaction monitoring. The legal department has flagged several new compliance categories that the project must adhere to, including Know Your Customer (KYC) protocols. How should you ensure the project complies with both regulatory and internal compliance requirements?",
+      "options": {
+        "A": "Assign a compliance officer to the project who is responsible for monitoring and enforcing all regulatory requirements.",
+        "B": "Work closely with the project team to ensure that the compliance requirements are discussed during each daily stand-up meeting.",
+        "C": "Develop a compliance management plan that outlines all compliance categories, the applicable regulations, and the roles and responsibilities for monitoring compliance.",
+        "D": "Wait for the final project audit to assess whether compliance requirements were met during the implementation phase."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "You are managing a project for a healthcare organization to implement a new patient billing system. During implementation, you discover that some of the subcontractors have not undergone the required background checks, which is a regulatory requirement for handling sensitive patient data under HIPAA. This oversight poses a serious compliance risk to the project. What is the best course of action to mitigate this threat to compliance?",
+      "options": {
+        "A": "Continue with the project and plan to conduct the background checks after the next phase is completed.",
+        "B": "Immediately halt the project and conduct the necessary background checks on the subcontractors.",
+        "C": "Report the issue to the compliance department and create a remediation plan to ensure checks are completed promptly.",
+        "D": "Replace the subcontractors with new ones who have already undergone background checks."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "You are leading a healthcare project to develop a mobile application for tracking patient medications and medical history. During a stakeholder meeting, the compliance officer informs you that recent changes to the healthcare regulations now require the app to include multi-factor authentication (MFA) for all users. This will add additional time and resources to the project. What is the best way to ensure compliance while managing the project effectively?",
+      "options": {
+        "A": "Immediately implement the changes without informing stakeholders to avoid delays.",
+        "B": "Ask the team to speed up their work to meet the original deadline despite the new requirement.",
+        "C": "Delay implementing the MFA feature until the project is near completion to avoid rework.",
+        "D": "Incorporate the regulatory change into the project plan and submit a change request to the change control board (CCB) for approval."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "question": "You are managing a digital transformation project for an e-commerce company. During a review, the legal department informs you that the new system does not comply with the General Data Protection Regulation (GDPR) for customer data storage. Your team is already stretched thin, and the stakeholders are frustrated with ongoing delays. How can you BEST handle the situation effectively while ensuring compliance?",
+      "options": {
+        "A": "Reprimand the team for missing the compliance requirement and assign the task to the legal department to ensure the issue is handled properly.",
+        "B": "Send an email to the stakeholders informing them of the compliance issue and tell them the project will be delayed until the problem is solved.",
+        "C": "Facilitate a conversation between the legal department, the project team, and the key stakeholders to find a balanced solution that addresses the compliance issue without significantly delaying the project further.",
+        "D": "Tell the legal department that the project is too far along to accommodate GDPR compliance at this stage and that the system will be updated post-launch."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "You are leading a project to develop a new inventory management system for a large retail chain. The finance team focuses on cost savings, while the operations team wants improved efficiency in the supply chain. The marketing team is concerned about customer experience. How should you define “value” for this project to ensure alignment among stakeholders?",
+      "options": {
+        "A": "Define value as the benefits delivered to the organization, including cost savings, operational efficiency, and customer experience improvements.",
+        "B": "Focus solely on the cost savings aspect to meet the finance team’s expectations.",
+        "C": "Limit the definition of value to operational efficiency, as that is the core goal of the project.",
+        "D": "Only consider the immediate financial impact as the main value driver for the project."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "You have successfully delivered a project that implemented a new customer relationship management (CRM) system for a multinational company. The project is now transitioning to the operations phase, and it’s time to ensure that the expected benefits, such as improved customer satisfaction and increased sales conversions, are realized over the next 18 months. Which of the following best describes the primary responsibility of the Benefit Owner in this scenario?",
+      "options": {
+        "A": "The Benefit Owner is responsible for overseeing day-to-day project tasks to ensure successful completion of the CRM system.",
+        "B": "The Benefit Owner is responsible for managing and tracking the CRM system’s benefits after the project is completed, ensuring that expected outcomes, like improved customer satisfaction, are achieved.",
+        "C": "The Benefit Owner is responsible for monitoring the project team’s performance during the project execution phase.",
+        "D": "The Benefit Owner is responsible for approving any future changes or updates to the CRM system after the project is completed."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "You are managing a project to develop a new medical device for a global healthcare company. Midway through the project, a regulatory authority announces new safety requirements that all medical devices must meet before they can be approved for market use. These new regulations significantly impact the product’s design and testing process. As a project manager, how should you address this external change?",
+      "options": {
+        "A": "Submit a change request to the change control board (CCB) to incorporate the new regulatory requirements and assess the impact on project scope, cost, and schedule.",
+        "B": "Continue with the original design and plan to address the new safety requirements in a future version of the product.",
+        "C": "Ignore the new regulations until the project is complete and handle the compliance issues later.",
+        "D": "Brief the team about the regulatory changes but wait until the end of the project to assess the impact."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "You are managing a project to launch a new pharmaceutical product in multiple international markets. Before entering new regions, you need to assess the external factors that might influence the success of the product. You decide to conduct a PESTLE analysis. Which of the following factors would not be included in a PESTLE analysis?",
+      "options": {
+        "A": "Regulatory changes regarding healthcare in the target markets",
+        "B": "Technological advancements in drug manufacturing",
+        "C": "An assessment of the company’s internal weaknesses in managing global supply chains",
+        "D": "Changes in economic policies that affect pharmaceutical pricing"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "You are leading an Agile project to develop a digital banking app. The app’s features were prioritized based on customer feedback gathered a year ago. Recent market trends show a rapid shift towards voice-activated banking features, and a new regulatory requirement mandates an additional layer of data encryption. The Product Owner is concerned about adding these features without disrupting the current sprint, but stakeholders want them prioritized quickly. Your backlog is already full, and the team is struggling to meet the sprint commitments. How should you proceed?",
+      "options": {
+        "A": "Add the voice feature and encryption to the current sprint and plan to discuss during the daily standups.",
+        "B": "Take note of the regulatory changes in the risk register for now and plan to discuss what went well and didn’t go well during the retrospective.",
+        "C": "Delay the sprint to address the new features.",
+        "D": "Prioritize the regulatory feature, add it to the backlog, and re-assess the voice feature for future sprints."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "You are the Product Owner in an Agile project. The team is in the middle of a sprint, and a key stakeholder requests a significant change to a user story. What is the best way to handle this request?",
+      "options": {
+        "A": "Accept the change and inform the team to incorporate it into the current sprint.",
+        "B": "Reject the request and inform the stakeholder that no changes are allowed mid-sprint.",
+        "C": "Add the change to the product backlog and prioritize it for the next sprint.",
+        "D": "Stop the sprint immediately and replan the sprint with the new change included."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "You are the Scrum Master for a software development project. During the sprint, one of the team members reports that they will not be able to complete a critical user story due to unforeseen technical issues. What should you do to ensure the project remains on track?",
+      "options": {
+        "A": "Extend the sprint duration to allow more time to complete the user story.",
+        "B": "Encourage the team member to work overtime to complete the user story.",
+        "C": "Report the issue to the Product Owner and recommend removing the user story from the sprint.",
+        "D": "Bring the issue to the team's attention in the next daily Scrum and encourage them to collaborate on finding a solution."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 13,
+      "question": "You are managing an Agile project with a team that frequently deals with unplanned work and needs to adjust priorities mid-sprint. The team is struggling to maintain visibility on tasks, and the Product Owner is concerned about bottlenecks in the process. Which Agile tool would best help the team visualize their workflow and identify bottlenecks?",
+      "options": {
+        "A": "Burndown Chart",
+        "B": "Kanban Board",
+        "C": "Burnup Chart",
+        "D": "Velocity Chart"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "You are managing a hybrid project where some parts of the project follow a traditional Waterfall approach, and others follow Agile principles. The stakeholders are frustrated because they don’t understand how the Agile deliverables fit into the overall project plan. How should you address their concerns?",
+      "options": {
+        "A": "Convert the entire project to Agile to simplify the process.",
+        "B": "Use your communication skills to explain how Agile deliverables contribute to the overall project and adjust your reporting to align with stakeholder expectations.",
+        "C": "Provide a detailed Waterfall-style project plan to stakeholders for the Agile portions of the project.",
+        "D": "Inform the stakeholders that Agile does not require detailed planning and that they should accept the uncertainty."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Your project team is using a hybrid approach for a product launch. The development phase is Agile, while the marketing phase follows a traditional Waterfall methodology. During the project, the development team finishes ahead of schedule, but marketing is still following its fixed plan. How should you manage this situation?",
+      "options": {
+        "A": "Ask the marketing team to adopt Agile so they can align with the development team’s pace.",
+        "B": "Create buffer tasks for the development team to fill the time while waiting for marketing.",
+        "C": "Use your leadership skills to facilitate better communication and coordination between both teams, ensuring that development supports marketing where possible.",
+        "D": "Extend the development phase by adding more features to keep the team busy until marketing catches up."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "You are the project manager at a healthcare organization is introducing a new patient management system to streamline operations and improve patient care. The leadership team has agreed on the vision for the change and identified the key objectives. Now, you are responsible for developing a detailed plan to ensure the change is successfully implemented. This includes allocating resources, setting timelines, and managing risks. Which of the following should you focus on to plan the change effectively and ensure employees have the ability to adapt to the new system?",
+      "options": {
+        "A": "Communicate the successful implementation of the new system to external stakeholders.",
+        "B": "Monitor the success metrics for the change and collect feedback on employee satisfaction.",
+        "C": "Move directly to implementing the change to avoid further delays.",
+        "D": "Develop a training program to help employees acquire the skills needed to use the new system."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 17,
+      "question": "You are in the planning phase of a project to develop a new e-commerce platform. You decide to conduct a SWOT analysis to help identify the project's risks and opportunities. Which of the following would be considered a \"Threat\" in the SWOT analysis?",
+      "options": {
+        "A": "A lack of internal technical expertise to develop the platform",
+        "B": "The increasing presence of competitors in the market",
+        "C": "Strong brand recognition in the market",
+        "D": "A highly skilled internal development team"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Your Scrum team has been using daily standups as a reporting session for the Scrum Master. Team members feel that they must justify their progress to the Scrum Master, who often dominates the conversation, asking for detailed reports. This has caused friction among the team, leading to communication breakdowns and missed deadlines, ultimately affecting the quality of deliverables. What is the misunderstanding about the daily standup in this situation?",
+      "options": {
+        "A": "The Scrum Master is correctly managing the standup by ensuring team members provide detailed reports on their progress.",
+        "B": "The standup is meant to be a status report meeting for the Scrum Master, so the team should continue reporting to the Scrum Master in detail.",
+        "C": "The daily standup is for the team to communicate with each other, not for reporting to the Scrum Master.",
+        "D": "The Scrum Team should be reporting to the Product Owner during the daily standup"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "A non-profit organization is implementing a project to develop an online platform that connects volunteers with community projects. The goal is to increase volunteer engagement and make it easier for people to find opportunities that match their interests. The organization is working with a limited budget and needs to justify the value of the platform to its board of directors. Which of the following best illustrates how this project delivers value to the organization?",
+      "options": {
+        "A": "The project delivers value by increasing revenue for the non-profit organization and supporting the organization’s mission.",
+        "B": "The project delivers value by improving volunteer participation and supporting the organization’s mission.",
+        "C": "The project delivers value by cutting costs in other departments of the organization.",
+        "D": "The value is only realized if the platform generates revenue within the first year."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "You are managing a project to deploy a new healthcare data management system. A compliance audit reveals that the system does not meet the latest Health Information Technology for Economic and Clinical Health (HITECH) Act requirements for data encryption, posing a significant compliance risk. The project is already behind schedule, and the technical team is frustrated about the additional workload. How can you BEST address this issue and ensure compliance?",
+      "options": {
+        "A": "Impose a mandatory overtime policy for the team to complete the encryption requirements on time, informing them that non-compliance is not an option.",
+        "B": "Ignore the compliance requirements for now and address them once the system is deployed to avoid further delays.",
+        "C": "Assign the encryption work to a single team member to avoid overwhelming the entire team and offer incentives for completing the task quickly.",
+        "D": "Organize a meeting with the team and relevant stakeholders to discuss the compliance risk, communicate its urgency, and encourage a collaborative approach to prioritize and resolve the issue."
+      },
+      "answer": "D"
+    }
+  ]
+}

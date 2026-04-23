@@ -1,0 +1,267 @@
+Câu 1
+
+https://github.com/ddtbnt/Back-End-Development-Pictures/blob/main/README.md
+
+
+Cấu 2
+
+collected 11 items / 9 deselected / 2 selected
+
+tests/test_api.py::test_health PASSED
+tests/test_api.py::test_count PASSED
+
+Câu 3
+============================= test session starts ==============================
+collected 11 items / 6 deselected / 5 selected
+
+tests/test_api.py::test_health PASSED
+tests/test_api.py::test_count PASSED
+tests/test_api.py::test_data_contains_10_pictures PASSED
+tests/test_api.py::test_get_picture PASSED
+tests/test_api.py::test_get_pictures_check_content_type_equals_json PASSED
+
+======================= 5 passed, 6 deselected in 0.10s ========================
+
+câu 4
+============================= test session starts ==============================
+collected 11 items
+
+tests/test_api.py::test_post_picture {'id': 200, 'pic_url': 'http://dummyimage.com/230x100.png/ddddd/000000', 'event_country': 'United States', 'event_state': 'California', 'event_city': 'Fremont', 'event_date': '11/2/2030'} PASSED
+tests/test_api.py::test_post_picture_duplicate {'id': 200, 'pic_url': 'http://dummyimage.com/230x100.png/dddddd/000000', 'event_country': 'United States', 'event_state': 'California', 'event_city': 'remont', 'event_date': '11/2/2030'} PASSED
+
+========================== 11 passed in 0.15s ==========================
+
+Câu 5
+
+============================= test session starts ==============================
+collected 11 items
+
+tests/test_api.py::test_update_picture_by_id PASSED
+tests/test_api.py::test_delete_picture_by_id PASSED
+
+========================== 11 passed in 0.15s ==========================
+
+câu 6
+
+https://github.com/ddtbnt/Back-End-Development-Songs/blob/main/README.md
+
+Câu 7
+
+HTTP/1.1 200 OK
+Server: Werkzeug/2.2.2 Python/3.8.0
+Date: Wed, 08 Mar 2023 04:39:12 GMT
+Content-Type: application/json
+Content-Length: 16
+Connection: close
+
+{"status":"OK"}
+
+Câu 8
+
+HTTP/1.1 200 OK
+Server: Werkzeug/2.2.2 Python/3.8.0
+Date: Wed, 08 Mar 2023 04:42:03 GMT
+Content-Type: application/json
+Content-Length: 6694
+Connection: close
+
+{"songs":[{"_id":{"$oid":"6408120d8786fd67ed2b00f9"},"id":1,"lyrics":"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.","title":"duis faucibus accumsan odio curabitur convallis"}, ... ]}
+
+Câu 9
+
+HTTP/1.1 201 CREATED
+Server: Werkzeug/2.2.2 Python/3.8.0
+Date: Wed, 08 Mar 2023 04:48:03 GMT
+Content-Type: application/json
+Content-Length: 97
+Connection: close
+
+{"_id":{"$oid":"6408136f335452730846b4b3"},"id":1,"lyrics":"yay hey yay yay","title":"yay song"}
+
+Câu 10 
+
+HTTP/1.1 204 NO CONTENT
+Server: Werkzeug/2.2.2 Python/3.8.0
+Date: Wed, 08 Mar 2023 04:49:36 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+
+Câu 11
+
+https://github.com/ddtbnt/Back-end-Development-Capstone/blob/main/README.md
+
+Câu 12
+
+Operations to perform:
+  Apply all migrations: admin, auth, concert, contenttypes, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying admin.0003_logentry_add_action_flag_choices... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying auth.0009_alter_user_last_name_max_length... OK
+  Applying auth.0010_alter_group_name_max_length... OK
+  Applying auth.0011_update_proxy_permissions... OK
+  Applying auth.0012_alter_user_first_name_max_length... OK
+  Applying concert.0001_initial... OK
+  Applying sessions.0001_initial... OK
+
+Câu 13
+
+django-app-browser.png
+
+Câu 14
+
+django-song-modal.png
+
+câu 15
+
+django-photos.png
+
+câu 16
+
+theia@theiaopenshift-ddtbnt: /home/project$ ibmcloud ce project current
+Getting the current project context...
+OK
+
+Name:       Code Engine - sn-labs-ddtbnt
+ID:         58763a00-5118-4bee-9fff-f3d4b0ce51c3
+Subdomain:  zt6smju1cxu
+Domain:     us-south.codeengine.appdomain.cloud
+Region:     us-south
+
+Kubernetes Config:
+Context:              zt6smju1cxu
+Environment Variable: export KUBECONFIG="/home/theia/.bluemix/plugins/code-engine/Code Engine - sn-labs-ddtbnt-58763a00-5118-4bee-9fff-f3d4b0ce51c3.yaml"
+theia@theiaopenshift-ddtbnt: /home/project$
+
+Câu 17
+
+theia@theiaopenshift-ddtbnt: /home/project/Back-End-Development-Pictures$ ibmcloud ce app create --name pictures --image us.icr.io/${SN_ICR_NAMESPACE}/pictures:1 --registry-secret icr-secret --port 3000
+Creating application 'pictures'...
+The Route is still working to reflect the latest desired specification.
+Configuration 'pictures' is waiting for a Revision to become ready.
+Ingress has not yet been reconciled.
+Waiting for load balancer to be ready.
+Run 'ibmcloud ce application get -n pictures' to check the application status.
+OK
+
+https://pictures.zt6smju1cxu.us-south.codeengine.appdomain.cloud
+theia@theiaopenshift-ddtbnt: /home/project/Back-End-Development-Pictures$
+
+Câu 18
+deploy-getsong-1.png
+
+Câu 19
+deploy-getsong-2.png
+
+Câu 20
+
+theia:Back-End-Development-Songs$ oc new-app . --name=songs
+--> Found image 84f4e7c (2 weeks old) in image stream "openshift/python" under tag "3.8-ubi8" for "python"
+
+    Python 3.8 
+    ---------- 
+    Python 3.8 available as container is a base platform for running Python applications.
+
+    Tags: builder, python, python38, python-38, rh-python38
+
+    * The source repository will be built into a container image, then deployed.
+    * A binary build will be created from local directory "."
+    * With source code from a local directory, a source-to-image build will be created.
+
+--> Creating resources ...
+    imagestreamtag.image.openshift.io "songs:latest" created
+    buildconfig.build.openshift.io "songs" created
+    deployment.apps "songs" created
+    service "songs" created
+--> Success
+    Build scheduled, use 'oc logs -f bc/songs' to track its progress.
+    Application is not exposed. You can expose services to the outside world by executing one or more of the commands below:
+     'oc expose svc/songs' 
+    Run 'oc status' to view your app.
+	
+
+Câu 21
+
+theia:Back-End-Development-Songs$ oc expose service/songs
+route.route.openshift.io/songs exposed
+theia:Back-End-Development-Songs$
+
+Câu 22
+
+Câu 23
+(backend-django-venv) theia@theiaopenshift-ddtbnt:~/Back-end-Development-Capstone$ python manage.py migrate
+Operations to perform:
+  Apply all migrations: admin, auth, concert, contenttypes, sessions
+Running migrations:
+  Applying concert.0001_initial... OK
+  Applying concert.0002_song_picture... OK
+(backend-django-venv) theia@theiaopenshift-ddtbnt:~/Back-end-Development-Capstone$
+
+Câu 24
+
+(backend-django-venv) theia@theiaopenshift-ddtbnt:~/Back-end-Development-Capstone$ docker build -t djangoserver .
+Sending build context to Docker daemon  245.8kB
+Step 1/9 : FROM python:3.8-slim-buster
+ ---> 1888e2858852
+Step 2/9 : WORKDIR /app
+ ---> Using cache
+ ---> 4749f7e09641
+Step 3/9 : COPY requirements.txt requirements.txt
+ ---> Using cache
+ ---> b0f438997a31
+Step 4/9 : RUN pip3 install -r requirements.txt
+ ---> Using cache
+ ---> 442656910606
+Step 5/9 : COPY . .
+ ---> 574fec971a6f
+Step 6/9 : EXPOSE 8000
+ ---> Running in 3d3e92e98337
+Removing intermediate container 3d3e92e98337
+ ---> a40d297cf5f8
+Step 7/9 : ENV PYTHONUNBUFFERED=1
+ ---> Running in f77a51ade6a1
+Removing intermediate container f77a51ade6a1
+ ---> e40d297cf5f8
+Step 8/9 : CMD ["python3", "manage.py", "runserver", "0.0.0.0:8000"]
+ ---> Running in 5b44d7bb9107
+Removing intermediate container 5b44d7bb9107
+ ---> 7e453511681f
+Successfully built 7e453511681f
+Successfully tagged djangoserver:latest
+
+Câu 25
+(backend-django-venv) theia@theiaopenshift-ddtbnt:~/Back-end-Development-Capstone$ kubectl apply -f ./deployment.yml
+deployment.apps/djangoserver unchanged
+(backend-django-venv) theia@theiaopenshift-ddtbnt:~/Back-end-Development-Capstone$ kubectl get pods -w
+NAME                            READY   STATUS    RESTARTS   AGE
+djangoserver-7fd4cd59bf-7ccfl   1/1     Running   0          5m29s
+
+Câu 26
+
+deploy-getdjango-4.png
+
+Câu 27
+
+deploy-getdjango-5.png
+
+Câu 28
+deploy-getdjango-6.png
+
+Câu 29
+
+deploy-getdjango-7.png
+
+Câu 30
+
+deploy-getdjango-8.png

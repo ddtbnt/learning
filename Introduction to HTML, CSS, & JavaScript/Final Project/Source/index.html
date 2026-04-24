@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio Task 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="profile_name">Đỗ Đức Thọ</div>
+            
+            <ul class="nav-links">
+                <li><a href="#">About</a></li>
+                <li><a href="#">Project details</a></li>
+                <li><a href="#">Skills</a></li>
+                <li><a href="#">Recommendations</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main style="padding: 100px 20px; text-align: center;">
+        <h1>Chào mừng đến với Portfolio của tôi</h1>
+        <p>Đây là nội dung dành cho các Task tiếp theo.</p>
+    </main>
+
+	<section id="about-me" class="about-container">
+		<div class="about-content">
+			<img src="profile.jpg" class="profile-img">
+			
+			<div class="about-text">
+				<h1>About Me</h1>
+				<h2>Đỗ Đức Thọ</h2>
+				<p>
+					I am a Senior Software Developer and Lead Business Analyst with extensive experience in 
+					digital government infrastructure. Born in the year of the Ox, I bring persistence 
+					and a solution-oriented mindset to every project, from .NET architecture to 
+					National Database design.
+				</p>
+			</div>
+		</div>
+	</section>
+	<section id="skills" class="skills-section">
+    <h2>Skills</h2>
+    <div class="skills-container">
+        <div class="skill-card">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
+            <p>HTML5</p>
+        </div>
+        <div class="skill-card">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
+            <p>CSS3</p>
+        </div>
+
+        <div class="skill-card">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET">
+            <p>.NET / C#</p>
+        </div>
+        <div class="skill-card">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+            <p>Python</p>
+        </div>
+        <div class="skill-card">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL">
+            <p>SQL Server</p>
+        </div>
+    </div>
+</section>
+
+<section id="projects" class="project-section">
+    <h2>Project Details</h2>
+    <div class="project-list">
+        <div class="project-card">
+            <h3>National Labor Database</h3>
+            <p>Led the architectural design and legal compliance (Decree 69/2024) for Vietnam's national-scale labor data system.</p>
+        </div>
+
+        <div class="project-card">
+            <h3>Multi-Factor Authentication (MFA) Service</h3>
+            <p>Designed a stateless, multi-tenant MFA engine providing secure identity verification across various platforms.</p>
+        </div>
+
+        <div class="project-card">
+            <h3>WorldQuant BRAIN Optimization</h3>
+            <p>Developed and optimized mathematical Alphas using quantitative research techniques to improve Sharpe and Turnover metrics.</p>
+        </div>
+    </div>
+</section>
+
+<section id="recommendations" class="recommendations-section">
+    <h2>Recommendations</h2>
+    <div class="recommendations-container" id="all_recommendations">
+        <div class="recommendation-card">
+            <p>"Tho is an exceptional Lead BA. His ability to bridge the gap between complex legal frameworks and technical architecture is outstanding."</p>
+            <cite>- Nguyen Van A, Project Manager</cite>
+        </div>
+
+        <div class="recommendation-card">
+            <p>"A highly skilled Senior Developer. His persistence in debugging and system optimization is exactly what we need for national-scale projects."</p>
+            <cite>- Tran Thi B, Senior Dev</cite>
+        </div>
+
+        <div class="recommendation-card">
+            <p>"Tho's mindset as a developer born in the year of the Ox really shows in his patience and quality of work. Highly recommended!"</p>
+            <cite>- Le Van C, Product Owner</cite>
+        </div>
+    </div>
+</section>
+
+<div class="add-recommendation-form">
+    <h3>Leave a Recommendation</h3>
+    <textarea id="new_recommendation_text" placeholder="Write your message here..."></textarea>
+    <button id="submit_btn" onclick="addRecommendation()">Submit</button>
+</div>
+
+<div class="icon-container">
+    <a href="#home">
+        <div class="home-icon">&#8962;</div> 
+    </a>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

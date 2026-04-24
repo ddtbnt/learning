@@ -1,0 +1,37 @@
+Project Title: Final Project: Introduction to Web Development
+
+Task 1
+
+profile_name.png
+
+Task 2
+
+nav_bar.png
+
+Task 3
+
+aboutme.png
+
+Task 4
+
+skills.png
+
+Task 5
+
+projects.png
+
+Task 6
+
+recommendations.png
+
+Task 7
+
+new_recommendation.png
+
+Task 8
+
+home_icon.png
+
+Task 9
+
+popup.png

@@ -80,7 +80,9 @@ Mục đích:
 - hiểu project
 - phân tích file
 
----
+Sau khi chạy lệnh, coding agent sẽ được khởi động và hiển thị như sau:
+
+![Qwen Coding Assistant](./qwen3.5-9b.png)
 
 # Bước 3 — Yêu cầu AI học project trước
 

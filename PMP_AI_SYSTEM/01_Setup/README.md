@@ -1,335 +1,232 @@
-# 01_Setup
+# 01_Setup (PMP_AI_SYSTEM + LangGraph Runtime Bootstrap - Windows 11)
 
 ## Mục tiêu
 
-Module này dùng để chuẩn bị môi trường local cho hệ thống:
+Khởi tạo môi trường AI local trên Windows 11 sử dụng:
 
-- cài Docker Desktop
-- cài Ollama
-- tải model Qwen3.5
-- kết nối Knowledge Base
-- kiểm tra hệ thống hoạt động
+- Docker Desktop (WSL2 backend)
+- Ollama (local LLM runtime)
+- Qwen3.5
+- Python LangGraph AI Engine
+- PMP Knowledge Base (file system)
 
-Sau bước này máy local sẽ sẵn sàng để:
+Sau khi hoàn thành:
 
-- chuẩn hóa tài liệu PMP
-- sinh câu hỏi
-- chạy web app nội bộ
+SYSTEM = FULLY READY FOR AI WORKFLOW EXECUTION
 
 ---
 
-## Thành phần cần cài
+## 1. Kiến trúc hệ thống (Windows 11 + Docker Desktop)
 
-Hệ thống cần:
-
-- Docker Desktop
-- Ollama
-- Node.js
-- npm
-- Qwen3.5 model
-
----
-
-## Kiến trúc local
-
-```diagram
-    Windows
-       ↓
-    Docker Desktop
-       ↓
-    Ollama
-       ↓
-    Qwen3.5
-       ↓
-    PMP Knowledge Base
-```
+Windows 11 Host
+        ↓
+WSL2 Backend (Docker Desktop)
+        ↓
+Ollama Container / Service
+        ↓
+Qwen3.5 Model Runtime
+        ↓
+Python LangGraph Engine (Host or WSL2)
+        ↓
+AI Workflow Nodes
+        ↓
+PMP Knowledge Base (Local Disk)
 
 ---
 
-## Bước 1 — Cài Docker Desktop
+## 2. Yêu cầu hệ thống (Windows 11)
 
-Tải Docker Desktop:
+### Bắt buộc
 
-    https://www.docker.com/products/docker-desktop
-
-Sau khi cài:
-
-Mở terminal kiểm tra:
-
-    docker --version
-
-Kết quả ví dụ:
-
-    Docker version 27.x.x
-
-Nếu thấy version:
-
-✅ Docker đã cài thành công
-
----
-
-## Bước 2 — Cài Ollama
-
-Tải Ollama:
-
-    https://ollama.com
-
-Kiểm tra:
-
-    ollama --version
-
-Ví dụ:
-
-    ollama version 0.xx.x
-
-Nếu thấy version:
-
-✅ Ollama hoạt động
-
----
-
-## Bước 3 — Kiểm tra Node.js
-
-OpenCode cần Node.js.
-
-Kiểm tra:
-
-    node --version
-
-Ví dụ:
-
-    v20.x.x
-
-Kiểm tra npm:
-
-    npm --version
-
-Ví dụ:
-
-    10.x.x
-
-Nếu chưa có:
-
-Tải Node.js:
-
-    https://nodejs.org
-
----
-
-## Bước 4 — Cài OpenCode
-
-OpenCode là coding agent giúp:
-
-- đọc folder
-- phân tích markdown
-- hỗ trợ generate nội dung
-- hỗ trợ phát triển web app
-
-Cài:
-
-    npm install -g opencode-ai
-
-Kiểm tra:
-
-    opencode --version
-
-Nếu thấy version:
-
-✅ OpenCode sẵn sàng
-
----
-
-## Bước 5 — Tải model Qwen3.5
-
-Khuyến nghị cho máy 16GB RAM:
-
-    ollama pull qwen3.5:9b
-
-Máy yếu hơn:
-
-    ollama pull qwen3.5:4b
-
-Kiểm tra:
-
-    ollama list
-
-Ví dụ:
-
-    NAME          SIZE
-    qwen3.5:9b    6.6 GB
-
----
-
-## Bước 6 — Chạy test model
-
-Chạy:
-
-    ollama run qwen3.5:9b
-
-Test prompt:
-
-    Explain the purpose of PMP knowledge management.
-
-Nếu model trả lời:
-
-✅ Model hoạt động
-
----
-
-## Bước 7 — Dừng model
-
-Thoát chat:
-
-    Ctrl + D
-
-Hoặc:
-
-    /bye
-
-Sau đó dừng:
-
-    ollama stop qwen3.5:9b
-
-Kiểm tra:
-
-    ollama ps
-
-Nếu hiện:
-
-    No models loaded
-
-=> model đã giải phóng RAM
-
----
-
-## Bước 8 — Cấu hình đường dẫn Knowledge Base
-
-Tạo file:
-
-    PMP_AI_SYSTEM/config/system.json
-
-Nội dung:
-
-    {
-      "knowledge_base_path": "D:/MyProjects/learning/PMP Exam Prep Certification Training Specialization"
-    }
-
-Ý nghĩa:
-
-Hệ thống sẽ đọc dữ liệu từ project tri thức.
-
----
-
-## Bước 9 — Mount dữ liệu bằng Docker
-
-Ví dụ chạy container:
-
-    docker run -it ^
-    -v "D:/MyProjects/learning/PMP Exam Prep Certification Training Specialization:/data" ^
-    pmp-ai
-
-Ý nghĩa:
-
-    local folder  --->  container /data
-
-Ưu điểm:
-
-- dữ liệu không mất
-- dễ backup
-- dễ deploy
-
----
-
-## Bước 10 — Kiểm tra toàn bộ
-
-Kiểm tra từng phần:
-
-Docker:
-
-    docker --version
-
-Ollama:
-
-    ollama --version
-
-Model:
-
-    ollama list
-
-Agent:
-
-    opencode --version
-
-Nếu tất cả OK:
-
-✅ môi trường local hoàn chỉnh
-
----
-
-## Khuyến nghị cấu hình máy
-
-### Tối thiểu
-
-- RAM 16GB
-- CPU 6 cores
-- SSD 50GB trống
+- Windows 11 64-bit
+- Virtualization enabled (BIOS)
+- WSL2 installed
+- Docker Desktop enabled WSL2 backend
 
 ### Khuyến nghị
 
-- RAM 32GB
-- CPU 8 cores+
+- RAM: 16GB+
+- CPU: 6 cores+
 - SSD NVMe
 
 ---
 
-## Cấu trúc sau khi setup
+## 3. Bước 1 — Cài WSL2 (QUAN TRỌNG)
 
-```diagram
-    PMP_AI_SYSTEM/
-    ├── 01_Setup/
-    ├── config/
-    └── docker/
-```
+Run PowerShell (Admin):
+
+wsl --install
+
+Check:
+
+wsl -l -v
+
+Expected:
+
+VERSION = 2
 
 ---
 
-## Kết quả sau module này
+## 4. Bước 2 — Cài Docker Desktop (Windows 11)
 
-Sau khi hoàn thành:
+Download:
 
-Bạn sẽ có:
+https://www.docker.com/products/docker-desktop/
 
-- local AI chạy được
-- model hoạt động
-- đọc được knowledge base
-- sẵn sàng chuẩn hóa dữ liệu
+Settings bắt buộc:
+
+- Enable WSL2 backend
+- Enable integration with Ubuntu (WSL)
+
+Check:
+
+docker --version
+
+---
+
+## 5. Bước 3 — Cài Ollama (Windows)
+
+Download:
+
+https://ollama.com
+
+Check:
+
+ollama --version
+
+Pull model:
+
+ollama pull qwen3.5:9b
+
+Test:
+
+ollama run qwen3.5:9b
+
+---
+
+## 6. Bước 4 — Cài Python AI Engine (Host hoặc WSL2)
+
+Check:
+
+python --version
+
+Install:
+
+pip install langgraph fastapi pydantic
+
+---
+
+## 7. Bước 5 — LangGraph Workflow Engine
+
+Pipeline:
+
+Loader Node → Analyzer Node → Standardization Node → Enrichment Node → Validation Node → File Writer Node
+
+---
+
+## STATE MODEL
+
+STATE = {
+  file_path,
+  raw_content,
+  analysis_result,
+  generated_content,
+  validation_status,
+  output_path,
+  retry_count
+}
+
+---
+
+## 8. Bước 6 — Knowledge Base Config
+
+PMP_AI_SYSTEM/config/system.json
+
+{
+  "knowledge_base_path": "D:/MyProjects/learning/PMP Exam Prep Certification Training Specialization"
+}
+
+---
+
+## 9. Bước 7 — Docker Mount (Windows 11 chuẩn)
+
+PowerShell / CMD:
+
+docker run -it `
+  -v "D:\MyProjects\learning\PMP Exam Prep Certification Training Specialization:/data" `
+  pmp-ai
+
+NOTE:
+- dùng \ (Windows)
+- hoặc / trong WSL2
+
+---
+
+## 10. Bước 8 — System Verification
+
+docker --version
+ollama --version
+ollama list
+python --version
+python -c "import langgraph"
+
+---
+
+## SYSTEM STATUS CHECK
+
+Docker Desktop = READY
+WSL2 = READY
+Ollama = READY
+Qwen3.5 = READY
+Python Engine = READY
+LangGraph = READY
+Knowledge Base = READY
+
+SYSTEM STATUS = FULLY OPERATIONAL
+
+---
+
+## Runtime Architecture
+
+Qwen3.5 (Ollama)
+        ↓
+LangGraph Workflow Engine
+        ↓
+State Management Layer
+        ↓
+File Tool Layer (Read/Write)
+        ↓
+PMP Knowledge Base
+
+---
+
+## Kết quả sau setup
+
+- AI local chạy trên Windows 11
+- Docker Desktop backend ổn định
+- LLM runtime ready
+- LangGraph workflow engine active
+- file-based knowledge system connected
 
 ---
 
 ## Bước tiếp theo
 
-Tiếp tục:
+02_Content_Standardization/
 
-    ../02_Content_Standardization/README.md
-
-để bắt đầu:
-
-- cho AI đọc dữ liệu khóa học
-- chuẩn hóa nội dung
-- làm giàu tri thức
+- run LangGraph pipeline
+- process PMP markdown files
+- build concept library
+- generate exam questions
 
 ---
 
-## Ghi chú
+## Ghi chú quan trọng
 
-Luôn nhớ:
+Hệ thống này yêu cầu:
 
-Khi không dùng:
+- WSL2 backend (bắt buộc)
+- Docker Desktop integration
+- Python LangGraph runtime
 
-    ollama stop qwen3.5:9b
-
-Điều này giúp:
-
-- giải phóng RAM
-- giảm CPU
-- tránh model chạy nền
+Nếu thiếu WSL2 → Docker + AI pipeline sẽ không hoạt động đúng

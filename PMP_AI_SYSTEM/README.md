@@ -228,10 +228,10 @@ Ví dụ mount dữ liệu:
 
 Ưu điểm:
 
-- không mất dữ liệu  
-- dễ backup  
-- dễ deploy  
-- không sửa code khi đổi server  
+- Không mất dữ liệu  
+- Dễ backup  
+- Dễ deploy  
+- Không sửa code khi đổi server  
 
 ---
 

@@ -4,12 +4,12 @@
 
 Module này dùng để:
 
-- đọc toàn bộ nội dung khóa học PMP
-- loại bỏ nội dung trùng lặp
-- chuẩn hóa cấu trúc markdown
-- bổ sung phần còn thiếu
-- chuyển nội dung sang song ngữ
-- tạo nền dữ liệu sạch cho hệ thống học và thi
+- Đọc toàn bộ nội dung khóa học PMP
+- Loại bỏ nội dung trùng lặp
+- Chuẩn hóa cấu trúc markdown
+- Bổ sung phần còn thiếu
+- Chuyển nội dung sang song ngữ
+- Tạo nền dữ liệu sạch cho hệ thống học và thi
 
 Sau bước này:
 
@@ -109,19 +109,33 @@ Chạy:
 
 Prompt:
 
-    You are a PMP knowledge architect.
+```prompt
 
-    Analyze this PMP learning folder.
+	You are a PMP knowledge architect.
 
-    Understand:
-    - course files
-    - master mindmap
-    - duplicated topics
-    - missing topics
-    - weak explanations
+	Review this PMP learning folder.
 
-    Do not rewrite yet.
-    Only explain what should be standardized first.
+	Analyze only the existing files.
+
+	Identify:
+	- duplicate topics
+	- missing concepts
+	- weak explanations
+	- inconsistent structure
+	- files that should be standardized first
+
+	Important:
+	- use only the current course files
+	- preserve PMI terminology
+	- do not rewrite content yet
+	- do not create new content yet
+
+	Return:
+	1. File name
+	2. Issue found
+	3. Why it matters
+	4. Priority (High / Medium / Low)
+```
 
 Mục tiêu:
 

@@ -156,20 +156,25 @@ Ví dụ file:
 
 Prompt:
 
-    Rewrite this file into a cleaner PMP study format.
+```prompt
+Standardize this PMP lesson into a cleaner study format.
 
-    Requirements:
-    - remove duplicate ideas
-    - simplify English
-    - add Vietnamese explanation
-    - preserve PMI terminology
-    - improve readability
+Requirements:
+- remove duplicate ideas
+- simplify difficult English
+- add Vietnamese explanation
+- preserve PMI terminology
+- preserve the original meaning
+- improve readability
+- do not invent new concepts
 
-    Output:
-    1. Concept
-    2. Simple explanation
-    3. Vietnamese meaning
-    4. Key takeaway
+Output:
+1. Concept
+2. Simple explanation
+3. Vietnamese meaning
+4. PMI exam note
+5. Key takeaway
+```
 
 ---
 

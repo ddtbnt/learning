@@ -105,112 +105,208 @@ Chạy:
 
 ---
 
-## Bước 3 — Cho AI hiểu cấu trúc dữ liệu
+## Bước 3 — Cho AI hiểu cấu trúc dữ liệu trước
 
-Prompt:
+### Mục tiêu của bước này
 
-```prompt
+Bước này giúp AI:
 
-	You are a PMP knowledge architect.
-
-	Review this PMP learning folder.
-
-	Analyze only the existing files.
-
-	Identify:
-	- duplicate topics
-	- missing concepts
-	- weak explanations
-	- inconsistent structure
-	- files that should be standardized first
-
-	Important:
-	- use only the current course files
-	- preserve PMI terminology
-	- do not rewrite content yet
-	- do not create new content yet
-
-	Return:
-	1. File name
-	2. Issue found
-	3. Why it matters
-	4. Priority (High / Medium / Low)
-```
-
-Mục tiêu:
-
-AI xác định:
-
-- file trùng
-- file thiếu
-- file yếu
-- thứ tự xử lý
+- Hiểu cách tổ chức của Knowledge Base
+- Xác định thư mục nào là nguồn dữ liệu gốc
+- Xác định thứ tự chuẩn hóa phù hợp
+- Phát hiện phần có thể bị trùng
+- Xác định phần còn thiếu ở mức cấu trúc
 
 ---
 
-## Bước 4 — Chuẩn hóa từng file
+### Lưu ý quan trọng
 
-Ví dụ file:
+Qwen3.5 chạy bằng:
+
+    ollama run qwen3.5:9b
+
+sẽ không tự đọc ổ đĩa, vì vậy bạn cần:
+
+- Copy cây thư mục
+- Dán vào prompt
+- Để AI phân tích
+
+---
+
+### Prompt dùng cho bước 3
+
+```prompt
+
+    You are a PMP knowledge architect.
+
+    Review the PMP folder structure below.
+
+    Understand:
+    - purpose of each folder
+    - possible duplicate sections
+    - missing learning sections
+    - weak organization
+    - recommended processing order
+
+    Important:
+    - analyze structure only
+    - do not analyze file content yet
+    - preserve PMI terminology
+    - do not rewrite anything
+
+    Return:
+    1. Folder or file group
+    2. Issue found
+    3. Why it matters
+    4. Priority (High / Medium / Low)
+
+    Folder structure:
+    PMP/
+    ├── 0_MASTER_MINDMAP/
+    ├── 1_COURSES/
+    ├── 2_CONCEPTS_LIBRARY/
+    ├── 3_PMI_MINDSET/
+    ├── 4_EXAM_PRACTICE/
+    └── 5_REVISION/
+```
+---
+
+### Kết quả mong muốn
+
+AI sẽ xác định:
+
+- Thư mục nào là nguồn dữ liệu gốc
+- Thư mục nào đang trùng vai trò
+- Thư mục nào còn thiếu
+- Nên chuẩn hóa từ đâu trước
+
+Ví dụ thường là:
+
+- Bắt đầu từ `1_COURSES`
+- Sau đó ghi vào `2_CONCEPTS_LIBRARY`
+
+---
+
+## Bước 4 — Chuẩn hóa từng file riêng lẻ
+
+Sau khi AI hiểu cấu trúc,
+bạn mới bắt đầu chuẩn hóa từng file.
+
+Ví dụ file đầu tiên:
 
     1_COURSES/Course_1_Principles.md
 
-Prompt:
+---
 
-```prompt
-Standardize this PMP lesson into a cleaner study format.
+### Lưu ý quan trọng
 
-Requirements:
-- remove duplicate ideas
-- simplify difficult English
-- add Vietnamese explanation
-- preserve PMI terminology
-- preserve the original meaning
-- improve readability
-- do not invent new concepts
+Bạn cần:
 
-Output:
-1. Concept
-2. Simple explanation
-3. Vietnamese meaning
-4. PMI exam note
-5. Key takeaway
-```
+- Mở file
+- Copy nội dung
+- Dán vào prompt
+
+vì model không tự mở file
+
+---
+
+### Prompt chuẩn hóa file
+
+    You are a PMP knowledge architect.
+
+    Standardize the PMP lesson below into a cleaner study format.
+
+    Requirements:
+    - remove duplicate ideas
+    - simplify difficult English
+    - add Vietnamese explanation
+    - preserve PMI terminology
+    - preserve original meaning
+    - improve readability
+    - do not invent new concepts
+    - do not change PMI intent
+
+    Output format:
+    1. Concept
+    2. Simple explanation
+    3. Vietnamese meaning
+    4. PMI exam note
+    5. Key takeaway
+
+    Lesson content:
+    [PASTE FILE CONTENT HERE]
+
+---
+
+### Mục tiêu bước 4
+
+AI sẽ:
+
+- Làm nội dung dễ hiểu hơn
+- Giữ đúng thuật ngữ PMI
+- Song ngữ hóa
+- Bỏ nội dung lặp
+- Giữ nguyên ý nghĩa gốc
 
 ---
 
 ## Bước 5 — Lưu file chuẩn hóa
 
-Ví dụ lưu:
+Sau khi AI trả kết quả,
+lưu thành file mới trong:
+
+    2_CONCEPTS_LIBRARY/
+
+Ví dụ:
 
     2_CONCEPTS_LIBRARY/01_Fundamentals/project_lifecycle.md
 
-Mỗi concept:
+---
 
-- 1 file riêng
-- dễ tái sử dụng
-- dễ tìm kiếm
+### Nguyên tắc lưu file
+
+- Mỗi concept = 1 file
+- Dễ bảo trì
+- Dễ tra cứu
+- Dễ tái sử dụng
+- Dễ sinh câu hỏi sau này
 
 ---
 
-## Cấu trúc file chuẩn
+### Ví dụ luồng đúng
 
-Mẫu:
-
-    # Project Lifecycle
-
-    ## Definition
-    English explanation
-
-    ## Giải thích
-    Vietnamese explanation
-
-    ## PMI mindset
-    Important exam logic
-
-    ## Key takeaway
-    Important note
+    Folder structure
+        ↓
+    Analyze structure
+        ↓
+    Select source file
+        ↓
+    Standardize content
+        ↓
+    Save into concept library
 
 ---
+
+### Vì sao phải tách riêng
+
+#### Bước 3
+
+AI hiểu:
+
+    cấu trúc hệ thống
+
+#### Bước 4
+
+AI hiểu:
+
+    nội dung chi tiết
+
+Tách như vậy giúp:
+
+- Chính xác hơn
+- Ít mất context
+- Ít lỗi hơn
+- Phù hợp với Qwen3.5:9b hơn
 
 ## Bước 6 — Tìm phần còn thiếu
 

@@ -32,6 +32,7 @@ Hệ thống cần:
 
 ## Kiến trúc local
 
+```diagram
     Windows
        ↓
     Docker Desktop
@@ -41,6 +42,7 @@ Hệ thống cần:
     Qwen3.5
        ↓
     PMP Knowledge Base
+```
 
 ---
 
